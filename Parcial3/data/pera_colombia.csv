@@ -1,0 +1,3675 @@
+# PERA v1
+K;consumo_km_gal;40.0
+K;precio_gal;15886
+K;velocidad_kmh;55
+C;05001;Medellín;Antioquia;6.25020;-75.56758;1
+C;05002;Abejorral;Antioquia;5.78943;-75.42867;1
+C;05004;Abriaquí;Antioquia;6.63237;-76.06421;1
+C;05021;Alejandría;Antioquia;6.37593;-75.14145;1
+C;05030;Amagá;Antioquia;6.03885;-75.70216;1
+C;05031;Amalfi;Antioquia;6.90960;-75.07746;1
+C;05034;Andes;Antioquia;5.65717;-75.87877;1
+C;05036;Angelópolis;Antioquia;6.10968;-75.71132;1
+C;05038;Angostura;Antioquia;6.88514;-75.33514;1
+C;05040;Anorí;Antioquia;7.07473;-75.14844;1
+C;05042;Santa Fé de Antioquia;Antioquia;6.55655;-75.82670;1
+C;05044;Anzá;Antioquia;6.30271;-75.85439;1
+C;05045;Apartadó;Antioquia;7.88307;-76.62527;1
+C;05051;Arboletes;Antioquia;8.84936;-76.42685;1
+C;05055;Argelia (Antioquia);Antioquia;5.73158;-75.14104;1
+C;05059;Armenia;Antioquia;6.15591;-75.78666;1
+C;05079;Barbosa (Antioquia);Antioquia;6.43923;-75.33167;1
+C;05086;Belmira;Antioquia;6.60622;-75.66774;1
+C;05088;Bello;Antioquia;6.33359;-75.55531;1
+C;05091;Betania;Antioquia;5.74598;-75.97672;1
+C;05093;Betulia (Antioquia);Antioquia;6.11518;-75.98455;1
+C;05101;Ciudad Bolívar;Antioquia;5.85026;-76.02147;1
+C;05107;Briceño (Antioquia);Antioquia;7.11276;-75.55033;1
+C;05113;Buriticá;Antioquia;6.72069;-75.90708;1
+C;05120;Cáceres;Antioquia;7.57829;-75.35190;1
+C;05125;Caicedo;Antioquia;6.40551;-75.98281;1
+C;05129;Caldas (Antioquia);Antioquia;6.09096;-75.63370;1
+C;05134;Campamento;Antioquia;6.97982;-75.29796;1
+C;05138;Cañasgordas;Antioquia;6.75403;-76.02829;1
+C;05142;Caracolí;Antioquia;6.40986;-74.75733;1
+C;05145;Caramanta;Antioquia;5.54841;-75.64390;1
+C;05147;Carepa;Antioquia;7.75513;-76.65267;1
+C;05148;El Carmen de Viboral;Antioquia;6.08288;-75.33390;1
+C;05150;Carolina;Antioquia;6.72603;-75.28308;1
+C;05154;Caucasia;Antioquia;7.97715;-75.19773;1
+C;05172;Chigorodó;Antioquia;7.66609;-76.68157;1
+C;05190;Cisneros;Antioquia;6.53779;-75.08699;1
+C;05197;Cocorná;Antioquia;6.05823;-75.18548;1
+C;05206;Concepción (Antioquia);Antioquia;6.39429;-75.25749;1
+C;05209;Concordia (Antioquia);Antioquia;6.04581;-75.90860;1
+C;05212;Copacabana;Antioquia;6.34869;-75.50920;1
+C;05234;Dabeiba;Antioquia;6.99806;-76.26151;1
+C;05237;Donmatías;Antioquia;6.48553;-75.39253;1
+C;05240;Ebéjico;Antioquia;6.32570;-75.76651;1
+C;05250;El Bagre;Antioquia;7.59748;-74.79917;1
+C;05264;Entrerríos;Antioquia;6.56630;-75.51763;1
+C;05266;Envigado;Antioquia;6.16670;-75.58209;1
+C;05282;Fredonia;Antioquia;5.92807;-75.67506;1
+C;05284;Frontino;Antioquia;6.77607;-76.13081;1
+C;05306;Giraldo;Antioquia;6.68087;-75.95220;1
+C;05308;Girardota;Antioquia;6.37941;-75.44417;1
+C;05310;Gómez Plata;Antioquia;6.68330;-75.22017;1
+C;05313;Granada (Antioquia);Antioquia;6.14283;-75.18445;1
+C;05315;Guadalupe (Antioquia);Antioquia;6.81497;-75.23990;1
+C;05318;Guarne;Antioquia;6.27794;-75.44168;1
+C;05321;Guatapé;Antioquia;6.23234;-75.16042;1
+C;05347;Heliconia;Antioquia;6.20676;-75.73430;1
+C;05353;Hispania;Antioquia;5.79950;-75.90666;1
+C;05360;Itagüí;Antioquia;6.17507;-75.61206;1
+C;05361;Ituango;Antioquia;7.17170;-75.76478;1
+C;05364;Jardín;Antioquia;5.59755;-75.81896;1
+C;05368;Jericó (Antioquia);Antioquia;5.78965;-75.78557;1
+C;05376;La Ceja;Antioquia;6.02807;-75.42946;1
+C;05380;La Estrella;Antioquia;6.14508;-75.63766;1
+C;05390;La Pintada;Antioquia;5.74384;-75.60786;1
+C;05400;La Unión (Antioquia);Antioquia;5.97381;-75.36057;1
+C;05411;Liborina;Antioquia;6.67746;-75.81278;1
+C;05425;Maceo;Antioquia;6.55199;-74.78705;1
+C;05440;Marinilla;Antioquia;6.17399;-75.33928;1
+C;05467;Montebello;Antioquia;5.94635;-75.52361;1
+C;05480;Mutatá;Antioquia;7.24290;-76.43586;1
+C;05483;Nariño (Antioquia);Antioquia;5.61077;-75.17624;1
+C;05490;Necoclí;Antioquia;8.43449;-76.78732;1
+C;05495;Nechí;Antioquia;8.09412;-74.77663;1
+C;05501;Olaya;Antioquia;6.62643;-75.81176;1
+C;05541;Peñol;Antioquia;6.21936;-75.24260;1
+C;05543;Peque;Antioquia;7.02096;-75.91031;1
+C;05576;Pueblorrico;Antioquia;5.79148;-75.83997;1
+C;05579;Puerto Berrío;Antioquia;6.48697;-74.41004;1
+C;05585;Puerto Nare;Antioquia;6.18593;-74.58308;1
+C;05591;Puerto Triunfo;Antioquia;5.87123;-74.64127;1
+C;05604;Remedios;Antioquia;7.02941;-74.69816;1
+C;05607;Retiro;Antioquia;6.06261;-75.50129;1
+C;05615;Rionegro (Antioquia);Antioquia;6.14705;-75.37744;1
+C;05628;Sabanalarga (Antioquia);Antioquia;6.84993;-75.81661;1
+C;05631;Sabaneta;Antioquia;6.15002;-75.61539;1
+C;05642;Salgar;Antioquia;5.96423;-75.97695;1
+C;05647;San Andrés de Cuerquía;Antioquia;6.91663;-75.67460;1
+C;05649;San Carlos (Antioquia);Antioquia;6.18774;-74.98822;1
+C;05652;San Francisco (Antioquia);Antioquia;5.96346;-75.10160;1
+C;05656;San Jerónimo;Antioquia;6.44816;-75.72702;1
+C;05658;San José de la Montaña;Antioquia;6.85008;-75.68336;1
+C;05659;San Juan de Urabá;Antioquia;8.75926;-76.52845;1
+C;05660;San Luis (Antioquia);Antioquia;6.04309;-74.99366;1
+C;05664;San Pedro de los Milagros;Antioquia;6.46005;-75.55675;1
+C;05665;San Pedro de Urabá;Antioquia;8.27691;-76.38062;1
+C;05667;San Rafael;Antioquia;6.29378;-75.02826;1
+C;05670;San Roque;Antioquia;6.48592;-75.01911;1
+C;05674;San Vicente Ferrer;Antioquia;6.28226;-75.33271;1
+C;05679;Santa Bárbara (Antioquia);Antioquia;5.87570;-75.56743;1
+C;05686;Santa Rosa de Osos;Antioquia;6.64336;-75.46072;1
+C;05690;Santo Domingo;Antioquia;6.47314;-75.16496;1
+C;05697;El Santuario;Antioquia;6.13697;-75.26551;1
+C;05736;Segovia;Antioquia;7.07969;-74.70155;1
+C;05756;Sonsón;Antioquia;5.71491;-75.30964;1
+C;05761;Sopetrán;Antioquia;6.50075;-75.74739;1
+C;05789;Támesis;Antioquia;5.66468;-75.71443;1
+C;05790;Tarazá;Antioquia;7.58015;-75.40144;1
+C;05792;Tarso;Antioquia;5.86459;-75.82296;1
+C;05809;Titiribí;Antioquia;6.06239;-75.79194;1
+C;05819;Toledo (Antioquia);Antioquia;7.01030;-75.69234;1
+C;05837;Turbo;Antioquia;8.08988;-76.72890;1
+C;05842;Uramita;Antioquia;6.89833;-76.17322;1
+C;05847;Urrao;Antioquia;6.31740;-76.13404;1
+C;05854;Valdivia;Antioquia;7.16518;-75.43921;1
+C;05856;Valparaíso (Antioquia);Antioquia;5.61464;-75.62447;1
+C;05858;Vegachí;Antioquia;6.77349;-74.79867;1
+C;05861;Venecia (Antioquia);Antioquia;5.96477;-75.73564;1
+C;05885;Yalí;Antioquia;6.67645;-74.84005;1
+C;05887;Yarumal;Antioquia;6.96389;-75.41896;1
+C;05890;Yolombó;Antioquia;6.59453;-75.01339;1
+C;05893;Yondó;Antioquia;7.00396;-73.91251;1
+C;05895;Zaragoza;Antioquia;7.48843;-74.86713;1
+C;08001;Barranquilla;Atlántico;10.98333;-74.80194;1
+C;08078;Baranoa;Atlántico;10.79454;-74.91618;1
+C;08137;Campo de la Cruz;Atlántico;10.37848;-74.88036;1
+C;08141;Candelaria (Atlántico);Atlántico;10.46183;-74.87971;1
+C;08296;Galapa;Atlántico;10.91895;-74.87047;1
+C;08372;Juan de Acosta;Atlántico;10.83253;-75.04098;1
+C;08421;Luruaco;Atlántico;10.61045;-75.14204;1
+C;08433;Malambo;Atlántico;10.85737;-74.77695;1
+C;08436;Manatí;Atlántico;10.44925;-74.95675;1
+C;08520;Palmar de Varela;Atlántico;10.73862;-74.75466;1
+C;08549;Piojó;Atlántico;10.74925;-75.10767;1
+C;08558;Polonuevo;Atlántico;10.77732;-74.85316;1
+C;08560;Ponedera;Atlántico;10.64189;-74.75382;1
+C;08573;Puerto Colombia;Atlántico;11.01530;-74.88900;1
+C;08606;Repelón;Atlántico;10.49335;-75.12557;1
+C;08634;Sabanagrande;Atlántico;10.79247;-74.75949;1
+C;08638;Sabanalarga (Atlántico);Atlántico;10.63208;-74.92126;1
+C;08675;Santa Lucía;Atlántico;10.32411;-74.95871;1
+C;08685;Santo Tomás;Atlántico;10.75875;-74.75778;1
+C;08758;Soledad;Atlántico;10.90993;-74.78606;1
+C;08770;Suan;Atlántico;10.33538;-74.88182;1
+C;08832;Tubará;Atlántico;10.87339;-74.97873;1
+C;08849;Usiacurí;Atlántico;10.74313;-74.97697;1
+C;11001;Bogotá D.C.;Bogotá D.C.;4.60971;-74.08175;1
+C;13001;Cartagena;Bolívar;10.42361;-75.52528;1
+C;13006;Achí;Bolívar;8.57009;-74.55773;1
+C;13030;Altos del Rosario;Bolívar;8.79188;-74.16489;1
+C;13042;Arenal;Bolívar;8.45805;-73.94120;1
+C;13052;Arjona;Bolívar;10.25672;-75.34438;1
+C;13062;Arroyohondo;Bolívar;10.25034;-75.01922;1
+C;13074;Barranco de Loba;Bolívar;8.94784;-74.10427;1
+C;13140;Calamar (Bolívar);Bolívar;10.25046;-74.91630;1
+C;13160;Cantagallo;Bolívar;7.37873;-73.91456;1
+C;13188;Cicuco;Bolívar;9.27426;-74.64602;1
+C;13212;Córdoba (Bolívar);Bolívar;9.58703;-74.82744;1
+C;13222;Clemencia;Bolívar;10.56748;-75.32844;1
+C;13244;El Carmen de Bolívar;Bolívar;9.71855;-75.12113;1
+C;13248;El Guamo;Bolívar;10.03096;-74.97609;1
+C;13268;El Peñón (Bolívar);Bolívar;8.98900;-73.94842;1
+C;13300;Hatillo de Loba;Bolívar;8.95591;-74.07794;1
+C;13430;Magangué;Bolívar;9.26382;-74.76672;1
+C;13433;Mahates;Bolívar;10.23338;-75.19164;1
+C;13440;Margarita;Bolívar;9.15800;-74.28503;1
+C;13442;María la Baja;Bolívar;9.98241;-75.30045;1
+C;13458;Montecristo;Bolívar;8.29725;-74.47116;1
+C;13468;Mompox;Bolívar;9.24420;-74.42810;1
+C;13473;Morales (Bolívar);Bolívar;8.27649;-73.86813;1
+C;13490;Norosí;Bolívar;8.52636;-74.03808;1
+C;13549;Pinillos;Bolívar;8.91505;-74.46237;1
+C;13580;Regidor;Bolívar;8.66623;-73.82174;1
+C;13600;Río Viejo;Bolívar;8.58786;-73.84069;1
+C;13620;San Cristóbal;Bolívar;10.39273;-75.06503;1
+C;13647;San Estanislao;Bolívar;10.39853;-75.15313;1
+C;13650;San Fernando;Bolívar;9.21422;-74.32388;1
+C;13654;San Jacinto;Bolívar;9.83031;-75.12102;1
+C;13655;San Jacinto del Cauca;Bolívar;8.25169;-74.72123;1
+C;13657;San Juan Nepomuceno;Bolívar;9.95379;-75.08177;1
+C;13667;San Martín de Loba;Bolívar;8.93756;-74.03925;1
+C;13670;San Pablo (Bolívar);Bolívar;7.47690;-73.92452;1
+C;13673;Santa Catalina;Bolívar;10.60523;-75.28788;1
+C;13683;Santa Rosa (Bolívar);Bolívar;10.44442;-75.36985;1
+C;13688;Santa Rosa del Sur;Bolívar;7.96397;-74.05238;1
+C;13744;Simití;Bolívar;7.95388;-73.94731;1
+C;13760;Soplaviento;Bolívar;10.38834;-75.13635;1
+C;13780;Talaigua Nuevo;Bolívar;9.30405;-74.56749;1
+C;13810;Tiquisio;Bolívar;8.55854;-74.26298;1
+C;13836;Turbaco;Bolívar;10.34812;-75.42705;1
+C;13838;Turbana;Bolívar;10.27446;-75.44265;1
+C;13873;Villanueva (Bolívar);Bolívar;10.44405;-75.27580;1
+C;13894;Zambrano;Bolívar;9.74631;-74.81783;1
+C;15001;Tunja;Boyacá;5.54028;-73.36139;1
+C;15022;Almeida;Boyacá;4.97083;-73.37890;1
+C;15047;Aquitania;Boyacá;5.51861;-72.88396;1
+C;15051;Arcabuco;Boyacá;5.75585;-73.43761;1
+C;15087;Belén (Boyacá);Boyacá;5.98927;-72.91161;1
+C;15090;Berbeo;Boyacá;5.22748;-73.12723;1
+C;15092;Betéitiva;Boyacá;5.90994;-72.80893;1
+C;15097;Boavita;Boyacá;6.33064;-72.58489;1
+C;15104;Boyacá;Boyacá;5.45456;-73.36206;1
+C;15106;Briceño (Boyacá);Boyacá;5.69086;-73.92330;1
+C;15109;Buenavista (Boyacá);Boyacá;5.51249;-73.94223;1
+C;15114;Busbanzá;Boyacá;5.83142;-72.88424;1
+C;15131;Caldas (Boyacá);Boyacá;5.55452;-73.86547;1
+C;15135;Campohermoso;Boyacá;5.03171;-73.10412;1
+C;15162;Cerinza;Boyacá;5.95590;-72.94804;1
+C;15172;Chinavita;Boyacá;5.16760;-73.36850;1
+C;15176;Chiquinquirá;Boyacá;5.61373;-73.81863;1
+C;15180;Chiscas;Boyacá;6.55323;-72.50085;1
+C;15183;Chita;Boyacá;6.18714;-72.47185;1
+C;15185;Chitaraque;Boyacá;6.02744;-73.44718;1
+C;15187;Chivatá;Boyacá;5.55888;-73.28243;1
+C;15189;Ciénega;Boyacá;5.40863;-73.29616;1
+C;15204;Cómbita;Boyacá;5.63446;-73.32396;1
+C;15212;Coper;Boyacá;5.47507;-74.04561;1
+C;15215;Corrales;Boyacá;5.82800;-72.84488;1
+C;15218;Covarachía;Boyacá;6.50026;-72.73900;1
+C;15223;Cubará;Boyacá;6.99729;-72.10798;1
+C;15224;Cucaita;Boyacá;5.54439;-73.45443;1
+C;15226;Cuítiva;Boyacá;5.58020;-72.96586;1
+C;15232;Chíquiza;Boyacá;5.63955;-73.44937;1
+C;15236;Chivor;Boyacá;4.88818;-73.36854;1
+C;15238;Duitama;Boyacá;5.82293;-73.03057;1
+C;15244;El Cocuy;Boyacá;6.40778;-72.44453;1
+C;15248;El Espino;Boyacá;6.48298;-72.49705;1
+C;15272;Firavitoba;Boyacá;5.66871;-72.99340;1
+C;15276;Floresta;Boyacá;5.85943;-72.91812;1
+C;15293;Gachantivá;Boyacá;5.75192;-73.54915;1
+C;15296;Gámeza;Boyacá;5.80237;-72.80553;1
+C;15299;Garagoa;Boyacá;5.08328;-73.36439;1
+C;15317;Guacamayas;Boyacá;6.45959;-72.50088;1
+C;15322;Guateque;Boyacá;5.00732;-73.47126;1
+C;15325;Guayatá;Boyacá;4.96724;-73.48969;1
+C;15332;Güicán de la Sierra;Boyacá;6.46281;-72.41176;1
+C;15362;Iza;Boyacá;5.61159;-72.97955;1
+C;15367;Jenesano;Boyacá;5.38573;-73.36382;1
+C;15368;Jericó (Boyacá);Boyacá;6.14574;-72.57091;1
+C;15377;Labranzagrande;Boyacá;5.56264;-72.57773;1
+C;15380;La Capilla;Boyacá;5.09571;-73.44437;1
+C;15401;La Victoria (Boyacá);Boyacá;5.52348;-74.23478;1
+C;15403;La Uvita;Boyacá;6.31617;-72.56005;1
+C;15407;Villa de Leyva;Boyacá;5.63258;-73.52492;1
+C;15425;Macanal;Boyacá;4.97239;-73.31950;1
+C;15442;Maripí;Boyacá;5.55004;-74.00406;1
+C;15455;Miraflores (Boyacá);Boyacá;5.19650;-73.14564;1
+C;15464;Mongua;Boyacá;5.75427;-72.79809;1
+C;15466;Monguí;Boyacá;5.72348;-72.84920;1
+C;15469;Moniquirá;Boyacá;5.87628;-73.57339;1
+C;15476;Motavita;Boyacá;5.57782;-73.36787;1
+C;15480;Muzo;Boyacá;5.53280;-74.10269;1
+C;15491;Nobsa;Boyacá;5.76798;-72.93699;1
+C;15494;Nuevo Colón;Boyacá;5.35534;-73.45684;1
+C;15500;Oicatá;Boyacá;5.59518;-73.30846;1
+C;15507;Otanche;Boyacá;5.65769;-74.18099;1
+C;15511;Pachavita;Boyacá;5.14013;-73.39699;1
+C;15514;Páez (Boyacá);Boyacá;5.09737;-73.05273;1
+C;15516;Paipa;Boyacá;5.77993;-73.11793;1
+C;15518;Pajarito;Boyacá;5.29357;-72.70320;1
+C;15522;Panqueba;Boyacá;6.44347;-72.45947;1
+C;15531;Pauna;Boyacá;5.65634;-73.97844;1
+C;15533;Paya;Boyacá;5.62570;-72.42363;1
+C;15537;Paz de Río;Boyacá;5.98770;-72.74922;1
+C;15542;Pesca;Boyacá;5.55879;-73.05087;1
+C;15550;Pisba;Boyacá;5.72153;-72.48592;1
+C;15572;Puerto Boyacá;Boyacá;5.97655;-74.58761;1
+C;15580;Quípama;Boyacá;5.52074;-74.18021;1
+C;15599;Ramiriquí;Boyacá;5.40032;-73.33484;1
+C;15600;Ráquira;Boyacá;5.53911;-73.63257;1
+C;15621;Rondón;Boyacá;5.35726;-73.20847;1
+C;15632;Saboyá;Boyacá;5.69781;-73.76448;1
+C;15638;Sáchica;Boyacá;5.58426;-73.54251;1
+C;15646;Samacá;Boyacá;5.49212;-73.48560;1
+C;15660;San Eduardo;Boyacá;5.22405;-73.07781;1
+C;15664;San José de Pare;Boyacá;6.01900;-73.54550;1
+C;15667;San Luis de Gaceno;Boyacá;4.81978;-73.16806;1
+C;15673;San Mateo;Boyacá;6.40163;-72.55513;1
+C;15676;San Miguel de Sema;Boyacá;5.51807;-73.72214;1
+C;15681;San Pablo de Borbur;Boyacá;5.65062;-74.07007;1
+C;15686;Santana;Boyacá;6.05678;-73.48164;1
+C;15690;Santa María (Boyacá);Boyacá;4.85724;-73.26354;1
+C;15693;Santa Rosa de Viterbo;Boyacá;5.87455;-72.98242;1
+C;15696;Santa Sofía;Boyacá;5.71331;-73.60262;1
+C;15720;Sativanorte;Boyacá;6.13105;-72.70846;1
+C;15723;Sativasur;Boyacá;6.09328;-72.71247;1
+C;15740;Siachoque;Boyacá;5.51186;-73.24456;1
+C;15753;Soatá;Boyacá;6.33196;-72.68402;1
+C;15755;Socotá;Boyacá;6.04115;-72.63671;1
+C;15757;Socha;Boyacá;5.99676;-72.69182;1
+C;15759;Sogamoso;Boyacá;5.72397;-72.92430;1
+C;15761;Somondoco;Boyacá;4.98574;-73.43347;1
+C;15762;Sora;Boyacá;5.56669;-73.45026;1
+C;15763;Sotaquirá;Boyacá;5.76497;-73.24650;1
+C;15764;Soracá;Boyacá;5.50101;-73.33286;1
+C;15774;Susacón;Boyacá;6.23031;-72.69018;1
+C;15776;Sutamarchán;Boyacá;5.61984;-73.62055;1
+C;15778;Sutatenza;Boyacá;5.02299;-73.45235;1
+C;15790;Tasco;Boyacá;5.90988;-72.78109;1
+C;15798;Tenza;Boyacá;5.07676;-73.42128;1
+C;15804;Tibaná;Boyacá;5.31724;-73.39650;1
+C;15806;Tibasosa;Boyacá;5.74727;-72.99952;1
+C;15808;Tinjacá;Boyacá;5.57967;-73.64683;1
+C;15810;Tipacoque;Boyacá;6.41910;-72.69172;1
+C;15814;Toca;Boyacá;5.56646;-73.18488;1
+C;15816;Togüí;Boyacá;5.93737;-73.51368;1
+C;15820;Tópaga;Boyacá;5.76820;-72.83225;1
+C;15822;Tota;Boyacá;5.56043;-72.98590;1
+C;15832;Tununguá;Boyacá;5.73061;-73.93334;1
+C;15835;Turmequé;Boyacá;5.32315;-73.49177;1
+C;15837;Tuta;Boyacá;5.68914;-73.23035;1
+C;15839;Tutazá;Boyacá;6.03252;-72.85587;1
+C;15842;Úmbita;Boyacá;5.22121;-73.45692;1
+C;15861;Ventaquemada;Boyacá;5.36868;-73.52235;1
+C;15879;Viracachá;Boyacá;5.43675;-73.29681;1
+C;15897;Zetaquira;Boyacá;5.28344;-73.17097;1
+C;17001;Manizales;Caldas;5.06889;-75.51738;1
+C;17013;Aguadas;Caldas;5.61024;-75.45489;1
+C;17042;Anserma;Caldas;5.23637;-75.78434;1
+C;17050;Aranzazu;Caldas;5.27120;-75.49132;1
+C;17088;Belalcázar;Caldas;4.99396;-75.81196;1
+C;17174;Chinchiná;Caldas;4.98524;-75.60752;1
+C;17272;Filadelfia;Caldas;5.29715;-75.56238;1
+C;17380;La Dorada;Caldas;5.46086;-74.66887;1
+C;17388;La Merced;Caldas;5.39611;-75.54643;1
+C;17433;Manzanares;Caldas;5.25571;-75.15274;1
+C;17442;Marmato;Caldas;5.47429;-75.60015;1
+C;17444;Marquetalia;Caldas;5.29753;-75.05314;1
+C;17446;Marulanda;Caldas;5.28414;-75.25967;1
+C;17486;Neira;Caldas;5.16687;-75.52001;1
+C;17495;Norcasia;Caldas;5.57502;-74.88938;1
+C;17513;Pácora;Caldas;5.52719;-75.45955;1
+C;17524;Palestina (Caldas);Caldas;5.01779;-75.62465;1
+C;17541;Pensilvania;Caldas;5.38340;-75.16008;1
+C;17614;Riosucio (Caldas);Caldas;5.42366;-75.70215;1
+C;17616;Risaralda;Caldas;5.16466;-75.76720;1
+C;17653;Salamina (Caldas);Caldas;5.40310;-75.48735;1
+C;17662;Samaná;Caldas;5.41316;-74.99233;1
+C;17665;San José;Caldas;5.08243;-75.79203;1
+C;17777;Supía;Caldas;5.44680;-75.64966;1
+C;17867;Victoria;Caldas;5.31739;-74.91105;1
+C;17873;Villamaría;Caldas;5.03895;-75.50239;1
+C;17877;Viterbo;Caldas;5.06258;-75.87067;1
+C;18001;Florencia;Caquetá;1.61417;-75.61167;1
+C;18029;Albania (Caquetá);Caquetá;1.32844;-75.87838;1
+C;18094;Belén de los Andaquíes;Caquetá;1.41579;-75.87239;1
+C;18150;Cartagena del Chairá;Caquetá;1.33242;-74.84783;1
+C;18205;Curillo;Caquetá;1.03343;-75.91932;1
+C;18247;El Doncello;Caquetá;1.67996;-75.28373;1
+C;18256;El Paujíl;Caquetá;1.57029;-75.32613;1
+C;18410;La Montañita;Caquetá;1.47906;-75.43643;1
+C;18460;Milán;Caquetá;1.29032;-75.50701;1
+C;18479;Morelia;Caquetá;1.48650;-75.72413;1
+C;18592;Puerto Rico (Caquetá);Caquetá;1.90909;-75.15763;1
+C;18610;San José del Fragua;Caquetá;1.33030;-75.97376;1
+C;18753;San Vicente del Caguán;Caquetá;2.11959;-74.76763;1
+C;18756;Solano;Caquetá;0.69891;-75.25436;1
+C;18785;Solita;Caquetá;0.87686;-75.61958;1
+C;18860;Valparaíso (Caquetá);Caquetá;1.19457;-75.70687;1
+C;19001;Popayán;Cauca;2.45417;-76.60917;1
+C;19022;Almaguer;Cauca;1.91338;-76.85614;1
+C;19050;Argelia (Cauca);Cauca;2.25735;-77.24908;1
+C;19075;Balboa (Cauca);Cauca;2.04089;-77.21584;1
+C;19100;Bolívar (Cauca);Cauca;1.83747;-76.96632;1
+C;19110;Buenos Aires;Cauca;3.01554;-76.64218;1
+C;19130;Cajibío;Cauca;2.62336;-76.57066;1
+C;19137;Caldono;Cauca;2.79800;-76.48446;1
+C;19142;Caloto;Cauca;3.03453;-76.40892;1
+C;19212;Corinto;Cauca;3.17380;-76.26196;1
+C;19256;El Tambo (Cauca);Cauca;2.45147;-76.81100;1
+C;19290;Florencia;Cauca;1.68249;-77.07260;1
+C;19300;Guachené;Cauca;3.13417;-76.39232;1
+C;19355;Inzá;Cauca;2.54920;-76.06344;1
+C;19364;Jambaló;Cauca;2.77781;-76.32376;1
+C;19392;La Sierra;Cauca;2.17929;-76.76332;1
+C;19397;La Vega (Cauca);Cauca;2.00184;-76.77884;1
+C;19450;Mercaderes;Cauca;1.78925;-77.16438;1
+C;19455;Miranda;Cauca;3.25479;-76.22861;1
+C;19473;Morales (Cauca);Cauca;2.75476;-76.62912;1
+C;19513;Padilla;Cauca;3.22109;-76.31342;1
+C;19517;Páez (Cauca);Cauca;2.64567;-75.97066;1
+C;19532;Patía;Cauca;2.11578;-76.98110;1
+C;19533;Piamonte;Cauca;1.11763;-76.32765;1
+C;19548;Piendamó - Tunía;Cauca;2.64220;-76.52864;1
+C;19573;Puerto Tejada;Cauca;3.23319;-76.41773;1
+C;19585;Puracé;Cauca;2.34187;-76.49654;1
+C;19622;Rosas;Cauca;2.26087;-76.74045;1
+C;19693;San Sebastián;Cauca;1.83850;-76.76973;1
+C;19698;Santander de Quilichao;Cauca;3.01493;-76.48518;1
+C;19701;Santa Rosa (Cauca);Cauca;1.70107;-76.57327;1
+C;19743;Silvia;Cauca;2.61188;-76.37978;1
+C;19760;Sotará Paispamba;Cauca;2.25309;-76.61329;1
+C;19780;Suárez (Cauca);Cauca;2.95973;-76.69359;1
+C;19785;Sucre (Cauca);Cauca;2.03820;-76.92610;1
+C;19807;Timbío;Cauca;2.34979;-76.68447;1
+C;19821;Toribío;Cauca;2.95302;-76.27034;1
+C;19824;Totoró;Cauca;2.51026;-76.40375;1
+C;19845;Villa Rica;Cauca;3.17750;-76.45798;1
+C;20001;Valledupar;Cesar;10.46028;-73.25972;1
+C;20011;Aguachica;Cesar;8.30683;-73.61401;1
+C;20013;Agustín Codazzi;Cesar;10.04043;-73.23838;1
+C;20032;Astrea;Cesar;9.49798;-73.97583;1
+C;20045;Becerril;Cesar;9.70436;-73.27873;1
+C;20060;Bosconia;Cesar;9.97499;-73.88872;1
+C;20175;Chimichagua;Cesar;9.25875;-73.81321;1
+C;20178;Chiriguaná;Cesar;9.36102;-73.59991;1
+C;20228;Curumaní;Cesar;9.20171;-73.54087;1
+C;20238;El Copey;Cesar;10.14986;-73.96270;1
+C;20250;El Paso;Cesar;9.66845;-73.74196;1
+C;20295;Gamarra;Cesar;8.32465;-73.73761;1
+C;20310;González;Cesar;8.38943;-73.37992;1
+C;20383;La Gloria;Cesar;8.61919;-73.80338;1
+C;20400;La Jagua de Ibirico;Cesar;9.56372;-73.33408;1
+C;20443;Manaure Balcón del Cesar;Cesar;10.39081;-73.02949;1
+C;20517;Pailitas;Cesar;8.95934;-73.62576;1
+C;20550;Pelaya;Cesar;8.68941;-73.66675;1
+C;20570;Pueblo Bello;Cesar;10.41734;-73.58612;1
+C;20614;Río de Oro;Cesar;8.29231;-73.38643;1
+C;20621;La Paz (Cesar);Cesar;10.38753;-73.17140;1
+C;20710;San Alberto;Cesar;7.76105;-73.39388;1
+C;20750;San Diego;Cesar;10.33303;-73.18122;1
+C;20770;San Martín (Cesar);Cesar;7.99981;-73.51088;1
+C;20787;Tamalameque;Cesar;8.86172;-73.81213;1
+C;23001;Montería;Córdoba;8.76000;-75.88556;1
+C;23068;Ayapel;Córdoba;8.31393;-75.14607;1
+C;23079;Buenavista (Córdoba);Córdoba;8.22121;-75.48095;1
+C;23090;Canalete;Córdoba;8.78687;-76.24154;1
+C;23162;Cereté;Córdoba;8.88854;-75.79613;1
+C;23168;Chimá;Córdoba;9.14966;-75.62691;1
+C;23182;Chinú;Córdoba;9.10560;-75.39924;1
+C;23189;Ciénaga de Oro;Córdoba;8.87569;-75.62088;1
+C;23300;Cotorra;Córdoba;9.03714;-75.79927;1
+C;23350;La Apartada;Córdoba;8.05008;-75.33595;1
+C;23417;Lorica;Córdoba;9.24077;-75.81599;1
+C;23419;Los Córdobas;Córdoba;8.89204;-76.35513;1
+C;23464;Momil;Córdoba;9.24072;-75.67799;1
+C;23466;Montelíbano;Córdoba;7.97380;-75.41687;1
+C;23500;Moñitos;Córdoba;9.24534;-76.12910;1
+C;23555;Planeta Rica;Córdoba;8.40810;-75.58323;1
+C;23570;Pueblo Nuevo;Córdoba;8.50424;-75.50805;1
+C;23574;Puerto Escondido;Córdoba;9.00522;-76.26060;1
+C;23580;Puerto Libertador;Córdoba;7.88880;-75.67173;1
+C;23586;Purísima de la Concepción;Córdoba;9.23925;-75.72501;1
+C;23660;Sahagún;Córdoba;8.94301;-75.44588;1
+C;23670;San Andrés de Sotavento;Córdoba;9.14552;-75.50879;1
+C;23672;San Antero;Córdoba;9.37640;-75.76115;1
+C;23675;San Bernardo del Viento;Córdoba;9.35252;-75.95516;1
+C;23678;San Carlos (Córdoba);Córdoba;8.79930;-75.69886;1
+C;23682;San José de Uré;Córdoba;7.78739;-75.53352;1
+C;23686;San Pelayo;Córdoba;8.95851;-75.83561;1
+C;23807;Tierralta;Córdoba;8.17046;-76.06005;1
+C;23815;Tuchín;Córdoba;9.18652;-75.55402;1
+C;23855;Valencia;Córdoba;8.25502;-76.15071;1
+C;25001;Agua de Dios;Cundinamarca;4.37538;-74.66919;1
+C;25019;Albán (Cundinamarca);Cundinamarca;4.87806;-74.43835;1
+C;25035;Anapoima;Cundinamarca;4.56279;-74.52868;1
+C;25040;Anolaima;Cundinamarca;4.76165;-74.46370;1
+C;25053;Arbeláez;Cundinamarca;4.27250;-74.41488;1
+C;25086;Beltrán;Cundinamarca;4.80278;-74.74163;1
+C;25095;Bituima;Cundinamarca;4.87219;-74.53971;1
+C;25099;Bojacá;Cundinamarca;4.73721;-74.34455;1
+C;25120;Cabrera (Cundinamarca);Cundinamarca;3.98546;-74.48476;1
+C;25123;Cachipay;Cundinamarca;4.73089;-74.43569;1
+C;25126;Cajicá;Cundinamarca;4.92010;-74.02305;1
+C;25148;Caparrapí;Cundinamarca;5.34745;-74.49112;1
+C;25151;Cáqueza;Cundinamarca;4.40414;-73.94650;1
+C;25154;Carmen de Carupa;Cundinamarca;5.34910;-73.90138;1
+C;25168;Chaguaní;Cundinamarca;4.94888;-74.59350;1
+C;25175;Chía;Cundinamarca;4.86647;-74.04998;1
+C;25178;Chipaque;Cundinamarca;4.44257;-74.04505;1
+C;25181;Choachí;Cundinamarca;4.52724;-73.92292;1
+C;25183;Chocontá;Cundinamarca;5.14524;-73.68358;1
+C;25200;Cogua;Cundinamarca;5.06186;-73.97843;1
+C;25214;Cota;Cundinamarca;4.81257;-74.10258;1
+C;25224;Cucunubá;Cundinamarca;5.24970;-73.76612;1
+C;25245;El Colegio;Cundinamarca;4.57797;-74.44223;1
+C;25258;El Peñón (Cundinamarca);Cundinamarca;5.24874;-74.29022;1
+C;25260;El Rosal;Cundinamarca;4.85072;-74.26334;1
+C;25269;Facatativá;Cundinamarca;4.81336;-74.35005;1
+C;25279;Fómeque;Cundinamarca;4.48546;-73.89251;1
+C;25281;Fosca;Cundinamarca;4.33920;-73.93895;1
+C;25286;Funza;Cundinamarca;4.71045;-74.20162;1
+C;25288;Fúquene;Cundinamarca;5.40408;-73.79584;1
+C;25290;Fusagasugá;Cundinamarca;4.33671;-74.37531;1
+C;25293;Gachalá;Cundinamarca;4.69357;-73.52023;1
+C;25295;Gachancipá;Cundinamarca;4.99104;-73.87343;1
+C;25297;Gachetá;Cundinamarca;4.81645;-73.63639;1
+C;25299;Gama;Cundinamarca;4.76322;-73.61104;1
+C;25307;Girardot;Cundinamarca;4.31308;-74.79825;1
+C;25312;Granada (Cundinamarca);Cundinamarca;4.51971;-74.35090;1
+C;25317;Guachetá;Cundinamarca;5.38347;-73.68694;1
+C;25320;Guaduas;Cundinamarca;5.07206;-74.60338;1
+C;25322;Guasca;Cundinamarca;4.86668;-73.87711;1
+C;25324;Guataquí;Cundinamarca;4.51749;-74.79004;1
+C;25326;Guatavita;Cundinamarca;4.93519;-73.83315;1
+C;25328;Guayabal de Síquima;Cundinamarca;4.87795;-74.46757;1
+C;25335;Guayabetal;Cundinamarca;4.21526;-73.81508;1
+C;25339;Gutiérrez;Cundinamarca;4.25465;-74.00301;1
+C;25368;Jerusalén;Cundinamarca;4.56220;-74.69532;1
+C;25372;Junín;Cundinamarca;4.79036;-73.66292;1
+C;25377;La Calera;Cundinamarca;4.72104;-73.96837;1
+C;25386;La Mesa;Cundinamarca;4.63117;-74.46132;1
+C;25394;La Palma;Cundinamarca;5.35886;-74.39087;1
+C;25398;La Peña;Cundinamarca;5.19873;-74.39414;1
+C;25402;La Vega (Cundinamarca);Cundinamarca;4.99766;-74.33684;1
+C;25407;Lenguazaque;Cundinamarca;5.30615;-73.71143;1
+C;25426;Machetá;Cundinamarca;5.08004;-73.60819;1
+C;25430;Madrid;Cundinamarca;4.73275;-74.26590;1
+C;25436;Manta;Cundinamarca;5.00899;-73.54047;1
+C;25438;Medina;Cundinamarca;4.50634;-73.34847;1
+C;25473;Mosquera (Cundinamarca);Cundinamarca;4.70653;-74.22115;1
+C;25483;Nariño (Cundinamarca);Cundinamarca;4.40005;-74.82490;1
+C;25486;Nemocón;Cundinamarca;5.06883;-73.87790;1
+C;25488;Nilo;Cundinamarca;4.30581;-74.62003;1
+C;25489;Nimaima;Cundinamarca;5.12608;-74.38604;1
+C;25491;Nocaima;Cundinamarca;5.06950;-74.37906;1
+C;25506;Venecia (Cundinamarca);Cundinamarca;4.08903;-74.47844;1
+C;25513;Pacho;Cundinamarca;5.13670;-74.15617;1
+C;25518;Paime;Cundinamarca;5.37033;-74.15224;1
+C;25524;Pandi;Cundinamarca;4.19039;-74.48674;1
+C;25530;Paratebueno;Cundinamarca;4.37476;-73.21299;1
+C;25535;Pasca;Cundinamarca;4.30894;-74.30230;1
+C;25572;Puerto Salgar;Cundinamarca;5.46533;-74.65388;1
+C;25580;Pulí;Cundinamarca;4.68202;-74.71424;1
+C;25592;Quebradanegra;Cundinamarca;5.11818;-74.48012;1
+C;25594;Quetame;Cundinamarca;4.32991;-73.86315;1
+C;25596;Quipile;Cundinamarca;4.74495;-74.53373;1
+C;25599;Apulo;Cundinamarca;4.52014;-74.59406;1
+C;25612;Ricaurte (Cundinamarca);Cundinamarca;4.28217;-74.77289;1
+C;25645;San Antonio del Tequendama;Cundinamarca;4.61606;-74.35146;1
+C;25649;San Bernardo (Cundinamarca);Cundinamarca;4.17943;-74.42293;1
+C;25653;San Cayetano (Cundinamarca);Cundinamarca;5.33291;-74.02476;1
+C;25658;San Francisco (Cundinamarca);Cundinamarca;4.97282;-74.28953;1
+C;25662;San Juan de Rioseco;Cundinamarca;4.84744;-74.62201;1
+C;25718;Sasaima;Cundinamarca;4.96200;-74.43263;1
+C;25736;Sesquilé;Cundinamarca;5.04480;-73.79614;1
+C;25740;Sibaté;Cundinamarca;4.49252;-74.25786;1
+C;25743;Silvania;Cundinamarca;4.38188;-74.40561;1
+C;25745;Simijaca;Cundinamarca;5.50530;-73.85061;1
+C;25754;Soacha;Cundinamarca;4.57919;-74.21548;1
+C;25758;Sopó;Cundinamarca;4.91531;-73.94327;1
+C;25769;Subachoque;Cundinamarca;4.92905;-74.17274;1
+C;25772;Suesca;Cundinamarca;5.10345;-73.79822;1
+C;25777;Supatá;Cundinamarca;5.06150;-74.23549;1
+C;25779;Susa;Cundinamarca;5.45536;-73.81395;1
+C;25781;Sutatausa;Cundinamarca;5.24746;-73.85310;1
+C;25785;Tabio;Cundinamarca;4.91676;-74.09638;1
+C;25793;Tausa;Cundinamarca;5.19632;-73.88760;1
+C;25797;Tena;Cundinamarca;4.65540;-74.38918;1
+C;25799;Tenjo;Cundinamarca;4.87204;-74.14369;1
+C;25805;Tibacuy;Cundinamarca;4.34867;-74.45268;1
+C;25807;Tibirita;Cundinamarca;5.05225;-73.50455;1
+C;25815;Tocaima;Cundinamarca;4.45922;-74.63653;1
+C;25817;Tocancipá;Cundinamarca;4.96469;-73.91217;1
+C;25823;Topaipí;Cundinamarca;5.33633;-74.30083;1
+C;25839;Ubalá;Cundinamarca;4.74742;-73.53154;1
+C;25841;Ubaque;Cundinamarca;4.48364;-73.93354;1
+C;25843;Ubaté;Cundinamarca;5.30740;-73.81434;1
+C;25845;Une;Cundinamarca;4.40238;-74.02515;1
+C;25851;Útica;Cundinamarca;5.19057;-74.48319;1
+C;25862;Vergara;Cundinamarca;5.11737;-74.34631;1
+C;25867;Vianí;Cundinamarca;4.87514;-74.56143;1
+C;25871;Villagómez;Cundinamarca;5.27290;-74.19525;1
+C;25873;Villapinzón;Cundinamarca;5.21632;-73.59577;1
+C;25875;Villeta;Cundinamarca;5.01266;-74.46977;1
+C;25878;Viotá;Cundinamarca;4.43937;-74.52309;1
+C;25885;Yacopí;Cundinamarca;5.45939;-74.33808;1
+C;25898;Zipacón;Cundinamarca;4.75995;-74.37949;1
+C;25899;Zipaquirá;Cundinamarca;5.02549;-73.99439;1
+C;27001;Quibdó;Chocó;5.69228;-76.65819;1
+C;27025;Alto Baudó;Chocó;5.51621;-76.97435;1
+C;27050;Atrato;Chocó;5.53136;-76.63586;1
+C;27073;Bagadó;Chocó;5.40957;-76.41616;1
+C;27135;El Cantón del San Pablo;Chocó;5.33518;-76.72686;1
+C;27160;Cértegui;Chocó;5.37139;-76.60761;1
+C;27205;Condoto;Chocó;5.09097;-76.65073;1
+C;27245;El Carmen de Atrato;Chocó;5.89980;-76.14217;1
+C;27361;Istmina;Chocó;5.15403;-76.68520;1
+C;27413;Lloró;Chocó;5.49786;-76.54533;1
+C;27430;Medio Baudó;Chocó;5.19244;-76.95105;1
+C;27450;Medio San Juan;Chocó;5.09822;-76.69445;1
+C;27491;Nóvita;Chocó;4.95597;-76.60962;1
+C;27493;Nuevo Belén de Bajirá;Chocó;7.37192;-76.71712;1
+C;27600;Río Quito;Chocó;5.48365;-76.74077;1
+C;27615;Riosucio (Chocó);Chocó;7.43662;-77.11256;1
+C;27660;San José del Palmar;Chocó;4.89688;-76.23428;1
+C;27787;Tadó;Chocó;5.26498;-76.55866;1
+C;27810;Unión Panamericana;Chocó;5.28109;-76.63028;1
+C;41001;Neiva;Huila;2.92750;-75.28750;1
+C;41006;Acevedo;Huila;1.80527;-75.88858;1
+C;41013;Agrado;Huila;2.25989;-75.77203;1
+C;41016;Aipe;Huila;3.22401;-75.23908;1
+C;41020;Algeciras;Huila;2.52160;-75.31540;1
+C;41026;Altamira;Huila;2.06389;-75.78850;1
+C;41078;Baraya;Huila;3.15244;-75.05466;1
+C;41132;Campoalegre;Huila;2.68681;-75.32583;1
+C;41206;Colombia;Huila;3.37678;-74.80285;1
+C;41244;Elías;Huila;2.01287;-75.93833;1
+C;41298;Garzón;Huila;2.19651;-75.62703;1
+C;41306;Gigante;Huila;2.38404;-75.54764;1
+C;41319;Guadalupe (Huila);Huila;2.02421;-75.75725;1
+C;41349;Hobo;Huila;2.58074;-75.44762;1
+C;41357;Íquira;Huila;2.64941;-75.63439;1
+C;41359;Isnos;Huila;1.92955;-76.21751;1
+C;41378;La Argentina;Huila;2.19849;-75.97973;1
+C;41396;La Plata;Huila;2.38942;-75.89110;1
+C;41483;Nátaga;Huila;2.54511;-75.80879;1
+C;41503;Oporapa;Huila;2.02517;-75.99514;1
+C;41518;Paicol;Huila;2.44964;-75.77313;1
+C;41524;Palermo;Huila;2.88953;-75.43522;1
+C;41530;Palestina (Huila);Huila;1.72375;-76.13311;1
+C;41548;Pital;Huila;2.26661;-75.80447;1
+C;41551;Pitalito;Huila;1.85267;-76.04935;1
+C;41615;Rivera;Huila;2.77758;-75.25876;1
+C;41660;Saladoblanco;Huila;1.99341;-76.04459;1
+C;41668;San Agustín;Huila;1.88100;-76.27034;1
+C;41676;Santa María (Huila);Huila;2.93953;-75.58637;1
+C;41770;Suaza;Huila;1.97598;-75.79526;1
+C;41791;Tarqui;Huila;2.11137;-75.82391;1
+C;41797;Tesalia;Huila;2.48634;-75.73019;1
+C;41799;Tello;Huila;3.06751;-75.13880;1
+C;41801;Teruel;Huila;2.74087;-75.56706;1
+C;41807;Timaná;Huila;1.97454;-75.93204;1
+C;41872;Villavieja;Huila;3.21888;-75.21720;1
+C;41885;Yaguará;Huila;2.66464;-75.51851;1
+C;44001;Riohacha;La Guajira;11.54417;-72.90694;1
+C;44035;Albania (La Guajira);La Guajira;11.15173;-72.61227;1
+C;44078;Barrancas;La Guajira;10.95865;-72.79368;1
+C;44090;Dibulla;La Guajira;11.27163;-73.30726;1
+C;44098;Distracción;La Guajira;10.89866;-72.88759;1
+C;44110;El Molino;La Guajira;10.65354;-72.92675;1
+C;44279;Fonseca;La Guajira;10.88661;-72.84635;1
+C;44378;Hatonuevo;La Guajira;11.06890;-72.75894;1
+C;44420;La Jagua del Pilar;La Guajira;10.51178;-73.07254;1
+C;44430;Maicao;La Guajira;11.37851;-72.24287;1
+C;44560;Manaure;La Guajira;11.77373;-72.43879;1
+C;44650;San Juan del Cesar;La Guajira;10.76955;-73.00061;1
+C;44847;Uribia;La Guajira;11.71197;-72.26590;1
+C;44855;Urumita;La Guajira;10.56023;-73.01251;1
+C;44874;Villanueva (La Guajira);La Guajira;10.60875;-72.97743;1
+C;47001;Santa Marta;Magdalena;11.24083;-74.19917;1
+C;47030;Algarrobo;Magdalena;10.18797;-74.06105;1
+C;47053;Aracataca;Magdalena;10.58982;-74.18674;1
+C;47058;Ariguaní;Magdalena;9.84705;-74.23643;1
+C;47161;Cerro de San Antonio;Magdalena;10.32550;-74.86853;1
+C;47170;Chivolo;Magdalena;10.02664;-74.62218;1
+C;47189;Ciénaga;Magdalena;11.00641;-74.24125;1
+C;47205;Concordia (Magdalena);Magdalena;10.25721;-74.83308;1
+C;47245;El Banco;Magdalena;9.00837;-73.97434;1
+C;47258;El Piñón;Magdalena;10.40280;-74.82302;1
+C;47268;El Retén;Magdalena;10.61045;-74.26847;1
+C;47288;Fundación;Magdalena;10.51413;-74.19151;1
+C;47318;Guamal (Magdalena);Magdalena;9.14439;-74.22358;1
+C;47460;Nueva Granada;Magdalena;9.80186;-74.39186;1
+C;47541;Pedraza;Magdalena;10.18816;-74.91543;1
+C;47545;Pijiño del Carmen;Magdalena;9.33203;-74.45901;1
+C;47551;Pivijay;Magdalena;10.46073;-74.61333;1
+C;47555;Plato;Magdalena;9.79670;-74.78459;1
+C;47570;Puebloviejo;Magdalena;10.99486;-74.28232;1
+C;47605;Remolino;Magdalena;10.70200;-74.71608;1
+C;47660;Sabanas de San Ángel;Magdalena;10.03254;-74.21388;1
+C;47675;Salamina (Magdalena);Magdalena;10.49129;-74.79413;1
+C;47692;San Sebastián de Buenavista;Magdalena;9.24151;-74.35150;1
+C;47703;San Zenón;Magdalena;9.24495;-74.49904;1
+C;47707;Santa Ana;Magdalena;9.32419;-74.56690;1
+C;47720;Santa Bárbara de Pinto;Magdalena;9.43217;-74.70466;1
+C;47745;Sitionuevo;Magdalena;10.77534;-74.71996;1
+C;47798;Tenerife;Magdalena;9.89837;-74.85966;1
+C;47960;Zapayán;Magdalena;10.16837;-74.71694;1
+C;47980;Zona Bananera;Magdalena;10.76302;-74.14034;1
+C;50001;Villavicencio;Meta;4.14250;-73.62944;1
+C;50006;Acacías;Meta;3.99045;-73.76613;1
+C;50110;Barranca de Upía;Meta;4.56825;-72.96320;1
+C;50124;Cabuyaro;Meta;4.28685;-72.79184;1
+C;50150;Castilla la Nueva;Meta;3.83014;-73.68733;1
+C;50223;Cubarral;Meta;3.79360;-73.83812;1
+C;50226;Cumaral;Meta;4.27006;-73.48700;1
+C;50245;El Calvario;Meta;4.35255;-73.71342;1
+C;50251;El Castillo;Meta;3.56402;-73.79413;1
+C;50270;El Dorado;Meta;3.74003;-73.83525;1
+C;50287;Fuente de Oro;Meta;3.46287;-73.61820;1
+C;50313;Granada (Meta);Meta;3.54712;-73.70554;1
+C;50318;Guamal (Meta);Meta;3.87975;-73.76874;1
+C;50325;Mapiripán;Meta;2.89668;-72.13493;1
+C;50330;Mesetas;Meta;3.38269;-74.04424;1
+C;50350;La Macarena;Meta;2.17719;-73.78666;1
+C;50370;Uribe;Meta;3.23952;-74.35144;1
+C;50400;Lejanías;Meta;3.52512;-74.02344;1
+C;50450;Puerto Concordia;Meta;2.62402;-72.76025;1
+C;50568;Puerto Gaitán;Meta;4.31505;-72.08754;1
+C;50573;Puerto López;Meta;4.09211;-72.95800;1
+C;50577;Puerto Lleras;Meta;3.27161;-73.37379;1
+C;50590;Puerto Rico (Meta);Meta;2.94020;-73.20542;1
+C;50606;Restrepo (Meta);Meta;4.25950;-73.56540;1
+C;50680;San Carlos de Guaroa;Meta;3.71074;-73.24222;1
+C;50683;San Juan de Arama;Meta;3.37367;-73.87588;1
+C;50686;San Juanito;Meta;4.45814;-73.67665;1
+C;50689;San Martín (Meta);Meta;3.70177;-73.69593;1
+C;50711;Vistahermosa;Meta;3.12549;-73.75092;1
+C;52001;Pasto;Nariño;1.21000;-77.27472;1
+C;52019;Albán (Nariño);Nariño;1.47501;-77.08067;1
+C;52022;Aldana;Nariño;0.88235;-77.70053;1
+C;52036;Ancuya;Nariño;1.26323;-77.51464;1
+C;52051;Arboleda;Nariño;1.50322;-77.13546;1
+C;52079;Barbacoas;Nariño;1.67173;-78.13763;1
+C;52083;Belén (Nariño);Nariño;1.59563;-77.01547;1
+C;52110;Buesaco;Nariño;1.38132;-77.15651;1
+C;52203;Colón (Nariño);Nariño;1.64389;-77.01985;1
+C;52207;Consacá;Nariño;1.20778;-77.46596;1
+C;52210;Contadero;Nariño;0.91056;-77.54943;1
+C;52215;Córdoba (Nariño);Nariño;0.85447;-77.51786;1
+C;52224;Cuaspud Carlosama;Nariño;0.86302;-77.72892;1
+C;52227;Cumbal;Nariño;0.90645;-77.79254;1
+C;52233;Cumbitara;Nariño;1.64731;-77.57865;1
+C;52240;Chachagüí;Nariño;1.36060;-77.28190;1
+C;52254;El Peñol;Nariño;1.45358;-77.43846;1
+C;52256;El Rosario;Nariño;1.74497;-77.33420;1
+C;52258;El Tablón de Gómez;Nariño;1.42715;-77.09715;1
+C;52260;El Tambo (Nariño);Nariño;1.40792;-77.39079;1
+C;52287;Funes;Nariño;1.00099;-77.44932;1
+C;52317;Guachucal;Nariño;0.95977;-77.73166;1
+C;52320;Guaitarilla;Nariño;1.12963;-77.54990;1
+C;52323;Gualmatán;Nariño;0.91974;-77.56881;1
+C;52352;Iles;Nariño;0.96961;-77.52122;1
+C;52354;Imués;Nariño;1.05509;-77.49641;1
+C;52356;Ipiales;Nariño;0.82793;-77.64654;1
+C;52378;La Cruz;Nariño;1.60135;-76.97054;1
+C;52381;La Florida;Nariño;1.29752;-77.40309;1
+C;52385;La Llanada;Nariño;1.47283;-77.58081;1
+C;52399;La Unión (Nariño);Nariño;1.60011;-77.13124;1
+C;52405;Leiva;Nariño;1.93447;-77.30623;1
+C;52411;Linares;Nariño;1.35091;-77.52381;1
+C;52418;Los Andes;Nariño;1.49469;-77.52132;1
+C;52427;Magüí;Nariño;1.76560;-78.18286;1
+C;52435;Mallama;Nariño;1.14103;-77.86461;1
+C;52480;Nariño (Nariño);Nariño;1.28901;-77.35798;1
+C;52506;Ospina;Nariño;1.05853;-77.56613;1
+C;52540;Policarpa;Nariño;1.62744;-77.45887;1
+C;52560;Potosí;Nariño;0.80666;-77.57293;1
+C;52565;Providencia (Nariño);Nariño;1.23771;-77.59677;1
+C;52573;Puerres;Nariño;0.88505;-77.50421;1
+C;52585;Pupiales;Nariño;0.87049;-77.63609;1
+C;52612;Ricaurte (Nariño);Nariño;1.21256;-77.99524;1
+C;52621;Roberto Payán;Nariño;1.69744;-78.24572;1
+C;52678;Samaniego;Nariño;1.33550;-77.59437;1
+C;52683;Sandoná;Nariño;1.28345;-77.47315;1
+C;52685;San Bernardo (Nariño);Nariño;1.51358;-77.04764;1
+C;52687;San Lorenzo;Nariño;1.50337;-77.21545;1
+C;52693;San Pablo (Nariño);Nariño;1.66944;-77.01396;1
+C;52694;San Pedro de Cartago;Nariño;1.55181;-77.11928;1
+C;52699;Santacruz;Nariño;1.22255;-77.67709;1
+C;52720;Sapuyes;Nariño;1.03743;-77.62029;1
+C;52786;Taminango;Nariño;1.57033;-77.28085;1
+C;52788;Tangua;Nariño;1.09474;-77.39368;1
+C;52835;Tumaco;Nariño;1.80733;-78.76425;1
+C;52838;Túquerres;Nariño;1.08502;-77.61671;1
+C;52885;Yacuanquer;Nariño;1.11598;-77.40001;1
+C;54001;Cúcuta;Norte de Santander;7.90750;-72.50472;1
+C;54003;Ábrego;Norte de Santander;8.08166;-73.22173;1
+C;54051;Arboledas;Norte de Santander;7.64304;-72.79910;1
+C;54099;Bochalema;Norte de Santander;7.61209;-72.64705;1
+C;54109;Bucarasica;Norte de Santander;8.04140;-72.86828;1
+C;54125;Cácota;Norte de Santander;7.26865;-72.64202;1
+C;54128;Cáchira;Norte de Santander;7.74131;-73.04892;1
+C;54172;Chinácota;Norte de Santander;7.60347;-72.60121;1
+C;54174;Chitagá;Norte de Santander;7.13819;-72.66550;1
+C;54206;Convención;Norte de Santander;8.47062;-73.33720;1
+C;54223;Cucutilla;Norte de Santander;7.53972;-72.77271;1
+C;54239;Durania;Norte de Santander;7.71483;-72.65857;1
+C;54245;El Carmen;Norte de Santander;8.51062;-73.44665;1
+C;54250;El Tarra;Norte de Santander;8.57427;-73.09617;1
+C;54261;El Zulia;Norte de Santander;7.93822;-72.60470;1
+C;54313;Gramalote;Norte de Santander;7.91697;-72.78726;1
+C;54344;Hacarí;Norte de Santander;8.32147;-73.14597;1
+C;54347;Herrán;Norte de Santander;7.50654;-72.48347;1
+C;54377;Labateca;Norte de Santander;7.29845;-72.49593;1
+C;54385;La Esperanza;Norte de Santander;7.63967;-73.32817;1
+C;54398;La Playa;Norte de Santander;8.21116;-73.24004;1
+C;54405;Los Patios;Norte de Santander;7.83326;-72.50562;1
+C;54418;Lourdes;Norte de Santander;7.94563;-72.83241;1
+C;54480;Mutiscua;Norte de Santander;7.30049;-72.74709;1
+C;54498;Ocaña;Norte de Santander;8.24863;-73.35612;1
+C;54518;Pamplona;Norte de Santander;7.37277;-72.64779;1
+C;54520;Pamplonita;Norte de Santander;7.43673;-72.63900;1
+C;54553;Puerto Santander;Norte de Santander;8.35989;-72.41201;1
+C;54599;Ragonvalia;Norte de Santander;7.57785;-72.47673;1
+C;54660;Salazar;Norte de Santander;7.77366;-72.81326;1
+C;54670;San Calixto;Norte de Santander;8.40192;-73.20853;1
+C;54673;San Cayetano (Norte de Santander);Norte de Santander;7.87562;-72.62536;1
+C;54680;Santiago (Norte de Santander);Norte de Santander;7.86565;-72.71634;1
+C;54720;Sardinata;Norte de Santander;8.08200;-72.80056;1
+C;54743;Silos;Norte de Santander;7.20465;-72.75705;1
+C;54800;Teorama;Norte de Santander;8.43844;-73.28749;1
+C;54810;Tibú;Norte de Santander;8.63989;-72.73445;1
+C;54820;Toledo (Norte de Santander);Norte de Santander;7.30759;-72.48186;1
+C;54871;Villa Caro;Norte de Santander;7.91415;-72.97355;1
+C;54874;Villa del Rosario;Norte de Santander;7.84766;-72.46973;1
+C;63001;Armenia;Quindío;4.53889;-75.67250;1
+C;63111;Buenavista (Quindío);Quindío;4.36013;-75.73976;1
+C;63130;Calarcá;Quindío;4.52092;-75.64616;1
+C;63190;Circasia;Quindío;4.61771;-75.63641;1
+C;63212;Córdoba (Quindío);Quindío;4.39235;-75.68777;1
+C;63272;Filandia;Quindío;4.67422;-75.65844;1
+C;63302;Génova;Quindío;4.20669;-75.79035;1
+C;63401;La Tebaida;Quindío;4.45374;-75.78697;1
+C;63470;Montenegro;Quindío;4.56500;-75.74980;1
+C;63548;Pijao;Quindío;4.33500;-75.70333;1
+C;63594;Quimbaya;Quindío;4.62435;-75.76508;1
+C;63690;Salento;Quindío;4.63724;-75.57087;1
+C;66001;Pereira;Risaralda;4.81333;-75.69611;1
+C;66045;Apía;Risaralda;5.10649;-75.94238;1
+C;66075;Balboa (Risaralda);Risaralda;4.94916;-75.95868;1
+C;66088;Belén de Umbría;Risaralda;5.20073;-75.86834;1
+C;66170;Dosquebradas;Risaralda;4.83311;-75.67540;1
+C;66318;Guática;Risaralda;5.31539;-75.79893;1
+C;66383;La Celia;Risaralda;5.00278;-76.00319;1
+C;66400;La Virginia;Risaralda;4.89659;-75.88028;1
+C;66440;Marsella;Risaralda;4.93576;-75.73883;1
+C;66456;Mistrató;Risaralda;5.29689;-75.88280;1
+C;66572;Pueblo Rico;Risaralda;5.22189;-76.03085;1
+C;66594;Quinchía;Risaralda;5.34044;-75.73036;1
+C;66682;Santa Rosa de Cabal;Risaralda;4.87639;-75.62336;1
+C;66687;Santuario;Risaralda;5.07467;-75.96460;1
+C;68001;Bucaramanga;Santander;7.11861;-73.11611;1
+C;68013;Aguada;Santander;6.16238;-73.52307;1
+C;68020;Albania (Santander);Santander;5.75904;-73.91349;1
+C;68051;Aratoca;Santander;6.69435;-73.01783;1
+C;68077;Barbosa (Santander);Santander;5.93255;-73.61591;1
+C;68079;Barichara;Santander;6.63417;-73.22289;1
+C;68081;Barrancabermeja;Santander;7.06483;-73.84923;1
+C;68092;Betulia (Santander);Santander;6.89933;-73.28371;1
+C;68101;Bolívar (Santander);Santander;5.98891;-73.77129;1
+C;68121;Cabrera (Santander);Santander;6.59219;-73.24656;1
+C;68132;California;Santander;7.34796;-72.94651;1
+C;68147;Capitanejo;Santander;6.52751;-72.69544;1
+C;68152;Carcasí;Santander;6.62902;-72.62706;1
+C;68160;Cepitá;Santander;6.75367;-72.97345;1
+C;68162;Cerrito;Santander;6.84046;-72.69473;1
+C;68167;Charalá;Santander;6.28418;-73.14687;1
+C;68169;Charta;Santander;7.28075;-72.96874;1
+C;68176;Chima;Santander;6.34436;-73.37367;1
+C;68179;Chipatá;Santander;6.06252;-73.63716;1
+C;68190;Cimitarra;Santander;6.32091;-73.95295;1
+C;68207;Concepción (Santander);Santander;6.76899;-72.69465;1
+C;68209;Confines;Santander;6.35737;-73.24057;1
+C;68211;Contratación;Santander;6.29058;-73.47449;1
+C;68217;Coromoro;Santander;6.29495;-73.04075;1
+C;68229;Curití;Santander;6.60510;-73.06939;1
+C;68235;El Carmen de Chucurí;Santander;6.70034;-73.51049;1
+C;68245;El Guacamayo;Santander;6.24509;-73.49683;1
+C;68250;El Peñón (Santander);Santander;6.05534;-73.81569;1
+C;68255;El Playón;Santander;7.47056;-73.20284;1
+C;68264;Encino;Santander;6.13738;-73.09886;1
+C;68266;Enciso;Santander;6.66799;-72.69958;1
+C;68271;Florián;Santander;5.80460;-73.97160;1
+C;68276;Floridablanca;Santander;7.07236;-73.09907;1
+C;68296;Galán;Santander;6.63830;-73.28791;1
+C;68298;Gámbita;Santander;5.94608;-73.34411;1
+C;68307;Girón;Santander;7.07045;-73.16684;1
+C;68318;Guaca;Santander;6.87661;-72.85623;1
+C;68320;Guadalupe (Santander);Santander;6.24574;-73.41939;1
+C;68322;Guapotá;Santander;6.30856;-73.32063;1
+C;68324;Guavatá;Santander;5.95426;-73.70093;1
+C;68327;Güepsa;Santander;6.02482;-73.57527;1
+C;68344;Hato;Santander;6.54396;-73.30846;1
+C;68368;Jesús María;Santander;5.87659;-73.78337;1
+C;68370;Jordán;Santander;6.73280;-73.09608;1
+C;68377;La Belleza;Santander;5.85919;-73.96551;1
+C;68385;Landázuri;Santander;6.21886;-73.81130;1
+C;68397;La Paz (Santander);Santander;6.17858;-73.58956;1
+C;68406;Lebrija;Santander;7.11336;-73.21955;1
+C;68418;Los Santos;Santander;6.75513;-73.10266;1
+C;68425;Macaravita;Santander;6.50654;-72.59304;1
+C;68432;Málaga;Santander;6.70301;-72.73209;1
+C;68444;Matanza;Santander;7.32304;-73.01569;1
+C;68464;Mogotes;Santander;6.47513;-72.96983;1
+C;68468;Molagavita;Santander;6.67432;-72.80919;1
+C;68498;Ocamonte;Santander;6.34003;-73.12233;1
+C;68500;Oiba;Santander;6.26515;-73.29977;1
+C;68502;Onzaga;Santander;6.34408;-72.81681;1
+C;68522;Palmar;Santander;6.53781;-73.29114;1
+C;68524;Palmas del Socorro;Santander;6.40612;-73.28779;1
+C;68533;Páramo;Santander;6.41677;-73.17027;1
+C;68547;Piedecuesta;Santander;6.99729;-73.05480;1
+C;68549;Pinchote;Santander;6.53157;-73.17417;1
+C;68572;Puente Nacional;Santander;5.87838;-73.67747;1
+C;68573;Puerto Parra;Santander;6.65074;-74.05613;1
+C;68575;Puerto Wilches;Santander;7.34407;-73.89988;1
+C;68615;Rionegro (Santander);Santander;7.26505;-73.15009;1
+C;68655;Sabana de Torres;Santander;7.39193;-73.49902;1
+C;68669;San Andrés;Santander;6.81164;-72.84889;1
+C;68673;San Benito;Santander;6.12664;-73.50915;1
+C;68679;San Gil;Santander;6.55199;-73.13489;1
+C;68682;San Joaquín;Santander;6.42755;-72.86744;1
+C;68684;San José de Miranda;Santander;6.65898;-72.73369;1
+C;68686;San Miguel (Santander);Santander;6.57529;-72.64411;1
+C;68689;San Vicente de Chucurí;Santander;6.88044;-73.41113;1
+C;68705;Santa Bárbara (Santander);Santander;6.99089;-72.90736;1
+C;68720;Santa Helena del Opón;Santander;6.33951;-73.61675;1
+C;68745;Simacota;Santander;6.44346;-73.33736;1
+C;68755;Socorro;Santander;6.46383;-73.26118;1
+C;68770;Suaita;Santander;6.10127;-73.44160;1
+C;68773;Sucre (Santander);Santander;5.91862;-73.79101;1
+C;68780;Suratá;Santander;7.36672;-72.98416;1
+C;68820;Tona;Santander;7.20143;-72.96707;1
+C;68855;Valle de San José;Santander;6.44800;-73.14360;1
+C;68861;Vélez;Santander;6.00937;-73.67248;1
+C;68867;Vetas;Santander;7.30988;-72.87098;1
+C;68872;Villanueva (Santander);Santander;6.67006;-73.17429;1
+C;68895;Zapatoca;Santander;6.81434;-73.26810;1
+C;70001;Sincelejo;Sucre;9.29944;-75.39583;1
+C;70110;Buenavista (Sucre);Sucre;9.31980;-74.97283;1
+C;70124;Caimito;Sucre;8.78931;-75.11712;1
+C;70204;Colosó;Sucre;9.49424;-75.35328;1
+C;70215;Corozal;Sucre;9.32016;-75.29248;1
+C;70221;Coveñas;Sucre;9.40281;-75.68005;1
+C;70230;Chalán;Sucre;9.54525;-75.31262;1
+C;70233;El Roble;Sucre;9.10064;-75.19834;1
+C;70235;Galeras;Sucre;9.15992;-75.04989;1
+C;70265;Guaranda;Sucre;8.46852;-74.53773;1
+C;70400;La Unión (Sucre);Sucre;8.85396;-75.27596;1
+C;70418;Los Palmitos;Sucre;9.38030;-75.26868;1
+C;70429;Majagual;Sucre;8.54104;-74.62807;1
+C;70473;Morroa;Sucre;9.33160;-75.30569;1
+C;70508;Ovejas;Sucre;9.52717;-75.22905;1
+C;70523;Palmito;Sucre;9.33311;-75.54112;1
+C;70670;Sampués;Sucre;9.18321;-75.37998;1
+C;70678;San Benito Abad;Sucre;8.93019;-75.03116;1
+C;70702;San Juan de Betulia;Sucre;9.27293;-75.24358;1
+C;70708;San Marcos;Sucre;8.66179;-75.13372;1
+C;70713;San Onofre;Sucre;9.73685;-75.52244;1
+C;70717;San Pedro (Sucre);Sucre;9.39620;-75.06356;1
+C;70742;San Luis de Sincé;Sucre;9.24427;-75.14600;1
+C;70771;Sucre (Sucre);Sucre;8.81126;-74.72233;1
+C;70820;Santiago de Tolú;Sucre;9.52484;-75.58132;1
+C;70823;San José de Toluviejo;Sucre;9.45183;-75.44076;1
+C;73001;Ibagué;Tolima;4.43778;-75.20056;1
+C;73024;Alpujarra;Tolima;3.39135;-74.93298;1
+C;73026;Alvarado;Tolima;4.56732;-74.95341;1
+C;73030;Ambalema;Tolima;4.78272;-74.76455;1
+C;73043;Anzoátegui;Tolima;4.63215;-75.09345;1
+C;73055;Armero;Tolima;5.03087;-74.88424;1
+C;73067;Ataco;Tolima;3.59057;-75.38254;1
+C;73124;Cajamarca;Tolima;4.43887;-75.43185;1
+C;73148;Carmen de Apicalá;Tolima;4.15235;-74.71765;1
+C;73152;Casabianca;Tolima;5.07837;-75.12099;1
+C;73168;Chaparral;Tolima;3.72296;-75.48083;1
+C;73200;Coello;Tolima;4.28725;-74.89842;1
+C;73217;Coyaima;Tolima;3.79793;-75.19397;1
+C;73226;Cunday;Tolima;4.05923;-74.69222;1
+C;73236;Dolores;Tolima;3.53906;-74.89675;1
+C;73268;Espinal;Tolima;4.15121;-74.88519;1
+C;73270;Falan;Tolima;5.12317;-74.95296;1
+C;73275;Flandes;Tolima;4.27633;-74.81884;1
+C;73283;Fresno;Tolima;5.15348;-75.03594;1
+C;73319;Guamo;Tolima;4.03114;-74.96805;1
+C;73347;Herveo;Tolima;5.08021;-75.17730;1
+C;73349;Honda;Tolima;5.21170;-74.75698;1
+C;73352;Icononzo;Tolima;4.17641;-74.53194;1
+C;73408;Lérida;Tolima;4.86200;-74.91067;1
+C;73411;Líbano;Tolima;4.92035;-75.06186;1
+C;73443;San Sebastián de Mariquita;Tolima;5.19974;-74.88927;1
+C;73449;Melgar;Tolima;4.20367;-74.64121;1
+C;73461;Murillo;Tolima;4.87439;-75.17103;1
+C;73483;Natagaima;Tolima;3.62431;-75.09320;1
+C;73504;Ortega;Tolima;3.93484;-75.22255;1
+C;73520;Palocabildo;Tolima;5.12070;-75.02214;1
+C;73547;Piedras;Tolima;4.54390;-74.87813;1
+C;73555;Planadas;Tolima;3.19800;-75.64417;1
+C;73563;Prado;Tolima;3.75088;-74.92736;1
+C;73585;Purificación;Tolima;3.85719;-74.93558;1
+C;73616;Rioblanco;Tolima;3.52988;-75.64379;1
+C;73622;Roncesvalles;Tolima;4.01150;-75.60605;1
+C;73624;Rovira;Tolima;4.23912;-75.24058;1
+C;73671;Saldaña;Tolima;3.92965;-75.01688;1
+C;73675;San Antonio;Tolima;3.91417;-75.48011;1
+C;73678;San Luis (Tolima);Tolima;4.13376;-75.09591;1
+C;73686;Santa Isabel;Tolima;4.71361;-75.09783;1
+C;73770;Suárez (Tolima);Tolima;4.04888;-74.83192;1
+C;73854;Valle de San Juan;Tolima;4.19738;-75.11566;1
+C;73861;Venadillo;Tolima;4.71786;-74.92935;1
+C;73870;Villahermosa;Tolima;5.03051;-75.11776;1
+C;73873;Villarrica;Tolima;3.93682;-74.60022;1
+C;76001;Cali;Valle del Cauca;3.44000;-76.51972;1
+C;76020;Alcalá;Valle del Cauca;4.67493;-75.77992;1
+C;76036;Andalucía;Valle del Cauca;4.17162;-76.16801;1
+C;76041;Ansermanuevo;Valle del Cauca;4.79505;-75.99202;1
+C;76054;Argelia (Valle del Cauca);Valle del Cauca;4.72689;-76.11997;1
+C;76100;Bolívar (Valle del Cauca);Valle del Cauca;4.33780;-76.18347;1
+C;76109;Buenaventura;Valle del Cauca;3.87572;-77.01070;1
+C;76111;Buga;Valle del Cauca;3.90082;-76.29894;1
+C;76113;Bugalagrande;Valle del Cauca;4.20845;-76.15682;1
+C;76122;Caicedonia;Valle del Cauca;4.33467;-75.83056;1
+C;76126;Calima;Valle del Cauca;3.93362;-76.48409;1
+C;76130;Candelaria (Valle del Cauca);Valle del Cauca;3.40826;-76.34638;1
+C;76147;Cartago;Valle del Cauca;4.74214;-75.92431;1
+C;76233;Dagua;Valle del Cauca;3.65734;-76.68880;1
+C;76243;El Águila;Valle del Cauca;4.90637;-76.04268;1
+C;76246;El Cairo;Valle del Cauca;4.76095;-76.22153;1
+C;76248;El Cerrito;Valle del Cauca;3.68375;-76.31150;1
+C;76250;El Dovio;Valle del Cauca;4.51047;-76.23712;1
+C;76275;Florida;Valle del Cauca;3.32427;-76.23353;1
+C;76306;Ginebra;Valle del Cauca;3.72423;-76.26803;1
+C;76318;Guacarí;Valle del Cauca;3.76180;-76.33096;1
+C;76364;Jamundí;Valle del Cauca;3.25780;-76.53812;1
+C;76377;La Cumbre;Valle del Cauca;3.64931;-76.56811;1
+C;76400;La Unión (Valle del Cauca);Valle del Cauca;4.53393;-76.09960;1
+C;76403;La Victoria (Valle del Cauca);Valle del Cauca;4.52369;-76.03652;1
+C;76497;Obando;Valle del Cauca;4.57574;-75.97466;1
+C;76520;Palmira;Valle del Cauca;3.53153;-76.29890;1
+C;76563;Pradera;Valle del Cauca;3.41981;-76.24185;1
+C;76606;Restrepo (Valle del Cauca);Valle del Cauca;3.82134;-76.52333;1
+C;76616;Riofrío;Valle del Cauca;4.15689;-76.28830;1
+C;76622;Roldanillo;Valle del Cauca;4.41359;-76.15233;1
+C;76670;San Pedro (Valle del Cauca);Valle del Cauca;3.99503;-76.22878;1
+C;76736;Sevilla;Valle del Cauca;4.27080;-75.93161;1
+C;76823;Toro;Valle del Cauca;4.60809;-76.07697;1
+C;76828;Trujillo;Valle del Cauca;4.21197;-76.31886;1
+C;76834;Tuluá;Valle del Cauca;4.08532;-76.19788;1
+C;76845;Ulloa;Valle del Cauca;4.70363;-75.73788;1
+C;76863;Versalles;Valle del Cauca;4.57501;-76.19916;1
+C;76869;Vijes;Valle del Cauca;3.69854;-76.44163;1
+C;76890;Yotoco;Valle del Cauca;3.86134;-76.38284;1
+C;76892;Yumbo;Valle del Cauca;3.54011;-76.49992;1
+C;76895;Zarzal;Valle del Cauca;4.39267;-76.07094;1
+C;81001;Arauca;Arauca;7.09028;-70.76167;1
+C;81065;Arauquita;Arauca;7.02699;-71.42678;1
+C;81220;Cravo Norte;Arauca;6.30386;-70.20426;1
+C;81300;Fortul;Arauca;6.79664;-71.76884;1
+C;81591;Puerto Rondón;Arauca;6.28145;-71.10333;1
+C;81736;Saravena;Arauca;6.95442;-71.87273;1
+C;81794;Tame;Arauca;6.45333;-71.75450;1
+C;85001;Yopal;Casanare;5.33056;-72.39056;1
+C;85010;Aguazul;Casanare;5.17266;-72.54670;1
+C;85015;Chámeza;Casanare;5.21442;-72.87018;1
+C;85125;Hato Corozal;Casanare;6.15410;-71.76417;1
+C;85136;La Salina;Casanare;6.12776;-72.33495;1
+C;85139;Maní;Casanare;4.81638;-72.28130;1
+C;85162;Monterrey;Casanare;4.87705;-72.89397;1
+C;85225;Nunchía;Casanare;5.63662;-72.19534;1
+C;85230;Orocué;Casanare;4.79024;-71.33846;1
+C;85250;Paz de Ariporo;Casanare;5.87985;-71.89033;1
+C;85263;Pore;Casanare;5.72766;-71.99291;1
+C;85279;Recetor;Casanare;5.22915;-72.76089;1
+C;85300;Sabanalarga (Casanare);Casanare;4.85482;-73.03863;1
+C;85315;Sácama;Casanare;6.09680;-72.25012;1
+C;85325;San Luis de Palenque;Casanare;5.42241;-71.73202;1
+C;85400;Támara;Casanare;5.82963;-72.16166;1
+C;85410;Tauramena;Casanare;5.01889;-72.74633;1
+C;85430;Trinidad;Casanare;5.41221;-71.66272;1
+C;85440;Villanueva (Casanare);Casanare;4.61111;-72.92743;1
+C;86001;Mocoa;Putumayo;1.14917;-76.64639;1
+C;86219;Colón (Putumayo);Putumayo;1.19009;-76.97267;1
+C;86320;Orito;Putumayo;0.66362;-76.87332;1
+C;86568;Puerto Asís;Putumayo;0.50638;-76.49612;1
+C;86569;Puerto Caicedo;Putumayo;0.68759;-76.60615;1
+C;86571;Puerto Guzmán;Putumayo;0.96285;-76.40776;1
+C;86749;Sibundoy;Putumayo;1.20027;-76.91786;1
+C;86755;San Francisco (Putumayo);Putumayo;1.17425;-76.87933;1
+C;86757;San Miguel (Putumayo);Putumayo;0.34351;-76.91219;1
+C;86760;Santiago (Putumayo);Putumayo;1.14709;-77.00259;1
+C;86865;Valle del Guamuez;Putumayo;0.42363;-76.90698;1
+C;86885;Villagarzón;Putumayo;1.02878;-76.61719;1
+C;95001;San José del Guaviare;Guaviare;2.56528;-72.63861;1
+C;95015;Calamar (Guaviare);Guaviare;1.96261;-72.65527;1
+C;95025;El Retorno;Guaviare;2.33028;-72.62731;1
+C;99001;Puerto Carreño;Vichada;6.19031;-67.48374;1
+C;99524;La Primavera;Vichada;5.48630;-70.41051;1
+C;99624;Santa Rosalía;Vichada;5.13657;-70.85947;1
+C;99773;Cumaribo;Vichada;4.44812;-69.79053;1
+P;P001;Peaje Aburra;6.29319;-75.65108;20600;1
+P;P002;Peaje Acapulco;4.99906;-75.85887;14600;1
+P;P003;Peaje Aguas Negras;6.64533;-73.95246;13500;1
+P;P004;Peaje Albarracín;5.29068;-73.58350;10300;1
+P;P005;Peaje Altamira;2.14289;-75.70068;10700;1
+P;P006;Peaje Alto Pino;11.44487;-72.54235;12300;1
+P;P007;Peaje Alvarado;4.50761;-74.99166;13700;1
+P;P008;Peaje Amagá;6.04695;-75.65987;10500;1
+P;P009;Peaje Arcabuco;5.79502;-73.47762;12800;1
+P;P010;Peaje Armero;4.95835;-74.91443;13700;1
+P;P011;Peaje Bayunca;10.54699;-75.36517;12600;1
+P;P012;Peaje Bazurto (Manga);10.40679;-75.52655;2300;1
+P;P013;Peaje Betania;3.97204;-76.25338;8200;1
+P;P014;Peaje Bicentenario;5.20310;-74.68462;13700;1
+P;P015;Peaje Boquerón I;4.45260;-74.07339;16500;1
+P;P016;Peaje Boquerón II;4.45458;-74.05033;16500;1
+P;P017;Peaje Cabildo;6.39580;-75.42366;16700;1
+P;P018;Peaje Caimanera;9.46568;-75.60651;15300;1
+P;P019;Peaje Caiqueros;5.06537;-74.41411;12800;1
+P;P020;Peaje Calamar;10.20811;-74.94501;16300;1
+P;P021;Peaje Cano;1.42546;-77.28445;15600;1
+P;P022;Peaje Carimagua;8.60486;-75.48482;18600;1
+P;P023;Peaje Casablanca;5.10439;-73.91283;12700;1
+P;P024;Peaje Casetabla;4.11272;-72.83501;6900;1
+P;P025;Peaje Ceballos;10.38302;-75.50592;2500;1
+P;P026;Peaje Cedros;8.81978;-75.99891;16100;1
+P;P027;Peaje Cencar;3.55734;-76.46268;11000;1
+P;P028;Peaje Cerrito;3.71302;-76.31918;11000;1
+P;P029;Peaje Cerritos II;4.79341;-75.85996;18700;1
+P;P030;Peaje Chicoral;4.24550;-74.88053;13800;1
+P;P031;Peaje Chinauta;4.26938;-74.50011;13300;1
+P;P032;Peaje Chusacá;4.53745;-74.27181;13300;1
+P;P033;Peaje Ciat;3.52345;-76.34328;11100;1
+P;P034;Peaje Circasia;4.69839;-75.60615;19200;1
+P;P035;Peaje Cirilo;8.21003;-76.74414;12100;1
+P;P036;Peaje Cisneros;6.53633;-75.07478;18000;1
+P;P037;Peaje Cocora;4.40575;-75.28550;14200;1
+P;P038;Peaje Cocorná;6.12461;-75.24304;18800;1
+P;P039;Peaje Corralito De Piedra;10.30966;-75.48509;7900;1
+P;P040;Peaje Corredor Portuario;10.95782;-74.76676;6400;1
+P;P041;Peaje Curití;6.61770;-73.08031;12700;1
+P;P042;Peaje El Bordo;2.18895;-76.85116;13000;1
+P;P043;Peaje El Carmen;9.68216;-75.12492;11100;1
+P;P044;Peaje El Copey;10.06037;-73.92383;10100;1
+P;P045;Peaje El Corzo;4.74872;-74.29115;11800;1
+P;P046;Peaje El Crucero;5.63128;-72.92125;12800;1
+P;P047;Peaje El Difícil;9.83117;-74.26775;11700;1
+P;P048;Peaje El Ebanal;11.27619;-73.12212;12300;1
+P;P049;Peaje El Korán;5.49713;-74.61373;19900;1
+P;P050;Peaje El Patá;3.39379;-75.20376;15700;1
+P;P051;Peaje El Picacho;7.10797;-72.96898;13000;1
+P;P052;Peaje El Placer;1.06457;-77.42840;14200;1
+P;P053;Peaje El Placer 2;1.08728;-77.40866;12300;1
+P;P054;Peaje El Roble;5.03129;-73.83988;10300;1
+P;P055;Peaje Estambul;3.50074;-76.44306;11100;1
+P;P056;Peaje Flandes;4.19210;-74.86115;15700;1
+P;P057;Peaje Galapa;10.83753;-74.90212;13300;1
+P;P058;Peaje Galapa 02;10.88218;-74.83706;8300;1
+P;P059;Peaje Gambote;10.13616;-75.26427;12600;1
+P;P060;Peaje Guaico;5.10592;-75.76028;21000;1
+P;P061;Peaje Guataquí;4.56444;-74.79732;12800;1
+P;P062;Peaje Guayabal;4.88341;-74.48319;12400;1
+P;P063;Peaje Honda;5.20158;-74.82028;13700;1
+P;P064;Peaje Iracá;3.63304;-73.70642;13100;1
+P;P065;Peaje Irra;5.25773;-75.65746;14600;1
+P;P066;Peaje Jalisco;4.90136;-74.42617;12400;1
+P;P067;Peaje Juan Mina;10.93438;-74.89825;8300;1
+P;P068;Peaje La Apartada;8.03151;-75.30281;14000;1
+P;P069;Peaje La Cabaña;4.80945;-73.94559;14800;1
+P;P070;Peaje La Esperanza;9.43074;-75.43595;11500;1
+P;P071;Peaje La Estrella;5.12552;-75.50528;6100;1
+P;P072;Peaje La Gómez;7.39718;-73.54652;13500;1
+P;P073;Peaje La Heroica;10.34234;-75.49062;2900;1
+P;P074;Peaje La Libertad;4.05697;-73.46329;16900;1
+P;P075;Peaje La Loma;9.63800;-73.63943;10400;1
+P;P076;Peaje La Parada;7.86746;-72.48416;2700;1
+P;P077;Peaje La Tebaida;4.74462;-74.17148;11200;1
+P;P078;Peaje La Uribe;4.25247;-76.11844;8400;1
+P;P079;Peaje Las Flores;9.31889;-75.32005;6400;1
+P;P080;Peaje Las Palmas;6.15063;-75.53127;13500;1
+P;P081;Peaje Laureano Gómez;10.97872;-74.72972;10100;1
+P;P082;Peaje Lebrija;7.10313;-73.18861;7200;1
+P;P083;Peaje Loboguerrero;3.76300;-76.66559;10300;1
+P;P084;Peaje Los Acacios;7.72137;-72.57132;7900;1
+P;P085;Peaje Los Cauchos;2.78558;-75.30196;9200;1
+P;P086;Peaje Los Curos;6.82563;-72.99948;12700;1
+P;P087;Peaje Los Garzones I;8.84520;-75.82458;6400;1
+P;P088;Peaje Los Garzones II;8.82778;-75.83676;6400;1
+P;P089;Peaje Los Llanos;6.83050;-75.46814;13000;1
+P;P090;Peaje Los Patios;4.66337;-74.01058;14800;1
+P;P091;Peaje Machetá;5.07725;-73.55340;16900;1
+P;P092;Peaje Manguitos;8.30157;-75.53010;16100;1
+P;P093;Peaje Mata De Caña;9.09146;-75.81986;15800;1
+P;P094;Peaje Mediacanoa;3.75991;-76.41132;11000;1
+P;P095;Peaje Mondoñedo;4.63824;-74.29398;11200;1
+P;P096;Peaje Morrison;8.09235;-73.56002;12300;1
+P;P097;Peaje Naranjal;4.27987;-73.83481;14100;1
+P;P098;Peaje Neiva;2.97780;-75.30726;15700;1
+P;P099;Peaje Niquía;6.34510;-75.52660;2500;1
+P;P100;Peaje Nuevo Salto;4.58154;-74.29866;11700;1
+P;P101;Peaje Ocoa;4.02626;-73.77519;13100;1
+P;P102;Peaje Oiba;6.17824;-73.33329;12700;1
+P;P103;Peaje Pailitas;8.85280;-73.66972;12300;1
+P;P104;Peaje Pandequeso;6.47800;-75.37861;14600;1
+P;P105;Peaje Papiros;11.01270;-74.88959;3000;1
+P;P106;Peaje Pasacaballos;10.24451;-75.44577;12800;1
+P;P107;Peaje Paso De La Torre;3.62760;-76.45765;11000;1
+P;P108;Peaje Pavas (Trinidad I);5.02706;-75.58742;14600;1
+P;P109;Peaje Pintada;5.81216;-75.67916;16200;1
+P;P110;Peaje Pipiral;4.20005;-73.72142;23000;1
+P;P111;Peaje Platanal;8.23124;-73.49857;12400;1
+P;P112;Peaje Primavera;5.96880;-75.59403;10500;1
+P;P113;Peaje Puente Amarillo;4.19417;-73.59670;4800;1
+P;P114;Peaje Puente Plato;9.79139;-74.80898;11700;1
+P;P115;Peaje Puerto Berrío;6.49666;-74.50138;10900;1
+P;P116;Peaje Puerto Triunfo;5.87260;-74.61140;18800;1
+P;P117;Peaje Purgatorio;8.63071;-75.76372;16100;1
+P;P118;Peaje Ramal;4.62717;-74.28981;11200;1
+P;P119;Peaje Rincón Hondo;9.43103;-73.47355;14700;1
+P;P120;Peaje Río Blanco;7.63282;-73.26364;13000;1
+P;P121;Peaje Río Bogotá;4.69870;-74.17934;12400;1
+P;P122;Peaje Ríonegro;7.24327;-73.14940;7200;1
+P;P123;Peaje Rozo;3.64390;-76.38109;11000;1
+P;P124;Peaje Sabanagrande;10.79960;-74.75900;13300;1
+P;P125;Peaje Sáchica;5.55768;-73.50116;12800;1
+P;P126;Peaje San Carlos;8.70999;-75.71660;15800;1
+P;P127;Peaje San Clemente;5.33244;-75.77560;12800;1
+P;P128;Peaje San Diego;10.12173;-73.23864;7400;1
+P;P129;Peaje San Miguel;4.44416;-74.30189;7900;1
+P;P130;Peaje San Onofre;9.87253;-75.39336;16100;1
+P;P131;Peaje San Pedro (Barranca de Upía - Monterrey);4.67861;-72.94375;10800;1
+P;P132;Peaje Sopó;4.84166;-73.93608;14800;1
+P;P133;Peaje Supia (Autopista Conexión Pacífico 3);5.54053;-75.57025;10500;1
+P;P134;Peaje Supía (La Felisa - La Pintada);5.39160;-75.60000;16100;1
+P;P135;Peaje Tarapacá I;4.93955;-75.61644;16100;1
+P;P136;Peaje Tarapacá II;4.95010;-75.61868;16100;1
+P;P137;Peaje Tarazá;7.58928;-75.39352;13000;1
+P;P138;Peaje Tasajera;10.97719;-74.33666;10100;1
+P;P139;Peaje Toro;4.66542;-76.04953;12800;1
+P;P140;Peaje Trapiche;6.39964;-75.43302;16700;1
+P;P141;Peaje Tucunica;10.60898;-74.16849;10900;1
+P;P142;Peaje Tuta;5.65691;-73.27843;10300;1
+P;P143;Peaje Valencia;10.25970;-73.43076;10400;1
+P;P144;Peaje Veracruz;4.26109;-73.44819;8600;1
+P;P145;Peaje Villarica;3.15128;-76.46004;11000;1
+P;P146;Peaje Yucao;4.35132;-72.16925;6900;1
+P;P147;Peaje Zambito;6.29471;-74.45699;13500;1
+P;P148;Peaje Zaragoza;7.63329;-74.89470;15900;1
+R;R001;05001;05088;10.8;0.25;;1
+R;R002;05001;05212;16.3;0.33;P099;1
+R;R003;05001;05266;12.2;0.25;;1
+R;R004;05001;05360;12.7;0.25;;1
+R;R005;05001;05380;17.1;0.31;;1
+R;R006;05001;05631;15.3;0.30;;1
+R;R007;05002;05390;49.6;1.14;;1
+R;R008;05002;05400;38.4;1.00;;1
+R;R009;05002;05467;48.5;1.07;;1
+R;R010;05002;05679;37.9;1.01;;1
+R;R011;05002;05756;47.5;1.03;;1
+R;R012;05002;17013;65.5;1.50;;1
+R;R013;05004;05042;81.3;1.31;;1
+R;R014;05004;05113;60.6;1.15;;1
+R;R015;05004;05138;37.0;1.00;;1
+R;R016;05004;05284;27.6;0.70;;1
+R;R017;05004;05306;49.7;1.03;;1
+R;R018;05021;05206;17.2;0.40;;1
+R;R019;05021;05321;27.8;0.83;;1
+R;R020;05021;05667;24.3;0.57;;1
+R;R021;05021;05690;20.2;0.51;;1
+R;R022;05030;05036;12.6;0.33;;1
+R;R023;05030;05129;16.1;0.24;P008;1
+R;R024;05030;05282;21.6;0.47;;1
+R;R025;05030;05809;18.7;0.34;;1
+R;R026;05030;05861;22.9;0.43;;1
+R;R027;05031;05040;82.3;1.64;;1
+R;R028;05031;05315;54.5;1.42;;1
+R;R029;05031;05858;61.1;1.48;;1
+R;R030;05034;05091;29.5;0.65;;1
+R;R031;05034;05353;19.7;0.37;;1
+R;R032;05034;05364;15.9;0.30;;1
+R;R033;05034;05368;33.1;0.82;;1
+R;R034;05034;05576;30.7;0.76;;1
+R;R035;05034;05789;50.3;1.25;;1
+R;R036;05036;05129;16.3;0.42;;1
+R;R037;05036;05347;50.0;1.33;;1
+R;R038;05036;05380;22.9;0.58;;1
+R;R039;05036;05631;26.4;0.67;;1
+R;R040;05038;05134;30.0;0.76;;1
+R;R041;05038;05150;30.0;0.76;;1
+R;R042;05038;05315;24.9;0.59;;1
+R;R043;05038;05887;20.7;0.52;;1
+R;R044;05040;05134;39.7;0.99;;1
+R;R045;05040;05315;67.2;1.78;;1
+R;R046;05042;05125;50.3;0.97;;1
+R;R047;05042;05306;38.9;0.58;;1
+R;R048;05042;05411;22.4;0.79;;1
+R;R049;05042;05501;14.8;0.48;;1
+R;R050;05042;05656;21.3;0.28;;1
+R;R051;05042;05761;21.9;0.43;;1
+R;R052;05044;05059;109.8;2.07;;1
+R;R053;05044;05093;69.7;1.62;;1
+R;R054;05044;05125;60.5;1.19;;1
+R;R055;05044;05240;74.7;1.31;;1
+R;R056;05044;05347;118.3;2.10;P001;1
+R;R057;05044;05656;43.8;0.69;;1
+R;R058;05044;05761;44.4;0.84;;1
+R;R059;05044;05847;73.9;1.69;;1
+R;R060;05045;05147;17.9;0.28;;1
+R;R061;05045;05172;28.0;0.38;;1
+R;R062;05045;05665;127.8;2.44;P035;1
+R;R063;05045;05837;32.6;0.48;;1
+R;R064;05051;05659;17.2;0.22;;1
+R;R065;05051;23090;35.4;0.86;;1
+R;R066;05051;23419;12.4;0.18;;1
+R;R067;05051;23574;44.3;0.92;;1
+R;R068;05055;05483;37.6;0.87;;1
+R;R069;05055;05756;33.5;0.79;;1
+R;R070;05059;05209;83.3;2.00;;1
+R;R071;05059;05240;56.0;1.95;;1
+R;R072;05059;05347;20.9;0.69;;1
+R;R073;05059;05380;38.7;1.18;;1
+R;R074;05059;05809;28.9;0.75;;1
+R;R075;05079;05206;24.5;0.55;;1
+R;R076;05079;05237;27.2;0.46;P104;1
+R;R077;05079;05308;19.8;0.31;P140;1
+R;R078;05079;05318;40.8;0.89;P140;1
+R;R079;05079;05674;35.6;0.85;;1
+R;R080;05079;05686;54.2;0.85;P104;1
+R;R081;05079;05690;29.8;0.50;;1
+R;R082;05086;05264;35.9;0.81;;1
+R;R083;05086;05411;72.3;1.99;;1
+R;R084;05086;05501;64.6;1.68;;1
+R;R085;05086;05658;104.6;2.02;;1
+R;R086;05086;05761;45.4;1.16;;1
+R;R087;05088;05212;7.1;0.17;P099;1
+R;R088;05088;05240;51.3;1.03;P001;1
+R;R089;05088;05308;16.3;0.43;P099;1
+R;R090;05088;05360;21.5;0.39;;1
+R;R091;05088;05664;25.8;0.68;;1
+R;R092;05091;05101;25.9;0.57;;1
+R;R093;05091;05353;18.7;0.44;;1
+R;R094;05091;27073;227.1;6.65;;1
+R;R095;05093;05209;25.7;0.48;;1
+R;R096;05093;05642;36.2;0.89;;1
+R;R097;05093;05847;40.3;0.74;;1
+R;R098;05093;27245;102.7;1.89;;1
+R;R099;05101;05353;24.8;0.42;;1
+R;R100;05101;05642;39.6;0.76;;1
+R;R101;05101;05792;48.1;0.92;;1
+R;R102;05101;27245;33.3;0.56;;1
+R;R103;05107;05819;145.0;2.95;P089;1
+R;R104;05107;05854;41.5;0.92;;1
+R;R105;05107;05887;53.4;1.12;;1
+R;R106;05113;05138;36.4;0.54;;1
+R;R107;05113;05306;18.4;0.42;;1
+R;R108;05113;05411;56.1;1.27;;1
+R;R109;05113;05501;48.4;0.96;;1
+R;R110;05120;05154;56.6;0.92;;1
+R;R111;05120;05790;8.6;0.18;P137;1
+R;R112;05120;05895;140.0;2.22;P148;1
+R;R113;05120;23682;40.1;1.46;P137;1
+R;R114;05125;05240;90.0;1.70;;1
+R;R115;05125;05761;59.7;1.24;;1
+R;R116;05125;05847;33.3;0.83;;1
+R;R117;05129;05266;15.5;0.37;;1
+R;R118;05129;05282;35.3;0.62;P008;1
+R;R119;05129;05380;8.3;0.21;;1
+R;R120;05129;05467;30.8;0.96;P112;1
+R;R121;05129;05631;11.7;0.30;;1
+R;R122;05129;05861;36.6;0.59;P008;1
+R;R123;05134;05315;41.0;1.31;;1
+R;R124;05134;05887;20.5;0.51;;1
+R;R125;05138;05284;27.7;0.52;;1
+R;R126;05138;05306;25.5;0.42;;1
+R;R127;05138;05411;78.3;1.44;;1
+R;R128;05138;05842;25.1;0.32;;1
+R;R129;05142;05425;30.2;0.65;;1
+R;R130;05142;05579;60.3;1.09;P115;1
+R;R131;05142;05585;102.8;2.23;P115;1
+R;R132;05142;05670;57.2;1.00;;1
+R;R133;05142;05890;59.3;1.14;;1
+R;R134;05142;15572;159.9;2.28;P115|P147;1
+R;R135;05145;05856;17.1;0.32;;1
+R;R136;05145;17442;24.0;0.85;;1
+R;R137;05145;17614;35.6;1.16;;1
+R;R138;05145;17777;24.2;0.87;;1
+R;R139;05147;05172;11.7;0.19;;1
+R;R140;05148;05376;15.5;0.29;;1
+R;R141;05148;05400;27.1;0.48;;1
+R;R142;05148;05440;16.3;0.36;;1
+R;R143;05148;05615;12.6;0.26;;1
+R;R144;05148;05697;12.8;0.39;;1
+R;R145;05150;05237;52.8;1.34;;1
+R;R146;05150;05310;12.3;0.32;;1
+R;R147;05150;05315;20.9;0.53;;1
+R;R148;05150;05686;42.8;1.07;;1
+R;R149;05154;05250;78.5;1.40;P148;1
+R;R150;05154;05495;74.7;1.62;;1
+R;R151;05154;05790;62.1;1.26;P137;1
+R;R152;05154;23350;19.2;0.27;P068;1
+R;R153;05172;05480;57.9;0.70;;1
+R;R154;05172;27493;71.7;1.23;;1
+R;R155;05172;27615;92.0;2.66;;1
+R;R156;05190;05310;38.2;0.84;P036;1
+R;R157;05190;05425;48.8;0.64;P036;1
+R;R158;05190;05670;21.5;0.35;P036;1
+R;R159;05190;05690;19.7;0.41;;1
+R;R160;05190;05890;21.4;0.47;P036;1
+R;R161;05197;05313;17.0;0.40;;1
+R;R162;05197;05652;35.2;0.67;;1
+R;R163;05197;05697;23.1;0.33;P038;1
+R;R164;05206;05237;47.8;0.94;P104;1
+R;R165;05206;05541;44.2;1.13;;1
+R;R166;05206;05674;24.2;0.45;;1
+R;R167;05209;05642;33.9;0.85;;1
+R;R168;05209;05792;44.4;1.22;;1
+R;R169;05209;05809;58.7;1.33;;1
+R;R170;05209;05861;42.9;1.09;;1
+R;R171;05209;27245;89.8;1.79;;1
+R;R172;05212;05237;34.9;0.66;P140|P017|P104;1
+R;R173;05212;05308;10.1;0.29;;1
+R;R174;05212;05318;15.6;0.54;;1
+R;R175;05234;05480;50.1;0.62;;1
+R;R176;05234;05842;18.5;0.26;;1
+R;R177;05237;05264;25.3;0.50;;1
+R;R178;05237;05308;27.8;0.45;P104|P140;1
+R;R179;05237;05664;32.0;0.79;;1
+R;R180;05237;05686;29.2;0.48;;1
+R;R181;05240;05656;39.4;0.75;;1
+R;R182;05250;05736;89.8;1.60;;1
+R;R183;05250;05895;33.9;0.68;;1
+R;R184;05264;05664;21.4;0.42;;1
+R;R185;05264;05686;15.8;0.29;;1
+R;R186;05266;05360;4.1;0.12;;1
+R;R187;05266;05380;8.7;0.20;;1
+R;R188;05266;05607;25.8;0.75;P080;1
+R;R189;05266;05631;5.7;0.16;;1
+R;R190;05282;05368;51.9;1.22;;1
+R;R191;05282;05390;36.3;0.71;P109;1
+R;R192;05282;05467;49.8;1.29;P112;1
+R;R193;05282;05679;37.9;1.07;;1
+R;R194;05282;05792;42.2;0.96;;1
+R;R195;05282;05861;14.9;0.34;;1
+R;R196;05284;05842;22.4;0.46;;1
+R;R197;05308;05664;20.3;0.72;;1
+R;R198;05308;05674;29.5;0.83;P017;1
+R;R199;05310;05315;23.8;0.61;;1
+R;R200;05310;05690;46.5;1.04;;1
+R;R201;05310;05890;46.4;1.06;;1
+R;R202;05313;05321;21.7;0.49;;1
+R;R203;05313;05440;26.5;0.56;P038;1
+R;R204;05313;05541;17.5;0.46;;1
+R;R205;05313;05649;40.8;0.75;;1
+R;R206;05313;05660;48.8;1.03;;1
+R;R207;05313;05697;16.0;0.29;P038;1
+R;R208;05318;05440;19.4;0.56;;1
+R;R209;05318;05615;25.2;0.58;;1
+R;R210;05318;05674;22.3;0.55;;1
+R;R211;05321;05541;14.4;0.30;;1
+R;R212;05321;05649;49.6;1.00;;1
+R;R213;05321;05660;57.5;1.29;;1
+R;R214;05321;05667;27.2;0.51;;1
+R;R215;05321;05697;26.1;0.70;;1
+R;R216;05347;05360;29.2;0.81;;1
+R;R217;05347;05380;29.3;0.81;;1
+R;R218;05347;05631;30.3;0.83;;1
+R;R219;05353;05576;14.8;0.49;;1
+R;R220;05353;05642;31.8;0.66;;1
+R;R221;05353;05792;27.7;0.82;;1
+R;R222;05360;05380;6.2;0.13;;1
+R;R223;05360;05631;4.4;0.12;;1
+R;R224;05361;05647;71.4;1.31;;1
+R;R225;05361;05819;65.4;1.30;;1
+R;R226;05364;05368;35.7;1.10;;1
+R;R227;05364;05789;52.9;1.53;;1
+R;R228;05368;05390;47.9;0.88;P109;1
+R;R229;05368;05576;11.2;0.28;;1
+R;R230;05368;05789;24.4;0.62;;1
+R;R231;05368;05792;23.3;0.60;;1
+R;R232;05376;05400;14.8;0.24;;1
+R;R233;05376;05467;29.3;0.78;;1
+R;R234;05376;05607;17.4;0.31;;1
+R;R235;05376;05615;18.7;0.35;;1
+R;R236;05380;05631;5.6;0.16;;1
+R;R237;05390;05679;24.6;0.95;;1
+R;R238;05390;05789;25.3;0.65;;1
+R;R239;05390;05856;22.2;0.43;;1
+R;R240;05400;05615;29.9;0.54;;1
+R;R241;05400;05756;53.8;0.84;;1
+R;R242;05411;05628;34.0;0.86;;1
+R;R243;05411;05658;47.8;1.15;;1
+R;R244;05411;05761;30.4;0.93;;1
+R;R245;05425;05579;62.5;0.82;P115;1
+R;R246;05425;05585;105.0;1.95;P115;1
+R;R247;05425;05670;51.5;0.74;;1
+R;R248;05425;05858;27.9;0.49;;1
+R;R249;05425;05885;19.4;0.48;;1
+R;R250;05440;05541;16.5;0.57;;1
+R;R251;05440;05615;8.7;0.25;;1
+R;R252;05440;05674;22.3;0.51;;1
+R;R253;05440;05697;11.5;0.37;;1
+R;R254;05467;05607;30.4;0.72;;1
+R;R255;05467;05679;23.4;0.75;P112;1
+R;R256;05480;27493;41.8;0.86;;1
+R;R257;05483;05756;34.4;0.65;;1
+R;R258;05483;17495;84.2;2.40;;1
+R;R259;05483;17541;67.9;1.70;;1
+R;R260;05483;17662;91.4;2.41;;1
+R;R261;05490;05659;59.1;0.74;;1
+R;R262;05490;05665;65.8;1.57;;1
+R;R263;05490;05837;48.0;0.79;P035;1
+R;R264;05495;13655;24.2;0.61;;1
+R;R265;05495;23068;117.9;2.35;P068;1
+R;R266;05501;05761;22.8;0.62;;1
+R;R267;05541;05674;29.1;0.78;;1
+R;R268;05541;05697;17.7;0.47;;1
+R;R269;05543;05819;235.9;5.76;;1
+R;R270;05543;05842;64.7;2.36;;1
+R;R271;05576;05792;13.9;0.35;;1
+R;R272;05579;05585;58.9;1.41;;1
+R;R273;05579;68573;63.6;1.08;;1
+R;R274;05585;05591;46.3;1.23;;1
+R;R275;05585;05649;81.4;1.92;;1
+R;R276;05585;15572;71.9;1.58;P116;1
+R;R277;05591;05660;67.5;1.25;;1
+R;R278;05591;15572;34.6;0.71;P116;1
+R;R279;05591;25572;62.1;0.98;P116;1
+R;R280;05604;05736;9.2;0.22;;1
+R;R281;05604;05858;39.4;0.69;;1
+R;R282;05604;05895;60.6;0.98;;1
+R;R283;05607;05615;20.3;0.49;;1
+R;R284;05607;05679;45.8;1.31;P112;1
+R;R285;05615;05674;24.2;0.56;;1
+R;R286;05615;05697;18.8;0.57;;1
+R;R287;05628;05819;101.8;2.52;;1
+R;R288;05642;05792;41.6;0.97;;1
+R;R289;05647;05658;18.4;0.37;;1
+R;R290;05647;05819;35.7;0.77;;1
+R;R291;05647;05887;63.8;1.15;P089;1
+R;R292;05649;05660;33.3;0.75;;1
+R;R293;05649;05667;43.2;0.79;;1
+R;R294;05652;05660;57.3;0.96;;1
+R;R295;05652;05697;44.0;0.73;P038;1
+R;R296;05656;05664;36.9;0.83;;1
+R;R297;05656;05761;12.0;0.31;;1
+R;R298;05658;05819;35.3;0.90;;1
+R;R299;05659;05665;96.2;2.20;;1
+R;R300;05660;15572;93.2;1.60;P116;1
+R;R301;05665;05837;103.3;2.16;P035;1
+R;R302;05665;23855;34.5;0.64;;1
+R;R303;05667;05670;41.5;0.90;;1
+R;R304;05667;05690;42.0;1.02;;1
+R;R305;05670;05690;21.9;0.55;;1
+R;R306;05670;05890;26.1;0.58;;1
+R;R307;05679;05861;45.6;1.11;;1
+R;R308;05736;05858;45.5;0.78;;1
+R;R309;05736;05895;58.7;0.98;;1
+R;R310;05756;17013;44.7;1.12;;1
+R;R311;05789;05856;21.1;0.56;;1
+R;R312;05790;05854;62.1;0.97;;1
+R;R313;05790;23682;32.9;1.32;P137;1
+R;R314;05792;05861;42.0;0.93;;1
+R;R315;05819;05854;128.4;2.42;P089;1
+R;R316;05854;05887;36.9;0.59;;1
+R;R317;05856;17013;64.6;1.24;;1
+R;R318;05858;05885;16.3;0.33;;1
+R;R319;05885;05890;33.6;0.66;;1
+R;R320;05893;13160;68.1;1.55;;1
+R;R321;05893;68081;17.3;0.36;;1
+R;R322;05893;68235;92.8;1.95;;1
+R;R323;05893;68575;61.5;1.18;;1
+R;R324;08001;08296;16.3;0.33;;1
+R;R325;08001;08433;17.0;0.41;;1
+R;R326;08001;08573;13.0;0.36;P105;1
+R;R327;08001;08634;24.6;0.57;P124;1
+R;R328;08001;08758;12.1;0.27;;1
+R;R329;08001;08832;28.0;0.58;;1
+R;R330;08001;47001;103.3;1.35;P040|P081|P138;1
+R;R331;08078;08296;15.8;0.23;P057;1
+R;R332;08078;08372;19.2;0.38;;1
+R;R333;08078;08433;21.1;0.42;P057;1
+R;R334;08078;08549;28.6;0.66;;1
+R;R335;08078;08558;8.3;0.18;;1
+R;R336;08078;08573;32.1;0.54;P057|P067|P105;1
+R;R337;08078;08638;20.4;0.28;;1
+R;R338;08078;08832;15.3;0.35;;1
+R;R339;08078;08849;10.4;0.21;;1
+R;R340;08137;08141;16.5;0.38;;1
+R;R341;08137;08436;26.1;0.63;;1
+R;R342;08137;08770;6.6;0.10;;1
+R;R343;08137;47675;137.8;2.57;P124|P040;1
+R;R344;08141;08436;11.9;0.31;;1
+R;R345;08141;08638;25.6;0.65;;1
+R;R346;08141;08770;20.3;0.41;;1
+R;R347;08141;47675;133.8;2.66;P124|P040;1
+R;R348;08296;08433;19.7;0.35;P058;1
+R;R349;08296;08573;18.4;0.37;P067|P105;1
+R;R350;08296;08758;13.5;0.26;;1
+R;R351;08296;08832;24.6;0.43;P067;1
+R;R352;08372;08549;16.3;0.41;;1
+R;R353;08372;08832;11.9;0.33;;1
+R;R354;08421;08549;22.5;0.50;;1
+R;R355;08421;08606;23.6;0.56;;1
+R;R356;08421;08849;29.5;0.44;;1
+R;R357;08421;13673;19.1;0.24;;1
+R;R358;08433;08634;8.5;0.19;P124;1
+R;R359;08433;08758;8.4;0.23;;1
+R;R360;08433;47745;37.9;0.79;P040;1
+R;R361;08436;08606;35.9;0.91;;1
+R;R362;08436;08638;24.6;0.47;;1
+R;R363;08436;08675;35.2;0.90;;1
+R;R364;08436;08770;29.9;0.65;;1
+R;R365;08436;13620;40.3;1.09;;1
+R;R366;08436;47675;140.4;2.63;P057|P040;1
+R;R367;08520;08560;12.0;0.18;;1
+R;R368;08520;08634;6.4;0.11;P124;1
+R;R369;08520;08685;2.4;0.05;;1
+R;R370;08549;08832;26.7;0.69;;1
+R;R371;08549;08849;19.1;0.49;;1
+R;R372;08549;13673;34.7;0.65;;1
+R;R373;08558;08638;27.7;0.41;;1
+R;R374;08558;08685;11.7;0.23;;1
+R;R375;08558;08832;22.9;0.50;;1
+R;R376;08560;08638;34.5;0.52;;1
+R;R377;08560;47675;104.3;2.13;P124|P040;1
+R;R378;08573;08758;22.8;0.58;P105;1
+R;R379;08573;08832;26.3;0.57;P105;1
+R;R380;08606;13647;14.8;0.38;;1
+R;R381;08606;13760;15.8;0.40;;1
+R;R382;08634;08685;4.2;0.08;P124;1
+R;R383;08634;08758;16.0;0.35;P124;1
+R;R384;08638;08849;21.7;0.37;;1
+R;R385;08675;08770;17.6;0.33;;1
+R;R386;08675;13140;10.9;0.26;;1
+R;R387;08675;13620;38.3;1.02;;1
+R;R388;08770;13140;11.0;0.14;;1
+R;R389;11001;25178;35.7;0.61;P015|P016;1
+R;R390;11001;25181;43.1;1.15;;1
+R;R391;11001;25286;20.1;0.52;P121;1
+R;R392;11001;25377;26.6;0.72;P090;1
+R;R393;11001;25473;21.8;0.55;P121;1
+R;R394;11001;25754;17.1;0.34;;1
+R;R395;13001;13222;35.0;0.71;P011;1
+R;R396;13001;13683;23.6;0.62;P012;1
+R;R397;13001;13836;17.3;0.49;P012;1
+R;R398;13001;13838;26.7;0.61;P012|P025|P073|P039;1
+R;R399;13006;13458;42.8;1.52;;1
+R;R400;13006;70265;13.0;0.31;;1
+R;R401;13006;70429;10.9;0.26;;1
+R;R402;13030;13074;27.6;0.86;;1
+R;R403;13030;13268;101.6;2.90;;1
+R;R404;13030;13490;108.5;2.73;;1
+R;R405;13030;13549;168.0;5.36;;1
+R;R406;13030;13667;28.4;1.01;;1
+R;R407;13030;13810;55.8;2.02;;1
+R;R408;13030;47245;157.7;3.43;P103;1
+R;R409;13042;13490;16.9;0.32;;1
+R;R410;13042;13600;27.5;0.55;;1
+R;R411;13042;13810;109.4;3.17;;1
+R;R412;13052;13433;35.4;0.61;P059;1
+R;R413;13052;13442;43.9;0.66;P059;1
+R;R414;13052;13647;30.5;0.79;;1
+R;R415;13052;13683;34.4;0.60;;1
+R;R416;13052;13836;15.2;0.24;;1
+R;R417;13052;13838;18.6;0.39;P106;1
+R;R418;13062;13140;15.4;0.34;P020;1
+R;R419;13062;13248;60.0;1.08;P020;1
+R;R420;13062;13433;19.6;0.51;;1
+R;R421;13062;13620;19.3;0.64;;1
+R;R422;13062;13760;24.2;0.72;;1
+R;R423;13062;47541;186.4;3.15;P020|P114;1
+R;R424;13074;13268;102.8;2.69;;1
+R;R425;13074;13667;10.1;0.27;;1
+R;R426;13074;47245;158.8;3.22;P103;1
+R;R427;13140;13248;53.6;0.86;P020;1
+R;R428;13140;47541;180.0;2.93;P020|P114;1
+R;R429;13140;47960;190.3;2.90;P020|P114;1
+R;R430;13160;13670;11.8;0.30;;1
+R;R431;13160;68081;54.5;1.28;;1
+R;R432;13160;68655;74.7;2.20;;1
+R;R433;13188;13430;24.0;0.32;;1
+R;R434;13188;13780;10.1;0.13;;1
+R;R435;13188;47703;25.2;0.50;;1
+R;R436;13188;47707;12.8;0.18;;1
+R;R437;13188;47720;33.7;1.03;;1
+R;R438;13212;13894;26.6;0.51;;1
+R;R439;13212;47555;32.8;0.53;P114;1
+R;R440;13212;47720;119.9;2.57;;1
+R;R441;13212;47798;43.8;0.77;P114;1
+R;R442;13212;70110;49.2;1.18;;1
+R;R443;13212;70717;41.0;1.01;;1
+R;R444;13222;13673;6.6;0.09;;1
+R;R445;13222;13683;25.0;0.38;P011;1
+R;R446;13222;13836;35.2;0.47;P011;1
+R;R447;13244;13654;15.1;0.21;;1
+R;R448;13244;13894;39.8;0.55;;1
+R;R449;13244;47798;57.0;0.82;P114;1
+R;R450;13244;70508;27.9;0.36;P043;1
+R;R451;13248;13442;73.1;1.20;;1
+R;R452;13248;13657;19.4;0.46;;1
+R;R453;13268;13667;97.6;2.46;;1
+R;R454;13268;20517;113.7;2.45;P103;1
+R;R455;13268;20787;120.4;2.52;P103;1
+R;R456;13300;47245;17.9;0.58;;1
+R;R457;13430;70110;25.9;0.41;;1
+R;R458;13433;13442;37.6;0.73;;1
+R;R459;13433;13647;22.8;0.90;;1
+R;R460;13433;13838;48.4;0.78;P059|P106;1
+R;R461;13440;47318;8.5;0.18;;1
+R;R462;13440;47545;39.8;1.01;;1
+R;R463;13440;47692;14.0;0.36;;1
+R;R464;13440;47703;37.5;0.95;;1
+R;R465;13442;13657;61.7;0.86;;1
+R;R466;13442;70713;43.1;0.72;P130;1
+R;R467;13458;13688;303.6;8.74;;1
+R;R468;13458;13810;72.0;1.93;;1
+R;R469;13458;70429;46.6;1.53;;1
+R;R470;13468;13650;15.7;0.21;;1
+R;R471;13468;13780;25.5;0.32;;1
+R;R472;13468;47545;20.7;0.59;;1
+R;R473;13468;47692;15.0;0.27;;1
+R;R474;13468;47703;18.4;0.53;;1
+R;R475;13473;13600;108.2;2.95;;1
+R;R476;13473;13688;63.7;1.61;;1
+R;R477;13473;13744;50.2;1.31;;1
+R;R478;13580;13600;11.6;0.20;;1
+R;R479;13580;20550;34.9;0.90;;1
+R;R480;13600;20295;86.6;1.80;;1
+R;R481;13600;20383;18.0;0.50;;1
+R;R482;13620;13760;10.1;0.33;;1
+R;R483;13647;13760;2.3;0.07;;1
+R;R484;13647;13873;16.6;0.43;;1
+R;R485;13650;20032;59.1;1.48;;1
+R;R486;13650;47318;19.0;0.24;;1
+R;R487;13650;47545;32.9;0.73;;1
+R;R488;13650;47692;6.7;0.17;;1
+R;R489;13650;47703;30.6;0.67;;1
+R;R490;13654;13657;15.9;0.21;;1
+R;R491;13655;70429;50.5;1.00;;1
+R;R492;13657;47541;138.2;2.45;P114;1
+R;R493;13657;47555;75.5;0.92;P114;1
+R;R494;13667;20787;123.9;2.63;P103;1
+R;R495;13670;13688;79.6;1.51;;1
+R;R496;13670;13744;66.0;1.22;;1
+R;R497;13683;13836;21.1;0.37;;1
+R;R498;13683;13838;33.2;0.55;P073|P039;1
+R;R499;13683;13873;11.9;0.31;;1
+R;R500;13688;13744;18.3;0.40;;1
+R;R501;13688;20295;84.3;2.77;;1
+R;R502;13744;20295;70.7;2.48;;1
+R;R503;13744;68575;86.4;2.09;;1
+R;R504;13780;47703;16.6;0.41;;1
+R;R505;13780;47707;4.2;0.08;;1
+R;R506;13780;47720;25.2;0.94;;1
+R;R507;13810;70265;46.9;0.95;;1
+R;R508;13836;13838;15.0;0.34;;1
+R;R509;13836;13873;31.6;0.73;;1
+R;R510;13894;47555;15.4;0.26;P114;1
+R;R511;13894;47798;26.5;0.51;P114;1
+R;R512;15001;15187;12.6;0.25;;1
+R;R513;15001;15476;5.6;0.14;;1
+R;R514;15001;15500;12.7;0.27;;1
+R;R515;15001;15646;26.3;0.46;;1
+R;R516;15001;15762;15.1;0.29;;1
+R;R517;15001;15764;7.9;0.20;;1
+R;R518;15022;15236;23.0;0.58;;1
+R;R519;15022;15299;22.6;0.58;;1
+R;R520;15022;15325;29.5;0.88;;1
+R;R521;15022;15425;13.8;0.38;;1
+R;R522;15022;15667;51.3;0.94;;1
+R;R523;15022;15690;31.9;0.65;;1
+R;R524;15022;15761;24.1;0.66;;1
+R;R525;15022;15778;21.5;0.65;;1
+R;R526;15047;15226;22.1;0.61;;1
+R;R527;15047;15362;27.9;0.73;;1
+R;R528;15047;15377;63.5;1.77;;1
+R;R529;15047;15466;46.9;1.05;P046;1
+R;R530;15047;15518;60.6;1.31;;1
+R;R531;15047;15542;34.4;1.00;;1
+R;R532;15047;15822;20.4;0.43;;1
+R;R533;15051;15204;24.1;0.48;;1
+R;R534;15051;15232;22.7;0.71;;1
+R;R535;15051;15293;16.2;0.41;;1
+R;R536;15051;15407;26.2;0.66;;1
+R;R537;15051;15469;26.1;0.44;P009;1
+R;R538;15051;15763;25.6;0.86;;1
+R;R539;15051;68298;35.4;0.89;;1
+R;R540;15087;15162;5.6;0.09;;1
+R;R541;15087;15790;38.2;0.71;;1
+R;R542;15087;15839;14.3;0.30;;1
+R;R543;15090;15455;12.0;0.36;;1
+R;R544;15090;15514;27.2;0.73;;1
+R;R545;15092;15215;17.8;0.50;;1
+R;R546;15092;15296;25.8;0.68;;1
+R;R547;15092;15790;17.6;0.51;;1
+R;R548;15097;15403;4.3;0.12;;1
+R;R549;15097;15753;24.0;0.61;;1
+R;R550;15097;15810;36.8;0.76;;1
+R;R551;15104;15367;11.8;0.26;;1
+R;R552;15104;15599;11.9;0.22;;1
+R;R553;15104;15646;28.9;0.59;;1
+R;R554;15104;15764;10.0;0.18;;1
+R;R555;15104;15879;16.8;0.36;;1
+R;R556;15106;15131;41.3;0.77;;1
+R;R557;15106;15176;41.8;0.74;;1
+R;R558;15106;15531;15.8;0.33;;1
+R;R559;15106;15832;7.9;0.20;;1
+R;R560;15106;68020;11.4;0.29;;1
+R;R561;15109;15131;19.5;0.49;;1
+R;R562;15109;15212;29.2;0.74;;1
+R;R563;15109;15442;17.6;0.50;;1
+R;R564;15109;15531;37.6;0.78;;1
+R;R565;15109;25745;18.6;0.47;;1
+R;R566;15114;15215;5.4;0.14;;1
+R;R567;15114;15276;8.0;0.21;;1
+R;R568;15114;15491;24.5;0.49;;1
+R;R569;15114;15759;24.4;0.49;;1
+R;R570;15131;15176;10.2;0.24;;1
+R;R571;15131;15442;31.1;0.78;;1
+R;R572;15131;25745;9.7;0.25;;1
+R;R573;15135;15514;18.0;0.47;;1
+R;R574;15135;15667;62.1;1.62;;1
+R;R575;15135;85162;88.4;1.96;;1
+R;R576;15135;85300;58.2;1.62;;1
+R;R577;15162;15693;11.0;0.22;;1
+R;R578;15162;68264;82.3;3.07;;1
+R;R579;15172;15299;13.0;0.34;;1
+R;R580;15172;15380;25.7;0.76;;1
+R;R581;15172;15798;21.5;0.59;;1
+R;R582;15172;15804;24.5;0.62;;1
+R;R583;15172;15842;20.7;0.53;;1
+R;R584;15176;15632;12.1;0.18;;1
+R;R585;15176;15676;22.6;0.51;;1
+R;R586;15176;25745;14.9;0.23;;1
+R;R587;15176;25779;20.2;0.25;;1
+R;R588;15180;15223;302.8;6.60;;1
+R;R589;15180;15248;14.4;0.37;;1
+R;R590;15180;68425;37.2;1.29;;1
+R;R591;15183;15368;29.5;0.75;;1
+R;R592;15183;15403;40.2;1.02;;1
+R;R593;15183;85136;58.5;1.45;;1
+R;R594;15183;85315;65.4;1.46;;1
+R;R595;15185;15686;10.8;0.22;;1
+R;R596;15185;68298;32.5;0.78;;1
+R;R597;15185;68770;16.6;0.33;;1
+R;R598;15187;15204;14.1;0.33;;1
+R;R599;15187;15500;5.9;0.15;;1
+R;R600;15187;15740;22.9;0.42;;1
+R;R601;15187;15764;11.8;0.30;;1
+R;R602;15187;15814;14.3;0.26;;1
+R;R603;15189;15599;6.4;0.15;;1
+R;R604;15189;15621;28.0;0.67;;1
+R;R605;15189;15879;6.4;0.16;;1
+R;R606;15189;15897;39.4;0.79;;1
+R;R607;15204;15476;10.5;0.31;;1
+R;R608;15204;15500;9.5;0.21;;1
+R;R609;15204;15763;29.2;0.82;P142;1
+R;R610;15204;15837;16.8;0.54;P142;1
+R;R611;15212;15442;26.2;0.67;;1
+R;R612;15212;15480;27.7;0.70;;1
+R;R613;15212;15580;51.3;1.64;;1
+R;R614;15212;25518;72.2;2.87;;1
+R;R615;15215;15296;9.1;0.21;;1
+R;R616;15215;15466;16.5;0.36;;1
+R;R617;15215;15790;19.9;0.38;;1
+R;R618;15215;15820;15.8;0.35;;1
+R;R619;15218;15810;37.8;0.76;;1
+R;R620;15218;68147;23.0;0.58;;1
+R;R621;15218;68425;48.6;1.58;;1
+R;R622;15218;68682;57.2;2.02;;1
+R;R623;15223;54174;143.5;3.15;;1
+R;R624;15223;54377;102.2;2.48;;1
+R;R625;15223;54820;102.4;2.46;;1
+R;R626;15223;81736;30.1;0.48;;1
+R;R627;15224;15407;20.6;0.53;P125;1
+R;R628;15224;15638;15.9;0.40;P125;1
+R;R629;15224;15646;12.4;0.27;;1
+R;R630;15224;15762;2.7;0.08;;1
+R;R631;15226;15272;12.0;0.39;;1
+R;R632;15226;15542;21.3;0.59;;1
+R;R633;15226;15759;21.1;0.59;;1
+R;R634;15232;15476;21.2;0.62;;1
+R;R635;15232;15762;12.8;0.40;;1
+R;R636;15236;15322;44.8;1.20;;1
+R;R637;15236;15325;49.9;1.39;;1
+R;R638;15236;15425;30.2;0.66;;1
+R;R639;15236;15667;44.7;0.86;;1
+R;R640;15236;15690;25.3;0.57;;1
+R;R641;15236;15761;44.5;1.17;;1
+R;R642;15238;15491;17.2;0.34;;1
+R;R643;15238;15516;13.8;0.32;;1
+R;R644;15238;15693;9.9;0.23;;1
+R;R645;15238;15759;19.4;0.42;;1
+R;R646;15238;15806;11.5;0.27;;1
+R;R647;15244;15332;13.8;0.35;;1
+R;R648;15244;15522;7.4;0.19;;1
+R;R649;15244;85136;104.1;2.60;;1
+R;R650;15244;85315;110.9;2.60;;1
+R;R651;15248;15317;7.1;0.18;;1
+R;R652;15248;15522;7.8;0.20;;1
+R;R653;15272;15362;6.9;0.19;;1
+R;R654;15272;15491;17.4;0.47;;1
+R;R655;15272;15516;28.4;0.67;;1
+R;R656;15272;15542;15.3;0.36;;1
+R;R657;15272;15759;11.7;0.33;;1
+R;R658;15272;15806;19.3;0.47;;1
+R;R659;15272;15822;14.2;0.49;;1
+R;R660;15276;15693;13.7;0.35;;1
+R;R661;15293;15407;21.6;0.55;;1
+R;R662;15293;15469;18.9;0.66;;1
+R;R663;15293;15696;14.5;0.37;;1
+R;R664;15296;15464;9.1;0.24;;1
+R;R665;15296;15550;144.8;3.35;P046;1
+R;R666;15296;15790;28.0;0.56;;1
+R;R667;15296;15820;8.7;0.32;;1
+R;R668;15299;15380;13.9;0.46;;1
+R;R669;15299;15425;24.0;0.54;;1
+R;R670;15299;15511;15.2;0.51;;1
+R;R671;15299;15798;9.6;0.29;;1
+R;R672;15317;15522;6.2;0.16;;1
+R;R673;15317;15673;26.6;0.67;;1
+R;R674;15322;15325;11.9;0.32;;1
+R;R675;15322;15761;8.4;0.26;;1
+R;R676;15322;15778;3.5;0.10;;1
+R;R677;15322;25436;22.0;0.56;;1
+R;R678;15322;25807;10.1;0.26;;1
+R;R679;15325;15761;9.7;0.26;;1
+R;R680;15325;25436;32.4;0.86;;1
+R;R681;15325;25807;21.2;0.56;;1
+R;R682;15332;15522;10.5;0.27;;1
+R;R683;15362;15542;16.2;0.38;;1
+R;R684;15362;15759;16.0;0.38;;1
+R;R685;15367;15494;17.0;0.49;;1
+R;R686;15367;15599;5.7;0.17;;1
+R;R687;15367;15804;10.6;0.30;;1
+R;R688;15368;15755;20.6;0.52;;1
+R;R689;15368;85136;67.6;2.19;;1
+R;R690;15368;85315;74.5;2.19;;1
+R;R691;15377;15464;116.1;2.38;P046;1
+R;R692;15377;15518;82.9;1.69;;1
+R;R693;15377;15533;35.3;0.97;;1
+R;R694;15377;15550;33.4;0.93;;1
+R;R695;15377;85001;41.8;1.01;;1
+R;R696;15377;85010;65.4;1.31;;1
+R;R697;15380;15778;17.2;0.51;;1
+R;R698;15401;15480;36.6;1.29;;1
+R;R699;15401;15507;40.4;1.24;;1
+R;R700;15401;15580;13.6;0.37;;1
+R;R701;15401;25885;23.2;0.59;;1
+R;R702;15403;15673;20.6;0.52;;1
+R;R703;15407;15638;12.2;0.22;;1
+R;R704;15407;15696;16.5;0.32;;1
+R;R705;15407;15762;21.5;0.56;P125;1
+R;R706;15407;15776;12.5;0.23;;1
+R;R707;15425;15667;39.9;0.65;;1
+R;R708;15425;15690;20.6;0.36;;1
+R;R709;15425;15761;25.3;0.75;;1
+R;R710;15425;15778;22.7;0.74;;1
+R;R711;15442;15480;30.6;0.78;;1
+R;R712;15442;15531;25.9;0.90;;1
+R;R713;15442;15681;40.6;0.95;;1
+R;R714;15455;15514;32.3;0.82;;1
+R;R715;15455;15660;18.2;0.57;;1
+R;R716;15455;15897;18.9;0.43;;1
+R;R717;15464;15820;6.6;0.17;;1
+R;R718;15466;15491;18.2;0.41;;1
+R;R719;15466;15759;18.1;0.40;;1
+R;R720;15466;15820;7.0;0.20;;1
+R;R721;15469;15816;12.1;0.39;;1
+R;R722;15469;68077;9.6;0.24;;1
+R;R723;15476;15500;13.3;0.34;;1
+R;R724;15476;15762;11.8;0.31;;1
+R;R725;15476;15764;12.3;0.27;;1
+R;R726;15480;15681;39.3;1.17;;1
+R;R727;15491;15759;9.2;0.17;;1
+R;R728;15491;15806;11.2;0.27;;1
+R;R729;15491;15820;17.6;0.38;;1
+R;R730;15494;15804;15.6;0.30;;1
+R;R731;15494;15835;9.1;0.18;;1
+R;R732;15494;15861;10.2;0.34;;1
+R;R733;15500;15740;27.7;0.55;;1
+R;R734;15500;15763;30.2;0.75;P142;1
+R;R735;15500;15764;17.1;0.36;;1
+R;R736;15500;15814;19.1;0.39;;1
+R;R737;15500;15837;17.9;0.48;P142;1
+R;R738;15507;15580;31.4;1.04;;1
+R;R739;15507;15681;26.1;0.40;;1
+R;R740;15511;15798;17.1;0.60;;1
+R;R741;15511;15842;25.4;0.78;;1
+R;R742;15514;15660;25.1;0.72;;1
+R;R743;15514;85015;37.7;0.95;;1
+R;R744;15514;85162;87.6;1.76;;1
+R;R745;15514;85300;57.4;1.43;;1
+R;R746;15516;15693;21.8;0.46;;1
+R;R747;15516;15763;21.1;0.52;;1
+R;R748;15516;15806;21.4;0.49;;1
+R;R749;15516;15837;19.4;0.53;;1
+R;R750;15518;85001;58.6;0.83;;1
+R;R751;15518;85010;33.5;0.54;;1
+R;R752;15518;85279;15.9;0.35;;1
+R;R753;15518;85410;68.0;1.01;;1
+R;R754;15531;15681;23.5;0.37;;1
+R;R755;15533;15550;28.4;0.71;;1
+R;R756;15533;85225;48.9;1.53;;1
+R;R757;15533;85263;95.1;2.42;;1
+R;R758;15533;85400;115.9;3.59;;1
+R;R759;15537;15723;21.4;0.54;;1
+R;R760;15537;15757;11.1;0.27;;1
+R;R761;15537;15790;14.0;0.27;;1
+R;R762;15537;15839;23.1;0.47;;1
+R;R763;15542;15814;22.7;0.70;;1
+R;R764;15572;17495;109.0;1.74;;1
+R;R765;15599;15621;28.3;0.63;;1
+R;R766;15599;15764;17.0;0.41;;1
+R;R767;15599;15879;8.2;0.21;;1
+R;R768;15600;15676;15.7;0.51;;1
+R;R769;15600;15808;5.9;0.21;;1
+R;R770;15621;15897;16.9;0.45;;1
+R;R771;15632;15808;36.3;0.55;;1
+R;R772;15632;68020;38.2;0.97;;1
+R;R773;15638;15646;19.6;0.40;P125;1
+R;R774;15638;15696;19.8;0.37;;1
+R;R775;15638;15762;16.8;0.38;P125;1
+R;R776;15638;15776;11.9;0.21;;1
+R;R777;15646;15762;13.6;0.29;;1
+R;R778;15646;15861;26.9;0.61;;1
+R;R779;15664;15686;9.6;0.17;;1
+R;R780;15664;68077;16.7;0.28;;1
+R;R781;15664;68327;5.6;0.13;;1
+R;R782;15664;68673;21.1;0.74;;1
+R;R783;15667;15690;21.0;0.35;;1
+R;R784;15667;85162;50.5;0.72;;1
+R;R785;15667;85300;20.3;0.39;;1
+R;R786;15667;85440;49.9;0.70;P131;1
+R;R787;15673;68425;43.6;1.41;;1
+R;R788;15676;15808;14.3;0.34;;1
+R;R789;15676;25317;21.3;0.54;;1
+R;R790;15676;25745;19.0;0.47;;1
+R;R791;15676;25779;21.0;0.45;;1
+R;R792;15686;68298;35.3;0.79;;1
+R;R793;15686;68327;14.3;0.25;;1
+R;R794;15686;68770;19.4;0.34;;1
+R;R795;15690;15761;44.0;1.03;;1
+R;R796;15693;15806;19.7;0.49;;1
+R;R797;15696;15776;14.2;0.32;;1
+R;R798;15720;15723;6.3;0.16;;1
+R;R799;15720;15774;23.0;0.48;;1
+R;R800;15723;15839;31.8;0.86;;1
+R;R801;15740;15764;13.8;0.26;;1
+R;R802;15740;15814;10.6;0.20;;1
+R;R803;15740;15879;14.5;0.50;;1
+R;R804;15753;15774;18.9;0.23;;1
+R;R805;15753;15810;14.2;0.17;;1
+R;R806;15755;15757;18.5;0.47;;1
+R;R807;15757;15790;23.2;0.51;;1
+R;R808;15759;15806;10.3;0.20;;1
+R;R809;15759;15820;17.6;0.37;;1
+R;R810;15759;15822;23.2;0.68;;1
+R;R811;15761;15778;10.2;0.32;;1
+R;R812;15763;15837;14.0;0.44;;1
+R;R813;15764;15879;15.2;0.37;;1
+R;R814;15774;68502;47.9;0.98;;1
+R;R815;15776;15808;5.7;0.15;;1
+R;R816;15778;15798;12.9;0.34;;1
+R;R817;15778;25807;12.9;0.34;;1
+R;R818;15804;15835;16.2;0.32;;1
+R;R819;15804;15842;22.4;0.56;;1
+R;R820;15810;68147;18.6;0.22;;1
+R;R821;15810;68425;44.2;1.23;;1
+R;R822;15814;15837;23.0;0.49;;1
+R;R823;15816;68077;20.1;0.56;;1
+R;R824;15816;68298;34.7;1.35;;1
+R;R825;15832;68020;6.4;0.17;;1
+R;R826;15832;68271;21.3;0.54;;1
+R;R827;15835;15861;9.6;0.28;;1
+R;R828;15835;25873;23.2;0.58;;1
+R;R829;15842;25873;24.5;0.74;;1
+R;R830;15861;25873;22.1;0.33;P004;1
+R;R831;17001;17174;22.9;0.39;P108;1
+R;R832;17001;17486;19.4;0.40;P071;1
+R;R833;17001;17873;6.3;0.14;;1
+R;R834;17001;66682;37.2;0.60;P108|P136|P135;1
+R;R835;17013;17442;82.5;1.41;P133;1
+R;R836;17013;17513;14.9;0.28;;1
+R;R837;17042;17616;14.2;0.26;;1
+R;R838;17042;66088;21.8;0.50;;1
+R;R839;17042;66318;11.3;0.20;;1
+R;R840;17042;66456;23.1;0.52;;1
+R;R841;17042;66594;24.9;0.45;P127;1
+R;R842;17050;17272;18.9;0.37;;1
+R;R843;17050;17388;26.6;0.96;;1
+R;R844;17050;17442;58.1;1.15;P134;1
+R;R845;17050;17446;77.3;1.44;;1
+R;R846;17050;17486;30.1;0.57;;1
+R;R847;17050;17653;22.4;0.42;;1
+R;R848;17088;17665;11.8;0.22;;1
+R;R849;17088;17877;17.3;0.35;P002;1
+R;R850;17088;66075;34.2;0.71;;1
+R;R851;17088;66400;18.9;0.33;;1
+R;R852;17174;17524;8.2;0.16;;1
+R;R853;17174;17873;25.9;0.50;P108;1
+R;R854;17174;66170;24.6;0.42;P136|P135;1
+R;R855;17174;66440;28.3;0.53;;1
+R;R856;17174;66682;15.4;0.25;P136|P135;1
+R;R857;17272;17388;33.7;0.62;;1
+R;R858;17272;17486;27.5;0.51;;1
+R;R859;17272;17777;32.3;0.61;P134;1
+R;R860;17272;66594;55.2;1.05;P134;1
+R;R861;17380;17495;43.9;0.91;;1
+R;R862;17380;17867;44.9;0.89;;1
+R;R863;17380;25572;2.8;0.07;;1
+R;R864;17380;73349;36.1;0.68;;1
+R;R865;17388;17442;36.8;0.74;P134;1
+R;R866;17388;17653;25.6;0.86;;1
+R;R867;17388;17777;29.3;0.56;P134;1
+R;R868;17433;17444;24.7;0.46;;1
+R;R869;17433;17446;40.2;0.98;;1
+R;R870;17433;17541;30.5;0.63;;1
+R;R871;17433;73152;68.2;1.87;;1
+R;R872;17433;73283;43.1;0.89;;1
+R;R873;17433;73347;66.9;1.44;;1
+R;R874;17442;17777;14.7;0.49;;1
+R;R875;17444;17541;49.8;0.97;;1
+R;R876;17444;17662;45.7;1.05;;1
+R;R877;17444;17867;25.8;0.73;;1
+R;R878;17446;73347;62.9;1.86;;1
+R;R879;17495;17662;54.9;1.52;;1
+R;R880;17495;17867;55.3;1.36;;1
+R;R881;17495;25572;44.6;0.91;;1
+R;R882;17513;17653;33.7;0.63;;1
+R;R883;17524;17665;40.8;0.75;P060;1
+R;R884;17524;17873;31.8;0.62;P108;1
+R;R885;17524;66440;27.3;0.51;;1
+R;R886;17524;66682;18.7;0.34;P136|P135;1
+R;R887;17541;17662;43.5;1.06;;1
+R;R888;17614;17777;12.8;0.31;;1
+R;R889;17614;66318;25.6;0.43;P127;1
+R;R890;17614;66594;19.8;0.38;;1
+R;R891;17616;17665;13.4;0.25;;1
+R;R892;17616;17877;21.8;0.52;;1
+R;R893;17616;66088;29.3;0.68;;1
+R;R894;17616;66456;34.2;0.75;;1
+R;R895;17662;17867;34.3;0.67;;1
+R;R896;17665;17877;17.5;0.33;;1
+R;R897;17665;66088;35.0;0.62;;1
+R;R898;17867;73283;42.2;1.18;;1
+R;R899;17867;73349;36.1;0.62;;1
+R;R900;17867;73443;20.7;0.74;;1
+R;R901;17877;66045;20.3;0.66;;1
+R;R902;17877;66075;38.6;0.69;P002;1
+R;R903;17877;66088;23.4;0.40;;1
+R;R904;18001;18410;31.2;0.49;;1
+R;R905;18001;18479;24.9;0.62;;1
+R;R906;18001;41006;82.2;1.08;;1
+R;R907;18029;18205;36.4;0.92;;1
+R;R908;18029;18479;48.7;1.66;;1
+R;R909;18029;18860;37.3;1.28;;1
+R;R910;18029;19533;72.9;2.58;;1
+R;R911;18094;18479;20.5;0.52;;1
+R;R912;18094;18610;17.2;0.44;;1
+R;R913;18150;18256;69.2;1.27;;1
+R;R914;18150;18756;127.2;5.08;;1
+R;R915;18205;18610;47.8;1.64;;1
+R;R916;18205;18860;44.5;1.12;;1
+R;R917;18247;18256;14.4;0.23;;1
+R;R918;18247;18592;32.7;0.52;;1
+R;R919;18256;18410;21.1;0.34;;1
+R;R920;18256;18460;56.1;1.68;;1
+R;R921;18410;18460;44.6;1.51;;1
+R;R922;18410;18479;54.4;1.08;;1
+R;R923;18410;18756;152.9;5.09;;1
+R;R924;18460;18756;157.5;5.85;;1
+R;R925;18479;18860;45.1;1.13;;1
+R;R926;18592;18753;57.1;0.90;;1
+R;R927;18592;41298;220.0;3.01;P005;1
+R;R928;18610;18785;120.3;3.01;;1
+R;R929;18610;19533;62.5;1.90;;1
+R;R930;18753;41020;185.9;4.19;;1
+R;R931;18753;41132;194.7;4.53;;1
+R;R932;18753;50350;140.6;3.37;;1
+R;R933;18785;18860;42.0;1.05;;1
+R;R934;19001;19130;35.4;0.92;;1
+R;R935;19001;19256;33.5;0.88;;1
+R;R936;19001;19548;35.0;1.01;;1
+R;R937;19001;19585;28.6;0.84;;1
+R;R938;19001;19807;15.9;0.42;;1
+R;R939;19001;19824;32.9;0.76;;1
+R;R940;19022;19100;46.1;1.25;;1
+R;R941;19022;19397;28.0;0.67;;1
+R;R942;19022;19532;70.4;1.81;;1
+R;R943;19022;19693;29.6;0.76;;1
+R;R944;19022;19785;55.4;1.62;;1
+R;R945;19050;19075;39.3;1.34;;1
+R;R946;19050;19256;143.2;4.20;;1
+R;R947;19075;19450;55.6;1.29;;1
+R;R948;19075;19532;43.8;1.29;;1
+R;R949;19075;19785;57.5;1.55;;1
+R;R950;19075;52256;76.8;2.19;;1
+R;R951;19075;52405;48.6;1.73;;1
+R;R952;19100;19290;50.7;1.82;;1
+R;R953;19100;19397;65.5;1.75;;1
+R;R954;19100;19450;51.7;1.85;;1
+R;R955;19100;19532;46.6;1.40;;1
+R;R956;19100;19693;57.1;1.59;;1
+R;R957;19100;19701;108.1;2.78;;1
+R;R958;19100;19785;45.5;1.34;;1
+R;R959;19100;52693;56.5;2.05;;1
+R;R960;19110;19698;28.8;0.58;;1
+R;R961;19110;19780;14.0;0.46;;1
+R;R962;19110;19845;44.7;0.81;P145;1
+R;R963;19110;76364;38.0;0.73;;1
+R;R964;19130;19137;50.0;1.05;;1
+R;R965;19130;19256;64.5;1.68;;1
+R;R966;19130;19473;33.0;0.65;;1
+R;R967;19130;19548;14.3;0.32;;1
+R;R968;19130;19585;57.2;1.57;;1
+R;R969;19130;19824;36.5;0.96;;1
+R;R970;19137;19364;45.4;1.17;;1
+R;R971;19137;19473;37.5;1.05;;1
+R;R972;19137;19548;37.3;0.78;;1
+R;R973;19137;19698;38.8;0.92;;1
+R;R974;19137;19743;39.7;1.24;;1
+R;R975;19137;19780;56.5;1.51;;1
+R;R976;19142;19212;24.7;0.59;;1
+R;R977;19142;19300;13.2;0.31;;1
+R;R978;19142;19698;11.0;0.27;;1
+R;R979;19142;19821;33.4;0.68;;1
+R;R980;19142;19845;18.1;0.38;P145;1
+R;R981;19212;19300;25.3;0.66;;1
+R;R982;19212;19455;10.8;0.23;;1
+R;R983;19212;19513;9.9;0.25;;1
+R;R984;19212;19821;42.4;0.77;;1
+R;R985;19256;19807;23.2;0.63;;1
+R;R986;19290;19450;27.2;0.58;;1
+R;R987;19290;52203;14.4;0.45;;1
+R;R988;19290;52399;23.1;0.50;;1
+R;R989;19290;52693;9.6;0.25;;1
+R;R990;19300;19513;23.5;0.57;;1
+R;R991;19300;19573;12.5;0.33;;1
+R;R992;19300;19698;18.8;0.48;;1
+R;R993;19300;19821;36.0;0.87;;1
+R;R994;19300;19845;11.8;0.36;;1
+R;R995;19355;19517;29.1;0.60;;1
+R;R996;19355;19743;75.7;1.72;;1
+R;R997;19355;41396;46.8;0.92;;1
+R;R998;19355;41483;70.2;1.38;;1
+R;R999;19355;41518;66.1;1.22;;1
+R;R1000;19364;19743;28.7;0.63;;1
+R;R1001;19364;19821;29.3;0.74;;1
+R;R1002;19392;19397;48.4;1.56;;1
+R;R1003;19392;19532;34.3;1.09;P042;1
+R;R1004;19392;19622;16.6;0.31;;1
+R;R1005;19397;19693;46.2;1.11;;1
+R;R1006;19397;19785;41.4;1.41;;1
+R;R1007;19450;52256;54.7;1.53;;1
+R;R1008;19450;52399;29.6;0.56;;1
+R;R1009;19450;52405;39.4;1.11;;1
+R;R1010;19455;19513;13.2;0.24;;1
+R;R1011;19455;19573;25.5;0.54;;1
+R;R1012;19455;76275;8.6;0.15;;1
+R;R1013;19455;76563;21.9;0.37;;1
+R;R1014;19473;19548;20.4;0.38;;1
+R;R1015;19473;19780;33.0;0.60;;1
+R;R1016;19513;19573;13.8;0.40;;1
+R;R1017;19513;19845;20.8;0.52;;1
+R;R1018;19517;41396;42.7;0.86;;1
+R;R1019;19517;41483;53.0;1.31;;1
+R;R1020;19517;41518;61.9;1.15;;1
+R;R1021;19532;19785;21.8;0.53;;1
+R;R1022;19533;86001;63.9;1.71;;1
+R;R1023;19533;86571;34.3;0.92;;1
+R;R1024;19533;86885;49.8;1.47;;1
+R;R1025;19548;19743;23.3;0.54;;1
+R;R1026;19548;19824;28.6;0.90;;1
+R;R1027;19573;19845;8.7;0.17;;1
+R;R1028;19573;76001;28.6;0.66;;1
+R;R1029;19573;76130;27.2;0.58;;1
+R;R1030;19573;76275;26.9;0.57;;1
+R;R1031;19585;19760;37.8;1.30;;1
+R;R1032;19585;19807;42.7;1.04;;1
+R;R1033;19585;19824;57.9;1.33;;1
+R;R1034;19622;19760;23.4;0.64;;1
+R;R1035;19622;19807;24.0;0.65;;1
+R;R1036;19693;19701;55.3;1.51;;1
+R;R1037;19693;52693;83.6;2.98;;1
+R;R1038;19698;19845;18.8;0.33;P145;1
+R;R1039;19701;41668;294.3;7.22;;1
+R;R1040;19701;52378;129.2;4.14;;1
+R;R1041;19743;19824;18.0;0.41;;1
+R;R1042;19760;19807;20.6;0.38;;1
+R;R1043;19780;19845;56.4;1.11;;1
+R;R1044;19845;76364;13.9;0.20;;1
+R;R1045;20001;20570;52.9;1.05;;1
+R;R1046;20001;20621;18.9;0.37;;1
+R;R1047;20001;20750;24.8;0.46;;1
+R;R1048;20011;20295;15.0;0.38;;1
+R;R1049;20011;20614;50.7;0.78;P111;1
+R;R1050;20011;20770;39.4;0.49;P096;1
+R;R1051;20011;54245;71.6;1.35;;1
+R;R1052;20013;20045;38.0;0.60;;1
+R;R1053;20013;20570;107.6;1.90;P128;1
+R;R1054;20013;20750;37.5;0.59;P128;1
+R;R1055;20032;20175;47.0;0.84;;1
+R;R1056;20032;20178;88.3;1.47;P075;1
+R;R1057;20032;20250;33.6;0.60;;1
+R;R1058;20032;47318;51.1;1.29;;1
+R;R1059;20045;20250;80.3;1.29;P075;1
+R;R1060;20045;20400;18.1;0.29;;1
+R;R1061;20060;20238;22.1;0.30;P044;1
+R;R1062;20060;20250;41.7;0.53;;1
+R;R1063;20060;47058;42.9;0.53;;1
+R;R1064;20060;47660;50.9;0.91;;1
+R;R1065;20175;20178;118.8;1.89;P075;1
+R;R1066;20175;20250;64.1;1.02;;1
+R;R1067;20175;20400;121.0;2.07;P075;1
+R;R1068;20175;47245;38.4;0.64;;1
+R;R1069;20178;20228;28.2;0.44;;1
+R;R1070;20178;20250;62.7;0.88;P075;1
+R;R1071;20178;20400;40.9;0.72;P119;1
+R;R1072;20228;20400;51.7;0.76;P119;1
+R;R1073;20228;20517;35.6;0.43;;1
+R;R1074;20238;20570;142.9;2.15;P044|P143;1
+R;R1075;20238;47030;31.9;0.60;;1
+R;R1076;20238;47288;51.9;0.96;;1
+R;R1077;20250;20400;64.8;1.05;P075;1
+R;R1078;20295;20383;73.8;1.40;;1
+R;R1079;20310;20614;20.8;0.44;;1
+R;R1080;20310;54206;25.5;0.54;;1
+R;R1081;20310;54245;30.1;0.87;;1
+R;R1082;20310;54498;20.6;0.43;;1
+R;R1083;20310;54800;28.1;0.68;;1
+R;R1084;20383;20550;32.4;0.70;;1
+R;R1085;20443;20621;17.3;0.32;;1
+R;R1086;20517;20550;32.3;0.41;P103;1
+R;R1087;20517;20787;27.5;0.34;;1
+R;R1088;20550;20787;39.0;0.48;P103;1
+R;R1089;20550;54245;45.2;1.02;;1
+R;R1090;20570;20621;69.7;1.37;;1
+R;R1091;20614;20770;78.0;1.11;P111|P096;1
+R;R1092;20614;54206;35.1;0.65;;1
+R;R1093;20614;54245;36.6;0.94;;1
+R;R1094;20614;54498;7.0;0.12;;1
+R;R1095;20614;54800;37.7;0.79;;1
+R;R1096;20621;20750;7.0;0.11;;1
+R;R1097;20621;44420;20.3;0.39;;1
+R;R1098;20621;44855;28.8;0.47;;1
+R;R1099;20621;44874;34.9;0.55;;1
+R;R1100;20710;20770;29.9;0.37;;1
+R;R1101;20710;54385;17.4;0.22;;1
+R;R1102;20710;68655;58.5;0.79;P072;1
+R;R1103;20787;47245;30.5;0.38;;1
+R;R1104;23001;23090;48.5;0.81;P026;1
+R;R1105;23001;23162;19.8;0.29;P088|P087;1
+R;R1106;23001;23189;38.2;0.51;P088|P087;1
+R;R1107;23001;23419;57.7;0.73;P026;1
+R;R1108;23001;23555;54.9;0.68;P117;1
+R;R1109;23001;23678;35.0;0.54;P088|P087;1
+R;R1110;23001;23807;83.1;1.43;;1
+R;R1111;23001;23855;92.0;1.60;;1
+R;R1112;23068;23350;39.3;0.72;;1
+R;R1113;23079;23350;25.6;0.31;;1
+R;R1114;23079;23466;38.2;0.56;;1
+R;R1115;23079;23555;24.6;0.30;P092;1
+R;R1116;23079;23570;39.4;0.49;P092;1
+R;R1117;23090;23419;24.6;0.64;;1
+R;R1118;23090;23574;33.4;0.96;;1
+R;R1119;23090;23686;58.2;1.07;;1
+R;R1120;23090;23855;107.9;2.48;;1
+R;R1121;23162;23189;21.1;0.29;;1
+R;R1122;23162;23300;21.8;0.37;;1
+R;R1123;23162;23678;17.9;0.32;;1
+R;R1124;23162;23686;9.1;0.14;;1
+R;R1125;23168;23189;34.2;0.87;;1
+R;R1126;23168;23464;22.8;0.54;;1
+R;R1127;23168;23815;9.5;0.25;;1
+R;R1128;23168;70523;41.7;0.92;;1
+R;R1129;23182;23660;21.6;0.28;;1
+R;R1130;23182;23670;15.0;0.32;;1
+R;R1131;23182;70001;27.4;0.37;;1
+R;R1132;23182;70670;12.3;0.17;;1
+R;R1133;23189;23570;52.9;0.65;P022;1
+R;R1134;23189;23660;32.1;0.40;;1
+R;R1135;23189;23678;26.3;0.40;;1
+R;R1136;23189;23686;27.7;0.38;;1
+R;R1137;23300;23417;26.6;0.45;P093;1
+R;R1138;23300;23678;38.4;0.67;;1
+R;R1139;23300;23686;13.8;0.26;;1
+R;R1140;23350;23466;14.1;0.27;;1
+R;R1141;23417;23586;10.6;0.22;;1
+R;R1142;23417;23672;18.5;0.32;;1
+R;R1143;23417;23675;21.0;0.40;;1
+R;R1144;23417;70221;29.0;0.48;;1
+R;R1145;23419;23574;33.5;0.81;;1
+R;R1146;23464;23586;5.7;0.13;;1
+R;R1147;23464;23815;15.9;0.35;;1
+R;R1148;23464;70221;20.8;0.48;;1
+R;R1149;23464;70523;21.2;0.45;;1
+R;R1150;23466;23580;38.4;0.87;;1
+R;R1151;23466;23682;32.7;0.75;;1
+R;R1152;23500;23574;40.7;1.45;;1
+R;R1153;23500;23675;28.6;0.52;;1
+R;R1154;23555;23570;16.0;0.22;;1
+R;R1155;23555;23678;56.7;0.78;P117|P126;1
+R;R1156;23555;23807;103.8;1.66;P117;1
+R;R1157;23555;23855;112.7;1.83;P117;1
+R;R1158;23570;23678;69.1;0.93;P117|P126;1
+R;R1159;23570;70708;61.6;1.04;P022;1
+R;R1160;23574;23686;70.6;1.31;;1
+R;R1161;23580;23682;44.2;1.09;;1
+R;R1162;23586;23672;27.6;0.50;;1
+R;R1163;23586;70221;20.9;0.51;;1
+R;R1164;23660;70400;26.5;0.60;;1
+R;R1165;23670;23815;7.4;0.16;;1
+R;R1166;23670;70670;24.6;0.43;;1
+R;R1167;23672;70221;11.7;0.23;;1
+R;R1168;23672;70523;37.4;0.68;;1
+R;R1169;23807;23855;24.6;0.47;;1
+R;R1170;23815;70523;34.8;0.73;;1
+R;R1171;25001;25488;14.2;0.36;;1
+R;R1172;25001;25599;23.0;0.48;;1
+R;R1173;25001;25612;19.2;0.44;;1
+R;R1174;25001;25815;12.5;0.32;;1
+R;R1175;25001;25878;27.7;0.55;;1
+R;R1176;25019;25040;19.8;0.59;;1
+R;R1177;25019;25095;18.8;0.46;P062;1
+R;R1178;25019;25269;17.9;0.31;;1
+R;R1179;25019;25718;17.9;0.30;P066;1
+R;R1180;25035;25245;22.2;0.44;;1
+R;R1181;25035;25386;15.7;0.27;;1
+R;R1182;25035;25599;13.7;0.24;;1
+R;R1183;25040;25123;7.5;0.24;;1
+R;R1184;25040;25328;22.3;0.77;;1
+R;R1185;25040;25596;15.1;0.39;;1
+R;R1186;25053;25290;78.8;2.26;P031;1
+R;R1187;25053;25506;42.2;1.65;;1
+R;R1188;25053;25743;84.3;2.35;P031;1
+R;R1189;25053;25805;92.0;2.45;P031;1
+R;R1190;25053;73352;50.3;1.77;;1
+R;R1191;25086;25580;28.2;0.91;;1
+R;R1192;25086;25662;45.0;0.86;;1
+R;R1193;25086;25867;57.5;1.03;;1
+R;R1194;25086;73030;5.7;0.17;;1
+R;R1195;25095;25328;13.9;0.27;P062;1
+R;R1196;25095;25596;22.2;0.72;;1
+R;R1197;25095;25867;4.9;0.10;;1
+R;R1198;25099;25260;19.9;0.53;;1
+R;R1199;25099;25269;13.4;0.30;;1
+R;R1200;25099;25286;22.1;0.48;P045;1
+R;R1201;25099;25430;13.1;0.28;P045;1
+R;R1202;25099;25645;36.8;0.83;;1
+R;R1203;25099;25797;36.2;0.79;;1
+R;R1204;25099;25898;18.2;0.38;;1
+R;R1205;25120;25506;16.9;0.31;;1
+R;R1206;25120;73226;49.8;1.55;;1
+R;R1207;25120;73873;33.4;1.15;;1
+R;R1208;25123;25386;22.8;0.42;;1
+R;R1209;25123;25797;18.5;0.37;;1
+R;R1210;25123;25898;16.0;0.30;;1
+R;R1211;25126;25175;7.6;0.17;;1
+R;R1212;25126;25214;16.2;0.41;;1
+R;R1213;25126;25758;13.8;0.30;;1
+R;R1214;25126;25785;10.7;0.30;;1
+R;R1215;25126;25817;16.6;0.36;;1
+R;R1216;25126;25899;13.3;0.25;;1
+R;R1217;25148;25394;24.3;0.61;;1
+R;R1218;25148;25398;45.2;1.37;;1
+R;R1219;25148;25572;55.7;1.01;P049;1
+R;R1220;25148;25851;30.7;0.79;;1
+R;R1221;25148;25885;35.9;0.90;;1
+R;R1222;25151;25178;16.3;0.22;;1
+R;R1223;25151;25281;15.7;0.40;;1
+R;R1224;25151;25335;31.8;0.42;P097;1
+R;R1225;25151;25339;33.2;1.29;;1
+R;R1226;25151;25594;18.2;0.30;;1
+R;R1227;25151;25841;21.4;0.46;;1
+R;R1228;25151;25845;15.1;0.30;;1
+R;R1229;25154;25779;19.1;0.63;;1
+R;R1230;25154;25781;23.3;0.64;;1
+R;R1231;25154;25843;15.3;0.39;;1
+R;R1232;25168;25320;20.8;0.81;;1
+R;R1233;25168;25662;21.6;0.70;;1
+R;R1234;25168;25867;20.1;0.65;;1
+R;R1235;25175;25214;9.6;0.30;;1
+R;R1236;25175;25758;20.2;0.37;;1
+R;R1237;25175;25785;9.7;0.36;;1
+R;R1238;25175;25799;17.7;0.52;;1
+R;R1239;25178;25841;33.0;0.59;;1
+R;R1240;25178;25845;7.2;0.19;;1
+R;R1241;25181;25279;11.6;0.43;;1
+R;R1242;25181;25377;48.5;1.17;P090;1
+R;R1243;25181;25841;6.9;0.27;;1
+R;R1244;25183;25224;26.7;0.54;;1
+R;R1245;25183;25407;31.8;0.70;;1
+R;R1246;25183;25426;18.9;0.33;;1
+R;R1247;25183;25736;20.9;0.40;;1
+R;R1248;25183;25772;20.6;0.44;;1
+R;R1249;25183;25873;13.7;0.27;;1
+R;R1250;25200;25486;15.5;0.35;;1
+R;R1251;25200;25513;42.1;0.95;;1
+R;R1252;25200;25758;20.7;0.35;;1
+R;R1253;25200;25817;22.4;0.39;;1
+R;R1254;25200;25899;6.6;0.15;;1
+R;R1255;25214;25286;17.3;0.46;P077;1
+R;R1256;25214;25377;36.4;0.97;;1
+R;R1257;25214;25769;27.6;0.90;;1
+R;R1258;25214;25785;16.6;0.56;;1
+R;R1259;25224;25407;10.2;0.38;;1
+R;R1260;25224;25772;22.9;0.67;;1
+R;R1261;25224;25781;12.1;0.42;;1
+R;R1262;25224;25843;9.8;0.22;;1
+R;R1263;25245;25312;45.7;0.92;P100|P032;1
+R;R1264;25245;25386;15.3;0.29;;1
+R;R1265;25245;25645;20.9;0.43;;1
+R;R1266;25258;25394;35.4;0.96;;1
+R;R1267;25258;25513;28.4;0.78;;1
+R;R1268;25260;25269;13.2;0.27;;1
+R;R1269;25260;25286;23.3;0.57;;1
+R;R1270;25260;25430;17.9;0.43;;1
+R;R1271;25260;25473;23.7;0.54;;1
+R;R1272;25260;25658;26.7;0.59;;1
+R;R1273;25260;25769;14.7;0.38;;1
+R;R1274;25260;25799;24.3;0.49;;1
+R;R1275;25269;25328;28.9;0.50;;1
+R;R1276;25269;25430;15.3;0.27;P045;1
+R;R1277;25269;25898;15.3;0.29;;1
+R;R1278;25279;25594;30.7;0.90;;1
+R;R1279;25279;25841;9.5;0.26;;1
+R;R1280;25279;50245;80.1;2.62;P097;1
+R;R1281;25279;50686;59.5;2.37;;1
+R;R1282;25281;25335;26.7;0.69;P097;1
+R;R1283;25281;25339;24.9;0.90;;1
+R;R1284;25281;25845;21.3;0.54;;1
+R;R1285;25281;50245;62.4;2.29;P097;1
+R;R1286;25286;25430;9.7;0.22;;1
+R;R1287;25286;25473;2.7;0.08;;1
+R;R1288;25288;25317;22.4;0.57;;1
+R;R1289;25288;25407;31.8;0.70;;1
+R;R1290;25288;25779;10.1;0.25;;1
+R;R1291;25288;25843;15.4;0.31;;1
+R;R1292;25290;25535;12.8;0.27;;1
+R;R1293;25290;25649;63.0;1.71;P031;1
+R;R1294;25290;25740;35.3;0.61;P129;1
+R;R1295;25290;25743;11.4;0.24;;1
+R;R1296;25290;25805;19.1;0.33;;1
+R;R1297;25293;25299;21.9;0.56;;1
+R;R1298;25295;25326;22.5;0.73;;1
+R;R1299;25295;25486;12.5;0.41;;1
+R;R1300;25295;25736;13.7;0.50;P054;1
+R;R1301;25295;25772;18.3;0.58;P054;1
+R;R1302;25295;25817;5.8;0.10;;1
+R;R1303;25295;25899;16.7;0.41;;1
+R;R1304;25297;25299;14.3;0.37;;1
+R;R1305;25297;25372;12.8;0.31;;1
+R;R1306;25297;25436;35.9;1.43;;1
+R;R1307;25297;25839;25.3;0.66;;1
+R;R1308;25299;25436;48.7;1.76;;1
+R;R1309;25299;25839;34.2;0.89;;1
+R;R1310;25307;25483;27.6;0.49;;1
+R;R1311;25307;25612;5.4;0.13;;1
+R;R1312;25307;73200;21.1;0.41;P030;1
+R;R1313;25307;73275;5.5;0.14;;1
+R;R1314;25312;25645;39.2;0.97;P032|P100;1
+R;R1315;25312;25740;22.8;0.48;P032;1
+R;R1316;25312;25743;23.0;0.39;;1
+R;R1317;25312;25754;22.2;0.50;P032;1
+R;R1318;25312;25797;49.9;1.04;P032|P118|P095;1
+R;R1319;25317;25407;10.8;0.31;;1
+R;R1320;25317;25779;30.3;0.58;;1
+R;R1321;25317;25843;20.5;0.52;;1
+R;R1322;25320;25592;30.1;1.13;;1
+R;R1323;25320;25851;34.6;1.25;;1
+R;R1324;25320;25875;30.3;1.20;;1
+R;R1325;25320;73349;35.9;0.81;P014;1
+R;R1326;25322;25326;13.4;0.26;;1
+R;R1327;25322;25372;53.4;1.05;;1
+R;R1328;25322;25377;26.4;0.49;P069;1
+R;R1329;25322;25758;16.7;0.38;;1
+R;R1330;25322;25817;23.3;0.51;;1
+R;R1331;25324;25368;14.1;0.34;;1
+R;R1332;25324;25483;16.5;0.26;;1
+R;R1333;25324;25580;34.3;1.00;P061;1
+R;R1334;25324;73026;25.5;0.89;;1
+R;R1335;25326;25736;16.1;0.32;;1
+R;R1336;25326;25758;24.9;0.53;;1
+R;R1337;25328;25718;23.4;0.41;P066;1
+R;R1338;25335;25594;18.2;0.27;P097;1
+R;R1339;25335;50001;31.4;0.42;P110;1
+R;R1340;25335;50006;52.0;0.72;P110|P101;1
+R;R1341;25335;50245;48.4;1.78;;1
+R;R1342;25339;25594;39.8;1.45;;1
+R;R1343;25339;25845;30.9;1.05;;1
+R;R1344;25368;25580;45.1;1.28;P061;1
+R;R1345;25368;25815;18.1;0.47;;1
+R;R1346;25368;73547;29.0;0.97;;1
+R;R1347;25377;25758;25.2;0.44;P069|P132;1
+R;R1348;25386;25797;11.0;0.21;;1
+R;R1349;25394;25398;32.5;1.10;;1
+R;R1350;25394;25823;56.9;1.78;;1
+R;R1351;25394;25885;25.1;0.64;;1
+R;R1352;25398;25489;19.0;0.69;;1
+R;R1353;25398;25491;25.3;0.97;;1
+R;R1354;25398;25592;29.1;0.96;;1
+R;R1355;25398;25851;17.2;0.67;;1
+R;R1356;25402;25491;11.5;0.21;;1
+R;R1357;25402;25658;11.5;0.34;;1
+R;R1358;25402;25875;26.2;0.35;P019;1
+R;R1359;25407;25843;18.8;0.48;;1
+R;R1360;25407;25873;28.4;0.76;;1
+R;R1361;25426;25436;21.3;0.62;P091;1
+R;R1362;25426;25807;17.6;0.46;P091;1
+R;R1363;25430;25473;7.3;0.16;;1
+R;R1364;25430;25898;19.6;0.36;P045;1
+R;R1365;25436;25807;15.5;0.37;;1
+R;R1366;25438;25530;28.8;0.60;;1
+R;R1367;25438;50226;48.9;0.83;P144;1
+R;R1368;25473;25645;36.2;0.67;P095;1
+R;R1369;25473;25754;27.8;0.52;P095|P118;1
+R;R1370;25483;25612;31.2;0.56;;1
+R;R1371;25483;73200;25.9;0.46;P030;1
+R;R1372;25483;73275;27.5;0.48;P030;1
+R;R1373;25483;73547;31.5;0.89;;1
+R;R1374;25486;25736;14.6;0.32;;1
+R;R1375;25486;25772;14.2;0.32;;1
+R;R1376;25486;25793;23.6;0.37;P023;1
+R;R1377;25486;25817;16.8;0.48;;1
+R;R1378;25486;25899;15.7;0.30;;1
+R;R1379;25488;25612;23.4;0.43;;1
+R;R1380;25488;25878;40.6;0.72;;1
+R;R1381;25488;73449;28.6;0.55;;1
+R;R1382;25489;25491;9.4;0.25;;1
+R;R1383;25489;25592;18.5;0.59;;1
+R;R1384;25489;25851;25.0;0.67;;1
+R;R1385;25489;25862;8.9;0.23;;1
+R;R1386;25491;25851;31.1;0.73;P019;1
+R;R1387;25491;25862;12.8;0.33;;1
+R;R1388;25491;25875;19.3;0.31;P019;1
+R;R1389;25506;25524;20.0;0.37;;1
+R;R1390;25506;25649;26.1;1.00;;1
+R;R1391;25506;73873;36.8;1.21;;1
+R;R1392;25513;25777;21.9;0.56;;1
+R;R1393;25513;25871;28.6;1.05;;1
+R;R1394;25513;25899;37.7;0.81;;1
+R;R1395;25518;25653;38.9;1.53;;1
+R;R1396;25524;25805;53.2;0.86;P031;1
+R;R1397;25524;73352;11.6;0.19;;1
+R;R1398;25530;50110;41.4;0.51;;1
+R;R1399;25530;50226;40.4;0.49;P144;1
+R;R1400;25535;25740;42.0;0.73;P129;1
+R;R1401;25535;25743;21.3;0.39;;1
+R;R1402;25535;25805;29.0;0.49;;1
+R;R1403;25580;25662;26.2;0.66;;1
+R;R1404;25580;73030;24.4;0.89;;1
+R;R1405;25580;73547;49.0;1.62;P061;1
+R;R1406;25592;25851;12.7;0.33;;1
+R;R1407;25592;25875;16.7;0.42;;1
+R;R1408;25594;50245;55.8;1.89;P097;1
+R;R1409;25594;50686;80.3;2.87;P097;1
+R;R1410;25596;25662;39.5;0.93;;1
+R;R1411;25599;25815;12.0;0.22;;1
+R;R1412;25599;25878;21.3;0.36;;1
+R;R1413;25612;73148;24.4;0.40;;1
+R;R1414;25612;73200;22.9;0.47;P030;1
+R;R1415;25612;73275;7.7;0.18;;1
+R;R1416;25612;73449;21.1;0.39;;1
+R;R1417;25645;25740;30.6;0.64;P100|P032;1
+R;R1418;25645;25754;37.1;0.73;P095|P118;1
+R;R1419;25645;25797;17.2;0.42;;1
+R;R1420;25649;25805;75.9;1.79;P031;1
+R;R1421;25649;73352;34.2;1.12;;1
+R;R1422;25653;25793;62.3;1.47;P023;1
+R;R1423;25653;25871;65.5;2.40;;1
+R;R1424;25658;25777;19.1;0.49;;1
+R;R1425;25662;25867;16.3;0.32;;1
+R;R1426;25718;25875;11.2;0.19;;1
+R;R1427;25736;25772;8.7;0.18;;1
+R;R1428;25740;25743;43.8;0.75;P129;1
+R;R1429;25740;25754;12.2;0.24;;1
+R;R1430;25743;25805;10.6;0.19;;1
+R;R1431;25745;25779;7.8;0.14;;1
+R;R1432;25758;25817;7.4;0.14;;1
+R;R1433;25758;25899;16.5;0.32;;1
+R;R1434;25769;25785;14.1;0.44;;1
+R;R1435;25769;25799;16.3;0.45;;1
+R;R1436;25777;25862;28.9;0.97;;1
+R;R1437;25781;25793;8.0;0.19;;1
+R;R1438;25781;25843;12.2;0.45;;1
+R;R1439;25785;25799;8.8;0.18;;1
+R;R1440;25785;25899;22.3;0.54;;1
+R;R1441;25797;25898;24.4;0.66;;1
+R;R1442;25805;25878;32.4;0.51;;1
+R;R1443;25815;25878;17.0;0.30;;1
+R;R1444;25817;25899;17.0;0.34;;1
+R;R1445;25823;25885;41.9;1.63;;1
+R;R1446;25841;25845;31.7;0.66;;1
+R;R1447;27001;27050;25.2;0.41;;1
+R;R1448;27025;27050;79.7;1.70;;1
+R;R1449;27025;27135;47.1;1.28;;1
+R;R1450;27025;27430;114.2;2.71;;1
+R;R1451;27025;27600;32.1;0.93;;1
+R;R1452;27050;27160;23.0;0.38;;1
+R;R1453;27050;27413;13.9;0.49;;1
+R;R1454;27073;27245;176.0;5.73;;1
+R;R1455;27073;27660;484.9;10.60;P109|P133|P134|P065|P060|P002;1
+R;R1456;27073;66045;400.5;9.02;P109|P133|P134|P065|P060;1
+R;R1457;27073;66088;387.9;8.55;P109|P133|P134|P065|P060;1
+R;R1458;27135;27160;23.9;0.64;;1
+R;R1459;27135;27600;32.3;1.04;;1
+R;R1460;27135;27810;18.4;0.54;;1
+R;R1461;27160;27413;31.1;0.77;;1
+R;R1462;27160;27600;42.7;1.13;;1
+R;R1463;27160;27810;11.1;0.19;;1
+R;R1464;27205;27361;9.3;0.24;;1
+R;R1465;27205;27450;13.2;0.42;;1
+R;R1466;27205;27491;19.9;0.51;;1
+R;R1467;27361;27430;46.9;1.17;;1
+R;R1468;27361;27450;7.1;0.27;;1
+R;R1469;27361;27810;17.8;0.34;;1
+R;R1470;27430;27810;62.3;1.45;;1
+R;R1471;27491;27660;510.9;8.86;P109|P133|P134|P065|P060|P002;1
+R;R1472;27493;27615;58.4;1.46;;1
+R;R1473;27600;27810;37.3;1.04;;1
+R;R1474;27660;76041;66.3;1.52;;1
+R;R1475;27660;76054;45.1;1.13;;1
+R;R1476;27660;76246;42.5;1.08;;1
+R;R1477;27787;27810;9.0;0.15;;1
+R;R1478;41001;41016;37.3;0.47;P098;1
+R;R1479;41001;41132;29.6;0.38;P085;1
+R;R1480;41001;41524;24.0;0.38;;1
+R;R1481;41001;41615;22.0;0.32;P085;1
+R;R1482;41001;41799;28.9;0.53;;1
+R;R1483;41001;41872;38.2;0.70;;1
+R;R1484;41006;41503;59.4;1.08;;1
+R;R1485;41006;41551;30.4;0.56;;1
+R;R1486;41006;41660;58.8;1.11;;1
+R;R1487;41006;41770;25.4;0.39;;1
+R;R1488;41006;41807;50.1;0.80;;1
+R;R1489;41013;41026;47.1;0.70;P005;1
+R;R1490;41013;41298;22.8;0.44;;1
+R;R1491;41013;41306;49.7;0.73;;1
+R;R1492;41013;41548;4.5;0.10;;1
+R;R1493;41016;41524;53.0;0.73;P098;1
+R;R1494;41016;41799;63.3;0.95;P098;1
+R;R1495;41016;41872;43.3;0.85;;1
+R;R1496;41016;73555;103.6;2.52;;1
+R;R1497;41020;41132;28.1;0.48;;1
+R;R1498;41020;41349;32.5;0.53;;1
+R;R1499;41020;41885;58.8;1.10;;1
+R;R1500;41026;41244;25.2;0.39;;1
+R;R1501;41026;41298;28.1;0.38;P005;1
+R;R1502;41026;41319;8.7;0.15;;1
+R;R1503;41026;41770;12.9;0.17;;1
+R;R1504;41026;41791;48.2;0.97;;1
+R;R1505;41026;41807;23.9;0.30;;1
+R;R1506;41078;41206;48.1;1.07;;1
+R;R1507;41078;41799;15.4;0.29;;1
+R;R1508;41078;41872;30.3;0.76;;1
+R;R1509;41078;73024;39.7;0.73;;1
+R;R1510;41132;41349;21.7;0.28;;1
+R;R1511;41132;41524;37.0;0.53;P085;1
+R;R1512;41132;41615;17.7;0.26;P085;1
+R;R1513;41132;41885;33.9;0.69;;1
+R;R1514;41206;73024;47.5;1.06;;1
+R;R1515;41206;73483;132.6;2.80;P050;1
+R;R1516;41244;41503;21.4;0.48;;1
+R;R1517;41244;41660;20.8;0.51;;1
+R;R1518;41244;41791;30.9;0.79;;1
+R;R1519;41244;41807;12.8;0.46;;1
+R;R1520;41298;41306;30.5;0.41;;1
+R;R1521;41298;41548;25.8;0.51;;1
+R;R1522;41306;41349;35.2;0.43;;1
+R;R1523;41306;41518;48.2;0.71;;1
+R;R1524;41306;41797;43.6;0.64;;1
+R;R1525;41319;41770;9.5;0.17;;1
+R;R1526;41349;41885;38.1;0.71;;1
+R;R1527;41357;41483;36.7;1.13;;1
+R;R1528;41357;41797;29.4;0.63;;1
+R;R1529;41357;41801;18.2;0.44;;1
+R;R1530;41357;41885;18.6;0.36;;1
+R;R1531;41359;41530;62.4;1.37;;1
+R;R1532;41359;41551;45.6;1.03;;1
+R;R1533;41359;41660;33.2;1.02;;1
+R;R1534;41359;41668;24.2;0.75;;1
+R;R1535;41359;41807;59.6;1.24;;1
+R;R1536;41378;41396;30.0;0.76;;1
+R;R1537;41378;41503;35.8;1.03;;1
+R;R1538;41378;41548;34.8;0.88;;1
+R;R1539;41396;41483;26.7;0.54;;1
+R;R1540;41396;41518;22.6;0.38;;1
+R;R1541;41396;41548;30.3;0.57;;1
+R;R1542;41396;41797;28.6;0.47;;1
+R;R1543;41483;41518;19.3;0.43;;1
+R;R1544;41483;41797;25.3;0.52;;1
+R;R1545;41503;41551;31.1;0.56;;1
+R;R1546;41503;41660;12.3;0.27;;1
+R;R1547;41503;41791;41.9;1.33;;1
+R;R1548;41518;41548;47.2;0.88;;1
+R;R1549;41518;41797;7.0;0.13;;1
+R;R1550;41524;41615;30.3;0.48;P085;1
+R;R1551;41524;41676;32.4;0.83;;1
+R;R1552;41524;41799;48.4;0.84;;1
+R;R1553;41524;41801;27.6;0.52;;1
+R;R1554;41524;41872;57.7;1.00;;1
+R;R1555;41530;41551;22.8;0.45;;1
+R;R1556;41530;41668;50.4;0.89;;1
+R;R1557;41548;41791;21.4;0.55;;1
+R;R1558;41551;41660;31.4;0.59;;1
+R;R1559;41551;41668;32.5;0.54;;1
+R;R1560;41551;41807;22.7;0.28;;1
+R;R1561;41615;41885;41.2;0.73;P085;1
+R;R1562;41676;41801;43.8;1.00;;1
+R;R1563;41676;73555;61.7;2.00;;1
+R;R1564;41799;41872;34.4;0.63;;1
+R;R1565;41801;41885;19.0;0.59;;1
+R;R1566;41872;73555;132.6;3.18;;1
+R;R1567;44001;44035;76.0;1.45;;1
+R;R1568;44001;44090;71.3;0.95;P048;1
+R;R1569;44001;44378;88.1;1.48;;1
+R;R1570;44001;44430;77.5;0.93;P006;1
+R;R1571;44001;44560;74.5;1.33;;1
+R;R1572;44035;44378;30.7;0.51;;1
+R;R1573;44035;44430;54.7;0.78;;1
+R;R1574;44035;44847;82.8;1.53;;1
+R;R1575;44078;44098;16.3;0.21;;1
+R;R1576;44078;44279;11.9;0.15;;1
+R;R1577;44078;44378;15.0;0.20;;1
+R;R1578;44090;44378;116.3;1.88;P048;1
+R;R1579;44098;44279;5.2;0.08;;1
+R;R1580;44098;44650;19.6;0.25;;1
+R;R1581;44110;44650;15.9;0.26;;1
+R;R1582;44110;44874;9.1;0.16;;1
+R;R1583;44378;44430;76.4;0.92;;1
+R;R1584;44378;44847;104.5;1.67;;1
+R;R1585;44420;44855;14.1;0.31;;1
+R;R1586;44420;44874;20.3;0.39;;1
+R;R1587;44430;44560;75.5;1.28;;1
+R;R1588;44430;44847;56.1;0.92;;1
+R;R1589;44560;44847;21.9;0.42;;1
+R;R1590;44650;44874;22.6;0.36;;1
+R;R1591;44855;44874;7.6;0.15;;1
+R;R1592;47001;47053;85.2;1.04;P141;1
+R;R1593;47001;47189;32.8;0.42;;1
+R;R1594;47001;47980;64.0;0.85;;1
+R;R1595;47030;47058;59.5;1.31;;1
+R;R1596;47030;47288;46.1;1.04;;1
+R;R1597;47030;47660;33.2;0.84;;1
+R;R1598;47053;47189;58.4;0.72;P141;1
+R;R1599;47053;47268;11.4;0.29;;1
+R;R1600;47053;47288;10.4;0.22;;1
+R;R1601;47053;47980;27.7;0.43;P141;1
+R;R1602;47058;47460;19.0;0.25;P047;1
+R;R1603;47058;47660;44.3;0.85;;1
+R;R1604;47161;47205;20.7;0.52;;1
+R;R1605;47161;47258;10.4;0.27;;1
+R;R1606;47170;47460;46.7;0.88;;1
+R;R1607;47170;47555;49.1;0.90;;1
+R;R1608;47170;47660;58.0;1.82;;1
+R;R1609;47170;47798;38.9;1.21;;1
+R;R1610;47170;47960;24.5;0.62;;1
+R;R1611;47189;47570;5.1;0.09;;1
+R;R1612;47189;47980;36.4;0.52;;1
+R;R1613;47205;47541;16.2;0.41;;1
+R;R1614;47205;47960;23.8;0.61;;1
+R;R1615;47245;47318;36.7;0.45;;1
+R;R1616;47258;47551;38.5;0.78;;1
+R;R1617;47258;47675;13.9;0.32;;1
+R;R1618;47268;47288;19.3;0.45;;1
+R;R1619;47268;47551;55.7;1.31;;1
+R;R1620;47288;47551;54.6;1.04;;1
+R;R1621;47460;47555;49.7;0.62;;1
+R;R1622;47545;47692;27.5;0.71;;1
+R;R1623;47545;47703;14.0;0.36;;1
+R;R1624;47545;47707;16.9;0.32;;1
+R;R1625;47545;47720;38.6;1.20;;1
+R;R1626;47551;47605;55.7;1.22;;1
+R;R1627;47551;47675;26.3;0.50;;1
+R;R1628;47555;47798;17.8;0.35;P114;1
+R;R1629;47570;47745;78.5;1.07;P138|P081;1
+R;R1630;47605;47745;9.8;0.25;;1
+R;R1631;47692;47703;25.2;0.64;;1
+R;R1632;47703;47707;14.5;0.37;;1
+R;R1633;50001;50006;28.2;0.45;P101;1
+R;R1634;50001;50226;25.0;0.32;P113;1
+R;R1635;50001;50606;16.5;0.23;P113;1
+R;R1636;50001;99001;846.3;19.71;P074|P024|P146;1
+R;R1637;50006;50318;12.9;0.23;;1
+R;R1638;50110;50124;41.7;1.05;;1
+R;R1639;50110;85440;8.3;0.11;;1
+R;R1640;50124;50573;68.5;1.69;;1
+R;R1641;50150;50318;11.8;0.30;;1
+R;R1642;50150;50680;58.6;1.47;;1
+R;R1643;50223;50251;30.2;0.77;;1
+R;R1644;50223;50270;8.9;0.23;;1
+R;R1645;50223;50313;42.5;0.78;P064;1
+R;R1646;50223;50318;20.7;0.44;;1
+R;R1647;50223;50689;24.5;0.50;;1
+R;R1648;50226;50573;109.7;1.37;P113|P074;1
+R;R1649;50226;50606;9.5;0.14;;1
+R;R1650;50251;50270;22.7;0.58;;1
+R;R1651;50251;50287;29.1;0.92;;1
+R;R1652;50251;50330;64.8;1.78;;1
+R;R1653;50251;50683;46.8;1.31;;1
+R;R1654;50251;50689;28.4;0.83;P064;1
+R;R1655;50270;50400;57.5;2.04;;1
+R;R1656;50287;50313;15.9;0.32;;1
+R;R1657;50287;50577;40.4;0.78;;1
+R;R1658;50287;50683;47.6;1.00;;1
+R;R1659;50287;50689;34.5;0.62;P064;1
+R;R1660;50313;50330;51.5;1.19;;1
+R;R1661;50313;50400;50.1;1.24;;1
+R;R1662;50313;50683;33.5;0.72;;1
+R;R1663;50313;50689;19.6;0.34;P064;1
+R;R1664;50318;50689;23.5;0.38;;1
+R;R1665;50325;50450;96.0;3.59;;1
+R;R1666;50325;50577;196.6;5.44;;1
+R;R1667;50325;50590;168.5;5.03;;1
+R;R1668;50330;50370;55.1;1.38;;1
+R;R1669;50330;50683;22.8;0.56;;1
+R;R1670;50350;50450;183.5;6.18;;1
+R;R1671;50350;50711;144.9;5.79;;1
+R;R1672;50350;95015;203.4;6.45;;1
+R;R1673;50350;95025;178.7;6.08;;1
+R;R1674;50370;50400;80.7;2.40;;1
+R;R1675;50370;73024;548.1;9.68;P064|P101|P110|P097|P016|P015|P032|P056;1
+R;R1676;50400;50683;26.7;0.94;;1
+R;R1677;50450;50577;124.1;2.29;;1
+R;R1678;50450;50590;96.1;1.89;;1
+R;R1679;50450;95001;24.0;0.46;;1
+R;R1680;50450;95025;52.0;1.16;;1
+R;R1681;50568;50573;108.2;1.44;P146|P024;1
+R;R1682;50568;85230;108.0;4.07;;1
+R;R1683;50573;50680;84.9;1.66;;1
+R;R1684;50577;50590;64.2;1.32;;1
+R;R1685;50606;50686;118.3;3.38;P113|P110;1
+R;R1686;50680;50689;82.1;1.92;;1
+R;R1687;50683;50711;31.9;0.59;;1
+R;R1688;52001;52240;23.6;0.57;;1
+R;R1689;52001;52480;19.1;0.33;;1
+R;R1690;52001;52788;28.9;0.57;P053;1
+R;R1691;52001;52885;24.3;0.50;;1
+R;R1692;52001;86760;49.6;0.79;;1
+R;R1693;52019;52051;23.1;0.71;;1
+R;R1694;52019;52110;25.5;0.52;;1
+R;R1695;52019;52258;13.9;0.42;;1
+R;R1696;52019;52685;7.6;0.20;;1
+R;R1697;52019;52687;38.2;1.46;;1
+R;R1698;52019;52694;21.5;0.62;;1
+R;R1699;52022;52224;5.6;0.18;;1
+R;R1700;52022;52227;13.6;0.42;;1
+R;R1701;52022;52317;13.3;0.22;;1
+R;R1702;52022;52356;12.2;0.22;;1
+R;R1703;52022;52585;9.8;0.24;;1
+R;R1704;52036;52207;16.5;0.65;;1
+R;R1705;52036;52411;19.0;0.50;;1
+R;R1706;52036;52565;32.2;1.17;;1
+R;R1707;52036;52678;27.1;0.95;;1
+R;R1708;52036;52683;13.6;0.36;;1
+R;R1709;52036;52699;52.3;1.56;;1
+R;R1710;52051;52110;43.4;0.86;;1
+R;R1711;52051;52685;24.1;0.90;;1
+R;R1712;52051;52694;10.6;0.34;;1
+R;R1713;52051;52786;41.1;1.62;;1
+R;R1714;52079;52612;85.6;1.85;;1
+R;R1715;52079;52835;169.0;3.14;;1
+R;R1716;52083;52203;12.6;0.33;;1
+R;R1717;52083;52378;19.9;0.51;;1
+R;R1718;52083;52399;27.2;1.05;;1
+R;R1719;52083;52685;18.2;0.47;;1
+R;R1720;52083;52693;17.9;0.55;;1
+R;R1721;52083;52694;25.9;1.00;;1
+R;R1722;52110;52240;42.7;0.89;;1
+R;R1723;52110;52258;23.5;0.59;;1
+R;R1724;52110;52687;39.7;1.44;;1
+R;R1725;52110;86760;83.8;1.39;;1
+R;R1726;52203;52378;19.9;0.59;;1
+R;R1727;52207;52683;16.1;0.49;;1
+R;R1728;52207;52885;26.6;0.49;;1
+R;R1729;52210;52323;4.0;0.11;;1
+R;R1730;52210;52352;11.4;0.46;;1
+R;R1731;52210;52356;19.4;0.36;;1
+R;R1732;52210;52560;17.7;0.46;;1
+R;R1733;52210;52573;12.1;0.32;;1
+R;R1734;52215;52560;12.5;0.43;;1
+R;R1735;52215;52573;5.2;0.21;;1
+R;R1736;52215;86757;267.4;6.45;;1
+R;R1737;52224;52227;12.2;0.32;;1
+R;R1738;52224;52317;15.1;0.33;;1
+R;R1739;52224;52356;13.3;0.31;;1
+R;R1740;52224;52560;23.7;0.55;;1
+R;R1741;52227;52317;9.5;0.26;;1
+R;R1742;52233;52254;86.5;3.21;;1
+R;R1743;52233;52385;70.5;2.76;;1
+R;R1744;52233;52411;103.6;3.99;;1
+R;R1745;52240;52480;39.8;0.74;;1
+R;R1746;52240;52687;37.3;1.43;P021;1
+R;R1747;52254;52260;12.5;0.34;;1
+R;R1748;52254;52411;33.9;1.35;;1
+R;R1749;52254;52418;27.6;0.76;;1
+R;R1750;52256;52786;51.2;1.62;;1
+R;R1751;52258;52687;43.5;1.60;;1
+R;R1752;52260;52381;20.5;0.62;;1
+R;R1753;52260;52480;22.2;0.58;;1
+R;R1754;52287;52352;37.0;0.74;;1
+R;R1755;52287;52354;24.2;0.49;;1
+R;R1756;52287;52573;28.9;0.73;;1
+R;R1757;52287;52788;24.1;0.48;P052|P053;1
+R;R1758;52317;52435;43.7;0.68;;1
+R;R1759;52317;52720;23.0;0.53;;1
+R;R1760;52320;52354;14.7;0.39;;1
+R;R1761;52320;52506;18.8;0.58;;1
+R;R1762;52320;52720;18.5;0.56;;1
+R;R1763;52320;52838;11.4;0.36;;1
+R;R1764;52323;52352;12.3;0.49;;1
+R;R1765;52323;52585;16.0;0.41;;1
+R;R1766;52352;52506;15.5;0.58;;1
+R;R1767;52352;52573;21.0;0.54;;1
+R;R1768;52352;52720;21.5;0.83;;1
+R;R1769;52354;52506;21.8;0.59;;1
+R;R1770;52354;52788;23.6;0.43;P052|P053;1
+R;R1771;52354;52838;19.9;0.42;;1
+R;R1772;52356;52560;12.2;0.32;;1
+R;R1773;52356;52585;8.0;0.17;;1
+R;R1774;52378;52685;27.5;0.69;;1
+R;R1775;52378;52693;15.0;0.39;;1
+R;R1776;52381;52480;8.4;0.16;;1
+R;R1777;52381;52683;21.5;0.40;;1
+R;R1778;52385;52418;11.7;0.31;;1
+R;R1779;52385;52678;29.2;0.74;;1
+R;R1780;52399;52694;7.8;0.16;;1
+R;R1781;52399;52786;37.0;1.30;;1
+R;R1782;52405;52540;98.9;3.62;;1
+R;R1783;52411;52418;44.8;1.55;;1
+R;R1784;52411;52678;33.3;0.84;;1
+R;R1785;52427;52612;101.8;3.39;;1
+R;R1786;52427;52835;185.2;4.67;;1
+R;R1787;52435;52612;20.9;0.33;;1
+R;R1788;52435;52720;44.2;0.85;;1
+R;R1789;52435;52838;45.1;0.70;;1
+R;R1790;52506;52720;8.9;0.32;;1
+R;R1791;52506;52838;9.9;0.25;;1
+R;R1792;52540;52786;72.5;2.74;;1
+R;R1793;52560;52585;18.3;0.42;;1
+R;R1794;52565;52612;89.2;1.98;;1
+R;R1795;52565;52678;17.6;0.42;;1
+R;R1796;52565;52699;31.7;0.84;;1
+R;R1797;52612;52621;103.6;3.47;;1
+R;R1798;52621;52835;187.0;4.76;;1
+R;R1799;52678;52699;26.9;0.67;;1
+R;R1800;52685;52694;22.5;0.81;;1
+R;R1801;52687;52694;29.3;1.13;;1
+R;R1802;52687;52786;20.1;0.72;;1
+R;R1803;52694;52786;39.7;1.40;;1
+R;R1804;52699;52838;32.2;0.79;;1
+R;R1805;52720;52838;7.7;0.21;;1
+R;R1806;52788;52885;9.8;0.18;;1
+R;R1807;54001;54261;15.0;0.26;;1
+R;R1808;54001;54405;11.1;0.21;;1
+R;R1809;54001;54553;56.8;0.71;;1
+R;R1810;54001;54673;21.4;0.39;;1
+R;R1811;54001;54680;31.1;0.59;;1
+R;R1812;54001;54874;10.2;0.17;P076;1
+R;R1813;54003;54398;22.9;0.46;;1
+R;R1814;54003;54498;30.0;0.47;;1
+R;R1815;54003;54871;82.3;1.64;;1
+R;R1816;54051;54099;41.9;1.31;;1
+R;R1817;54051;54223;17.5;0.45;;1
+R;R1818;54051;54239;39.8;1.01;;1
+R;R1819;54051;54660;24.9;0.51;;1
+R;R1820;54051;54680;45.6;1.00;;1
+R;R1821;54099;54172;27.1;0.45;;1
+R;R1822;54099;54239;31.9;0.65;;1
+R;R1823;54099;54520;25.1;0.44;;1
+R;R1824;54109;54720;24.3;0.55;;1
+R;R1825;54109;54871;71.8;2.38;;1
+R;R1826;54125;54174;24.8;0.37;;1
+R;R1827;54125;54377;33.5;0.75;;1
+R;R1828;54125;54480;26.1;0.62;;1
+R;R1829;54125;54518;31.5;0.44;;1
+R;R1830;54125;54520;46.3;0.66;;1
+R;R1831;54125;54743;44.4;0.94;;1
+R;R1832;54128;54385;51.0;1.10;P120;1
+R;R1833;54128;54418;114.2;2.67;;1
+R;R1834;54128;54660;117.9;2.88;;1
+R;R1835;54128;54871;65.3;1.64;;1
+R;R1836;54128;68255;58.2;1.19;;1
+R;R1837;54172;54239;29.3;0.65;;1
+R;R1838;54172;54347;42.3;0.88;;1
+R;R1839;54172;54520;28.4;0.70;;1
+R;R1840;54174;54377;48.5;0.86;;1
+R;R1841;54174;54518;46.5;0.55;;1
+R;R1842;54174;54743;30.3;0.77;;1
+R;R1843;54206;54245;36.2;0.92;;1
+R;R1844;54206;54250;57.1;1.44;;1
+R;R1845;54206;54498;35.1;0.64;;1
+R;R1846;54206;54800;25.8;0.58;;1
+R;R1847;54223;54518;51.1;1.15;;1
+R;R1848;54239;54405;38.7;0.70;P084;1
+R;R1849;54239;54673;64.6;1.08;P084;1
+R;R1850;54239;54680;74.3;1.28;P084;1
+R;R1851;54239;54874;45.9;0.77;P084|P076;1
+R;R1852;54250;54670;61.0;1.84;;1
+R;R1853;54250;54800;61.5;1.90;;1
+R;R1854;54250;54810;70.8;1.81;;1
+R;R1855;54261;54405;23.2;0.34;;1
+R;R1856;54261;54553;67.0;0.86;;1
+R;R1857;54261;54673;9.4;0.22;;1
+R;R1858;54261;54680;19.1;0.42;;1
+R;R1859;54261;54720;57.6;0.93;;1
+R;R1860;54261;54874;22.4;0.36;P076;1
+R;R1861;54313;54418;15.7;0.29;;1
+R;R1862;54313;54660;38.6;0.86;;1
+R;R1863;54313;54680;21.6;0.40;;1
+R;R1864;54313;54871;67.5;1.60;;1
+R;R1865;54344;54398;31.0;0.78;;1
+R;R1866;54344;54670;18.8;0.48;;1
+R;R1867;54347;54520;67.3;1.51;;1
+R;R1868;54347;54599;11.6;0.29;;1
+R;R1869;54347;54820;39.1;0.82;;1
+R;R1870;54377;54518;35.6;0.56;;1
+R;R1871;54377;54520;50.3;0.78;;1
+R;R1872;54377;54820;5.2;0.14;;1
+R;R1873;54385;68255;33.9;0.41;P120;1
+R;R1874;54398;54498;27.2;0.52;;1
+R;R1875;54405;54599;51.2;1.47;;1
+R;R1876;54405;54673;29.7;0.47;;1
+R;R1877;54405;54680;39.4;0.67;;1
+R;R1878;54405;54874;9.0;0.14;P076;1
+R;R1879;54418;54720;23.2;0.58;;1
+R;R1880;54480;54518;28.9;0.38;;1
+R;R1881;54480;54520;43.8;0.57;;1
+R;R1882;54480;54743;23.1;0.45;;1
+R;R1883;54480;68867;61.6;1.07;;1
+R;R1884;54498;54800;37.5;0.78;;1
+R;R1885;54518;54520;16.4;0.23;;1
+R;R1886;54518;54743;46.3;0.71;;1
+R;R1887;54520;54820;52.0;0.79;;1
+R;R1888;54553;54673;72.9;0.98;;1
+R;R1889;54553;54720;82.9;1.46;;1
+R;R1890;54553;54810;70.9;2.01;;1
+R;R1891;54660;54680;22.3;0.55;;1
+R;R1892;54660;54871;86.5;2.08;;1
+R;R1893;54670;54800;21.4;0.54;;1
+R;R1894;54673;54680;16.4;0.37;;1
+R;R1895;54673;54874;28.6;0.49;P076;1
+R;R1896;54680;54874;38.3;0.69;P076;1
+R;R1897;54720;54810;106.6;2.40;;1
+R;R1898;54743;68820;88.5;1.46;P051;1
+R;R1899;54743;68867;58.2;1.12;;1
+R;R1900;63001;63130;7.5;0.18;;1
+R;R1901;63001;63190;12.9;0.25;;1
+R;R1902;63001;63212;27.5;0.57;;1
+R;R1903;63001;63272;26.7;0.70;;1
+R;R1904;63001;63401;20.8;0.34;;1
+R;R1905;63001;63470;12.5;0.29;;1
+R;R1906;63001;63594;22.2;0.52;;1
+R;R1907;63001;63690;19.9;0.50;;1
+R;R1908;63001;73124;40.2;0.73;;1
+R;R1909;63111;63130;29.1;0.53;;1
+R;R1910;63111;63212;17.7;0.41;;1
+R;R1911;63111;63302;33.6;0.81;;1
+R;R1912;63111;63401;35.8;0.68;;1
+R;R1913;63111;63548;12.0;0.31;;1
+R;R1914;63111;76122;16.2;0.34;;1
+R;R1915;63130;63190;13.7;0.25;;1
+R;R1916;63130;63212;26.4;0.55;;1
+R;R1917;63130;63272;31.2;0.67;P034;1
+R;R1918;63130;63470;18.3;0.39;;1
+R;R1919;63130;63548;32.7;0.71;;1
+R;R1920;63130;63690;20.5;0.44;;1
+R;R1921;63130;73124;34.9;0.60;;1
+R;R1922;63190;63272;19.6;0.47;P034;1
+R;R1923;63190;63470;15.9;0.31;;1
+R;R1924;63190;63594;25.6;0.55;;1
+R;R1925;63190;63690;15.6;0.36;;1
+R;R1926;63190;73124;45.5;0.75;;1
+R;R1927;63190;76845;24.5;0.73;;1
+R;R1928;63212;63302;42.1;0.98;;1
+R;R1929;63212;63401;33.1;0.65;;1
+R;R1930;63212;73622;113.1;3.61;;1
+R;R1931;63212;76122;24.7;0.51;;1
+R;R1932;63272;63594;17.1;0.32;;1
+R;R1933;63272;63690;19.5;0.36;;1
+R;R1934;63272;66001;30.4;0.66;P034;1
+R;R1935;63272;66170;33.7;0.73;P034;1
+R;R1936;63272;76020;17.4;0.43;;1
+R;R1937;63272;76845;12.8;0.32;;1
+R;R1938;63302;63548;27.9;0.97;;1
+R;R1939;63302;73622;77.1;2.80;;1
+R;R1940;63302;76122;28.3;0.68;;1
+R;R1941;63401;63470;19.7;0.45;;1
+R;R1942;63401;63548;38.6;0.85;;1
+R;R1943;63401;76122;27.4;0.61;;1
+R;R1944;63401;76736;37.8;0.84;;1
+R;R1945;63470;63594;10.5;0.27;;1
+R;R1946;63470;76020;17.7;0.38;;1
+R;R1947;63548;76122;25.6;0.64;;1
+R;R1948;63594;76020;7.8;0.13;;1
+R;R1949;63594;76845;16.0;0.33;;1
+R;R1950;63690;73124;52.4;0.98;;1
+R;R1951;66001;66170;4.8;0.13;;1
+R;R1952;66001;66440;31.9;0.62;;1
+R;R1953;66001;66682;16.4;0.30;;1
+R;R1954;66001;76020;29.4;0.58;;1
+R;R1955;66001;76845;24.2;0.57;;1
+R;R1956;66045;66088;27.9;0.75;;1
+R;R1957;66045;66383;24.9;0.60;;1
+R;R1958;66045;66572;26.0;0.41;;1
+R;R1959;66045;66687;15.2;0.32;;1
+R;R1960;66075;66383;13.4;0.35;;1
+R;R1961;66075;66400;17.8;0.42;;1
+R;R1962;66075;66687;30.9;0.79;;1
+R;R1963;66075;76041;36.2;0.90;;1
+R;R1964;66075;76243;25.5;0.88;;1
+R;R1965;66088;66318;21.6;0.56;;1
+R;R1966;66088;66456;16.2;0.31;;1
+R;R1967;66170;66682;13.0;0.27;;1
+R;R1968;66170;76845;27.8;0.65;;1
+R;R1969;66318;66456;21.5;0.55;;1
+R;R1970;66318;66594;17.5;0.36;P127;1
+R;R1971;66383;66687;24.2;0.66;;1
+R;R1972;66383;76243;24.2;0.61;;1
+R;R1973;66400;66440;51.7;1.00;;1
+R;R1974;66400;76041;24.0;0.58;;1
+R;R1975;66400;76147;26.1;0.68;P029;1
+R;R1976;66440;66682;38.7;0.70;P136|P135;1
+R;R1977;68001;68276;6.7;0.11;;1
+R;R1978;68001;68307;14.4;0.21;;1
+R;R1979;68001;68406;21.7;0.31;P082;1
+R;R1980;68001;68547;16.6;0.22;;1
+R;R1981;68001;68615;24.0;0.48;P122;1
+R;R1982;68001;68820;37.4;0.88;;1
+R;R1983;68013;68245;20.1;0.75;;1
+R;R1984;68013;68397;13.2;0.33;;1
+R;R1985;68013;68673;14.5;0.41;;1
+R;R1986;68013;68770;23.0;0.42;;1
+R;R1987;68020;68271;23.3;0.69;;1
+R;R1988;68020;68368;34.9;0.88;;1
+R;R1989;68051;68160;29.0;0.52;;1
+R;R1990;68051;68229;18.9;0.29;P041;1
+R;R1991;68051;68418;73.5;1.28;P086;1
+R;R1992;68051;68679;28.1;0.36;P041;1
+R;R1993;68051;68872;25.1;0.85;;1
+R;R1994;68077;68179;26.1;0.54;;1
+R;R1995;68077;68324;13.3;0.42;;1
+R;R1996;68077;68327;12.0;0.23;;1
+R;R1997;68077;68572;10.8;0.15;;1
+R;R1998;68077;68861;17.3;0.28;;1
+R;R1999;68079;68121;15.4;0.48;;1
+R;R2000;68079;68296;21.7;0.68;;1
+R;R2001;68079;68370;36.7;1.42;;1
+R;R2002;68079;68522;29.2;0.76;;1
+R;R2003;68079;68679;22.7;0.69;;1
+R;R2004;68079;68872;10.3;0.33;;1
+R;R2005;68079;68895;57.0;2.09;;1
+R;R2006;68081;68573;79.1;1.34;P003;1
+R;R2007;68081;68575;48.6;0.91;;1
+R;R2008;68081;68689;73.6;1.72;;1
+R;R2009;68092;68307;47.6;1.23;;1
+R;R2010;68092;68418;93.1;2.32;;1
+R;R2011;68092;68547;52.3;1.42;;1
+R;R2012;68092;68689;45.3;0.94;;1
+R;R2013;68092;68895;24.3;0.61;;1
+R;R2014;68101;68250;12.8;0.49;;1
+R;R2015;68101;68324;12.3;0.48;;1
+R;R2016;68101;68385;56.3;1.03;;1
+R;R2017;68101;68773;10.4;0.27;;1
+R;R2018;68101;68861;19.0;0.42;;1
+R;R2019;68121;68296;12.1;0.47;;1
+R;R2020;68121;68522;16.6;0.49;;1
+R;R2021;68121;68679;22.5;0.87;;1
+R;R2022;68132;68169;24.1;0.85;;1
+R;R2023;68132;68780;8.2;0.21;;1
+R;R2024;68132;68867;15.0;0.38;;1
+R;R2025;68147;68152;37.2;0.76;;1
+R;R2026;68147;68425;28.3;1.04;;1
+R;R2027;68147;68684;27.9;0.33;;1
+R;R2028;68147;68686;20.1;0.75;;1
+R;R2029;68152;68266;19.7;0.50;;1
+R;R2030;68152;68425;40.5;1.41;;1
+R;R2031;68152;68684;29.3;0.66;;1
+R;R2032;68160;68318;96.8;1.95;P086;1
+R;R2033;68160;68370;49.3;1.29;;1
+R;R2034;68160;68418;69.0;1.38;P086;1
+R;R2035;68162;68207;9.6;0.13;;1
+R;R2036;68167;68217;17.2;0.52;;1
+R;R2037;68167;68264;29.6;0.74;;1
+R;R2038;68167;68498;11.5;0.29;;1
+R;R2039;68167;68533;25.7;0.70;;1
+R;R2040;68169;68444;14.5;0.49;;1
+R;R2041;68169;68615;50.8;1.36;P122;1
+R;R2042;68169;68820;48.9;1.66;;1
+R;R2043;68176;68211;22.7;0.60;;1
+R;R2044;68176;68524;37.2;1.03;;1
+R;R2045;68176;68745;16.7;0.45;;1
+R;R2046;68179;68327;17.3;0.52;;1
+R;R2047;68179;68385;63.6;1.06;;1
+R;R2048;68179;68397;19.8;0.41;;1
+R;R2049;68179;68861;10.4;0.21;;1
+R;R2050;68190;68385;30.4;0.50;;1
+R;R2051;68190;68573;54.1;1.04;;1
+R;R2052;68207;68432;12.0;0.15;;1
+R;R2053;68209;68322;15.7;0.46;;1
+R;R2054;68209;68498;31.4;1.08;;1
+R;R2055;68209;68500;15.6;0.30;;1
+R;R2056;68209;68524;12.0;0.35;;1
+R;R2057;68209;68533;16.8;0.62;;1
+R;R2058;68209;68745;31.2;0.67;;1
+R;R2059;68209;68755;17.6;0.33;;1
+R;R2060;68211;68245;10.4;0.27;;1
+R;R2061;68211;68320;19.3;0.49;;1
+R;R2062;68211;68322;35.2;1.11;;1
+R;R2063;68217;68464;60.9;2.11;;1
+R;R2064;68217;68498;26.9;0.76;;1
+R;R2065;68217;68855;41.1;1.17;;1
+R;R2066;68229;68370;26.2;0.92;P041;1
+R;R2067;68229;68464;28.4;0.94;;1
+R;R2068;68229;68679;11.8;0.20;;1
+R;R2069;68235;68689;45.4;1.37;;1
+R;R2070;68245;68397;22.9;0.78;;1
+R;R2071;68245;68720;41.3;1.07;;1
+R;R2072;68250;68385;58.5;1.24;;1
+R;R2073;68250;68861;29.6;0.80;;1
+R;R2074;68255;68444;57.8;2.04;;1
+R;R2075;68255;68615;24.9;0.69;;1
+R;R2076;68255;68655;70.7;1.40;P120;1
+R;R2077;68264;68500;54.2;1.73;;1
+R;R2078;68266;68684;12.7;0.20;;1
+R;R2079;68266;68686;22.9;0.76;;1
+R;R2080;68271;68377;10.8;0.27;;1
+R;R2081;68276;68307;11.4;0.18;;1
+R;R2082;68276;68547;11.2;0.17;;1
+R;R2083;68276;68820;34.3;0.93;;1
+R;R2084;68296;68522;14.6;0.57;;1
+R;R2085;68296;68549;37.2;1.14;;1
+R;R2086;68296;68689;81.2;2.38;;1
+R;R2087;68298;68770;33.2;0.77;;1
+R;R2088;68307;68406;11.9;0.18;P082;1
+R;R2089;68307;68547;18.3;0.26;;1
+R;R2090;68307;68615;30.2;0.52;P122;1
+R;R2091;68318;68669;12.3;0.20;;1
+R;R2092;68318;68705;35.7;0.92;;1
+R;R2093;68320;68500;23.4;0.59;;1
+R;R2094;68320;68770;45.3;1.08;P102;1
+R;R2095;68322;68500;11.6;0.33;;1
+R;R2096;68322;68745;41.2;1.08;;1
+R;R2097;68324;68368;19.1;0.49;;1
+R;R2098;68324;68572;11.7;0.34;;1
+R;R2099;68324;68773;16.7;0.48;;1
+R;R2100;68324;68861;8.5;0.21;;1
+R;R2101;68327;68861;14.1;0.36;;1
+R;R2102;68344;68522;6.2;0.24;;1
+R;R2103;68344;68755;17.7;0.58;;1
+R;R2104;68368;68377;44.0;1.10;;1
+R;R2105;68368;68572;17.7;0.45;;1
+R;R2106;68368;68773;7.6;0.19;;1
+R;R2107;68370;68418;93.8;2.01;P086;1
+R;R2108;68385;68720;52.0;1.15;;1
+R;R2109;68397;68720;42.9;1.48;;1
+R;R2110;68406;68547;28.1;0.39;P082;1
+R;R2111;68406;68615;39.3;0.62;P082|P122;1
+R;R2112;68406;68655;91.6;1.16;;1
+R;R2113;68406;68689;63.2;1.07;;1
+R;R2114;68418;68895;96.3;2.11;;1
+R;R2115;68425;68686;24.9;0.79;;1
+R;R2116;68432;68468;24.5;0.65;;1
+R;R2117;68432;68669;43.9;0.76;;1
+R;R2118;68432;68684;6.4;0.09;;1
+R;R2119;68444;68615;48.7;1.19;P122;1
+R;R2120;68444;68780;7.3;0.19;;1
+R;R2121;68444;68820;46.9;1.49;;1
+R;R2122;68464;68679;34.9;0.85;;1
+R;R2123;68464;68682;25.7;0.65;;1
+R;R2124;68464;68855;36.2;1.13;;1
+R;R2125;68468;68669;33.9;0.72;;1
+R;R2126;68468;68684;27.8;0.71;;1
+R;R2127;68498;68533;23.4;0.59;;1
+R;R2128;68498;68855;21.9;0.56;;1
+R;R2129;68500;68524;23.3;0.59;;1
+R;R2130;68502;68682;18.5;0.47;;1
+R;R2131;68522;68549;26.7;0.58;;1
+R;R2132;68522;68755;12.3;0.36;;1
+R;R2133;68524;68533;19.0;0.68;;1
+R;R2134;68524;68745;26.5;0.67;;1
+R;R2135;68524;68755;12.9;0.33;;1
+R;R2136;68533;68549;25.0;0.60;;1
+R;R2137;68533;68755;15.2;0.48;;1
+R;R2138;68533;68855;6.4;0.17;;1
+R;R2139;68547;68705;43.9;0.88;;1
+R;R2140;68547;68820;40.2;1.08;;1
+R;R2141;68549;68679;6.0;0.12;;1
+R;R2142;68549;68755;16.5;0.29;;1
+R;R2143;68575;68655;67.9;1.81;;1
+R;R2144;68615;68655;67.5;1.77;P122;1
+R;R2145;68615;68780;44.0;1.63;;1
+R;R2146;68673;68770;18.7;0.50;;1
+R;R2147;68679;68855;14.5;0.37;;1
+R;R2148;68679;68872;20.7;0.56;;1
+R;R2149;68684;68686;32.5;0.73;;1
+R;R2150;68689;68895;46.6;0.96;;1
+R;R2151;68745;68755;14.9;0.39;;1
+R;R2152;68820;68867;58.0;1.51;;1
+R;R2153;70001;70215;14.8;0.21;P079;1
+R;R2154;70001;70418;22.4;0.30;P079;1
+R;R2155;70001;70473;13.2;0.21;P079;1
+R;R2156;70001;70523;19.0;0.36;;1
+R;R2157;70001;70670;16.3;0.24;;1
+R;R2158;70001;70702;22.0;0.36;P079;1
+R;R2159;70001;70823;21.0;0.36;P070;1
+R;R2160;70110;70235;23.2;0.90;;1
+R;R2161;70110;70702;36.5;0.84;;1
+R;R2162;70110;70717;25.2;0.38;;1
+R;R2163;70110;70742;25.2;0.63;;1
+R;R2164;70124;70233;46.1;1.18;;1
+R;R2165;70124;70400;20.3;0.64;;1
+R;R2166;70124;70678;56.1;1.19;;1
+R;R2167;70124;70708;25.8;0.65;;1
+R;R2168;70124;70771;149.9;3.77;;1
+R;R2169;70204;70230;8.7;0.17;;1
+R;R2170;70204;70473;22.9;0.58;;1
+R;R2171;70204;70508;18.2;0.50;;1
+R;R2172;70204;70823;14.9;0.28;P070;1
+R;R2173;70215;70418;8.6;0.12;;1
+R;R2174;70215;70473;3.0;0.07;;1
+R;R2175;70215;70670;28.2;0.36;P079;1
+R;R2176;70215;70702;8.3;0.16;;1
+R;R2177;70221;70523;28.6;0.53;;1
+R;R2178;70221;70820;21.5;0.39;P018;1
+R;R2179;70230;70418;32.0;0.58;;1
+R;R2180;70230;70508;16.8;0.40;;1
+R;R2181;70233;70235;21.3;0.82;;1
+R;R2182;70233;70400;43.3;1.09;;1
+R;R2183;70233;70670;27.2;0.63;;1
+R;R2184;70233;70678;31.3;0.77;;1
+R;R2185;70233;70702;28.9;0.86;;1
+R;R2186;70233;70742;22.0;0.72;;1
+R;R2187;70235;70678;36.0;0.92;;1
+R;R2188;70235;70742;16.0;0.40;;1
+R;R2189;70265;70429;17.0;0.33;;1
+R;R2190;70400;70678;53.3;1.10;;1
+R;R2191;70400;70708;33.3;0.74;;1
+R;R2192;70418;70473;10.6;0.16;;1
+R;R2193;70418;70508;21.8;0.28;;1
+R;R2194;70418;70717;30.9;0.38;;1
+R;R2195;70429;70771;40.3;1.61;;1
+R;R2196;70473;70670;26.3;0.35;P079;1
+R;R2197;70473;70823;32.3;0.52;P079|P070;1
+R;R2198;70508;70717;36.5;0.46;;1
+R;R2199;70523;70823;21.2;0.39;P070;1
+R;R2200;70670;70702;35.3;0.50;P079;1
+R;R2201;70678;70708;69.0;1.30;;1
+R;R2202;70678;70771;193.0;4.42;;1
+R;R2203;70702;70742;13.3;0.25;;1
+R;R2204;70713;70820;34.2;0.55;;1
+R;R2205;70713;70823;38.6;0.78;;1
+R;R2206;70717;70742;27.7;0.70;;1
+R;R2207;70820;70823;18.7;0.32;;1
+R;R2208;73001;73026;34.6;0.58;P007;1
+R;R2209;73001;73124;35.7;0.72;P037;1
+R;R2210;73001;73624;34.0;0.76;;1
+R;R2211;73001;73854;42.3;0.91;;1
+R;R2212;73024;73236;26.2;0.61;;1
+R;R2213;73026;73043;43.9;0.98;;1
+R;R2214;73026;73547;11.3;0.29;;1
+R;R2215;73026;73861;18.3;0.24;;1
+R;R2216;73030;73408;23.8;0.56;;1
+R;R2217;73030;73861;31.1;0.55;;1
+R;R2218;73043;73686;23.9;0.61;;1
+R;R2219;73043;73861;42.3;0.97;;1
+R;R2220;73055;73270;22.2;0.44;;1
+R;R2221;73055;73408;21.9;0.29;P010;1
+R;R2222;73055;73411;43.1;0.66;P010;1
+R;R2223;73055;73443;20.5;0.27;;1
+R;R2224;73067;73168;35.0;0.80;;1
+R;R2225;73067;73217;38.7;0.72;;1
+R;R2226;73124;73624;65.5;1.32;P037;1
+R;R2227;73148;73200;35.7;0.60;P030;1
+R;R2228;73148;73226;19.7;0.37;;1
+R;R2229;73148;73268;37.1;0.61;P056;1
+R;R2230;73148;73275;25.6;0.42;;1
+R;R2231;73148;73449;13.7;0.23;;1
+R;R2232;73148;73770;45.1;0.96;;1
+R;R2233;73152;73283;33.5;0.99;;1
+R;R2234;73152;73347;26.4;0.67;;1
+R;R2235;73152;73520;23.1;0.58;;1
+R;R2236;73152;73870;18.3;0.46;;1
+R;R2237;73168;73217;49.8;1.06;;1
+R;R2238;73168;73504;45.2;0.72;;1
+R;R2239;73168;73616;54.1;0.99;;1
+R;R2240;73168;73675;36.0;0.85;;1
+R;R2241;73200;73268;18.2;0.44;P030;1
+R;R2242;73200;73275;16.6;0.32;P030;1
+R;R2243;73200;73854;43.8;1.15;;1
+R;R2244;73217;73483;39.1;0.60;;1
+R;R2245;73217;73504;22.5;0.86;;1
+R;R2246;73217;73671;30.9;0.49;;1
+R;R2247;73226;73873;31.9;0.71;;1
+R;R2248;73236;73563;33.8;0.63;;1
+R;R2249;73268;73275;16.5;0.29;P056;1
+R;R2250;73268;73319;17.9;0.32;;1
+R;R2251;73268;73678;34.7;0.77;;1
+R;R2252;73268;73770;16.2;0.42;;1
+R;R2253;73268;73854;43.8;1.08;;1
+R;R2254;73270;73283;20.0;0.67;;1
+R;R2255;73270;73443;19.1;0.39;;1
+R;R2256;73270;73520;11.3;0.31;;1
+R;R2257;73283;73347;51.5;1.23;;1
+R;R2258;73283;73443;24.7;0.55;;1
+R;R2259;73283;73520;28.6;0.98;;1
+R;R2260;73283;73870;46.5;1.52;;1
+R;R2261;73319;73504;38.1;0.62;;1
+R;R2262;73319;73671;13.2;0.18;;1
+R;R2263;73319;73678;21.2;0.54;;1
+R;R2264;73319;73770;21.0;0.61;;1
+R;R2265;73349;73443;19.3;0.27;P063;1
+R;R2266;73352;73449;24.2;0.39;;1
+R;R2267;73352;73873;49.7;1.59;;1
+R;R2268;73408;73411;45.5;0.69;P010;1
+R;R2269;73408;73686;46.7;1.07;;1
+R;R2270;73408;73861;19.5;0.27;;1
+R;R2271;73411;73461;23.3;0.37;;1
+R;R2272;73411;73870;31.1;0.77;;1
+R;R2273;73461;73686;47.1;1.19;;1
+R;R2274;73461;73870;50.2;1.06;;1
+R;R2275;73483;73585;49.8;0.73;;1
+R;R2276;73504;73671;35.8;0.68;;1
+R;R2277;73504;73678;43.2;0.87;;1
+R;R2278;73555;73616;84.5;2.12;;1
+R;R2279;73563;73585;13.1;0.26;;1
+R;R2280;73585;73671;13.9;0.27;;1
+R;R2281;73585;73770;30.3;0.76;;1
+R;R2282;73616;73675;72.2;1.51;;1
+R;R2283;73622;73675;46.9;1.18;;1
+R;R2284;73624;73675;75.4;1.90;;1
+R;R2285;73624;73678;35.6;0.95;;1
+R;R2286;73624;73854;25.1;0.68;;1
+R;R2287;73678;73854;17.8;0.48;;1
+R;R2288;73686;73861;39.7;0.96;;1
+R;R2289;73770;73873;93.1;1.97;;1
+R;R2290;76001;76130;25.9;0.58;;1
+R;R2291;76001;76233;49.1;0.97;;1
+R;R2292;76001;76364;21.5;0.46;;1
+R;R2293;76001;76377;35.0;0.85;;1
+R;R2294;76001;76520;30.4;0.60;P055|P033;1
+R;R2295;76001;76892;15.1;0.41;;1
+R;R2296;76020;76147;25.7;0.54;;1
+R;R2297;76020;76845;8.7;0.22;;1
+R;R2298;76036;76100;25.9;0.52;;1
+R;R2299;76036;76113;6.2;0.11;;1
+R;R2300;76036;76616;26.6;0.46;;1
+R;R2301;76036;76670;24.2;0.31;;1
+R;R2302;76036;76834;13.1;0.20;;1
+R;R2303;76041;76054;26.4;0.51;;1
+R;R2304;76041;76147;11.5;0.26;;1
+R;R2305;76041;76243;27.5;0.70;;1
+R;R2306;76041;76246;55.2;1.24;;1
+R;R2307;76041;76823;27.6;0.68;P139;1
+R;R2308;76054;76246;34.4;0.86;;1
+R;R2309;76054;76823;40.3;0.86;;1
+R;R2310;76054;76863;41.1;0.76;;1
+R;R2311;76100;76113;21.4;0.46;;1
+R;R2312;76100;76616;30.1;0.48;;1
+R;R2313;76100;76622;11.9;0.21;;1
+R;R2314;76100;76895;20.0;0.36;;1
+R;R2315;76109;76126;94.3;1.48;P083;1
+R;R2316;76109;76233;67.0;1.00;P083;1
+R;R2317;76109;76606;81.6;1.24;P083;1
+R;R2318;76111;76126;37.3;0.63;;1
+R;R2319;76111;76248;26.7;0.52;P028;1
+R;R2320;76111;76318;18.1;0.36;;1
+R;R2321;76111;76670;14.0;0.21;P013;1
+R;R2322;76111;76890;13.7;0.25;;1
+R;R2323;76113;76670;28.4;0.36;;1
+R;R2324;76113;76736;37.7;0.67;P078;1
+R;R2325;76113;76834;17.3;0.26;;1
+R;R2326;76113;76895;25.1;0.33;P078;1
+R;R2327;76122;76736;19.0;0.40;;1
+R;R2328;76126;76233;53.6;1.07;P083;1
+R;R2329;76126;76606;26.1;0.49;;1
+R;R2330;76126;76890;39.5;0.63;;1
+R;R2331;76130;76275;17.3;0.31;;1
+R;R2332;76130;76520;16.4;0.35;;1
+R;R2333;76130;76563;14.0;0.27;;1
+R;R2334;76130;76892;38.2;0.63;P033|P027;1
+R;R2335;76147;76497;23.6;0.35;;1
+R;R2336;76233;76377;24.9;0.80;;1
+R;R2337;76233;76606;41.5;0.81;P083;1
+R;R2338;76248;76306;8.6;0.20;;1
+R;R2339;76248;76318;11.6;0.18;P028;1
+R;R2340;76248;76377;47.4;0.87;P123|P107;1
+R;R2341;76248;76520;21.1;0.39;;1
+R;R2342;76248;76869;33.4;0.57;P123|P107;1
+R;R2343;76248;76890;38.1;0.62;P028;1
+R;R2344;76250;76400;24.2;0.47;;1
+R;R2345;76250;76622;23.3;0.44;;1
+R;R2346;76250;76823;33.6;0.66;;1
+R;R2347;76250;76863;11.5;0.26;;1
+R;R2348;76275;76563;14.2;0.25;;1
+R;R2349;76306;76318;11.6;0.23;;1
+R;R2350;76306;76520;28.5;0.55;;1
+R;R2351;76306;76890;38.1;0.67;;1
+R;R2352;76318;76606;52.1;0.81;;1
+R;R2353;76318;76869;39.5;0.67;P028|P123|P107;1
+R;R2354;76318;76890;28.2;0.50;;1
+R;R2355;76377;76606;28.1;0.52;;1
+R;R2356;76377;76869;35.0;0.66;;1
+R;R2357;76377;76892;23.3;0.55;;1
+R;R2358;76400;76403;8.3;0.16;;1
+R;R2359;76400;76622;17.6;0.44;;1
+R;R2360;76400;76823;10.6;0.25;;1
+R;R2361;76400;76863;22.5;0.42;;1
+R;R2362;76400;76895;25.4;0.41;;1
+R;R2363;76403;76497;10.8;0.16;;1
+R;R2364;76403;76823;16.5;0.36;;1
+R;R2365;76403;76895;19.1;0.27;;1
+R;R2366;76497;76823;15.1;0.40;;1
+R;R2367;76497;76895;26.0;0.35;;1
+R;R2368;76520;76563;18.6;0.35;;1
+R;R2369;76520;76892;28.6;0.48;P033|P027;1
+R;R2370;76606;76890;30.2;0.44;;1
+R;R2371;76616;76670;25.6;0.43;;1
+R;R2372;76616;76828;9.7;0.18;;1
+R;R2373;76616;76834;14.3;0.28;;1
+R;R2374;76622;76895;9.9;0.21;;1
+R;R2375;76670;76834;12.3;0.22;;1
+R;R2376;76670;76890;26.4;0.39;P013;1
+R;R2377;76736;76895;36.4;0.78;;1
+R;R2378;76823;76863;26.0;0.53;;1
+R;R2379;76869;76890;23.7;0.39;P094;1
+R;R2380;76869;76892;22.4;0.49;;1
+R;R2381;81001;81065;102.1;1.62;;1
+R;R2382;81001;81220;147.4;3.31;;1
+R;R2383;81001;81591;183.6;4.30;;1
+R;R2384;81001;81794;184.1;2.90;;1
+R;R2385;81001;99001;948.9;21.68;;1
+R;R2386;81065;81220;202.4;4.14;;1
+R;R2387;81065;81300;54.3;1.12;;1
+R;R2388;81065;81736;58.8;0.92;;1
+R;R2389;81220;81591;104.5;2.63;;1
+R;R2390;81220;99001;950.7;23.41;;1
+R;R2391;81300;81591;119.4;2.59;;1
+R;R2392;81300;81736;25.8;0.41;;1
+R;R2393;81300;81794;49.2;0.80;;1
+R;R2394;81300;85125;98.6;1.56;;1
+R;R2395;81591;81794;81.7;2.03;;1
+R;R2396;81591;85125;131.1;2.80;;1
+R;R2397;81794;85125;55.2;0.92;;1
+R;R2398;81794;85315;87.7;1.69;;1
+R;R2399;85001;85010;27.2;0.39;;1
+R;R2400;85001;85225;55.9;1.07;;1
+R;R2401;85001;85279;63.8;1.01;;1
+R;R2402;85001;85325;103.7;2.38;;1
+R;R2403;85001;99001;710.7;18.11;;1
+R;R2404;85010;85139;55.1;1.04;;1
+R;R2405;85010;85279;38.9;0.73;;1
+R;R2406;85010;85410;41.5;0.63;;1
+R;R2407;85015;85279;18.5;0.47;;1
+R;R2408;85125;85250;41.6;0.68;;1
+R;R2409;85125;85263;61.1;0.98;;1
+R;R2410;85125;85315;65.1;1.33;;1
+R;R2411;85136;85315;29.2;0.90;;1
+R;R2412;85139;85162;90.1;1.77;;1
+R;R2413;85139;85230;234.3;5.34;;1
+R;R2414;85162;85300;42.3;0.68;;1
+R;R2415;85162;85410;30.2;0.65;;1
+R;R2416;85162;85440;44.6;0.56;P131;1
+R;R2417;85225;85263;56.5;1.08;;1
+R;R2418;85225;85325;85.9;2.29;;1
+R;R2419;85225;85400;77.2;2.25;;1
+R;R2420;85230;85325;107.2;2.70;;1
+R;R2421;85230;99524;201.5;7.54;;1
+R;R2422;85250;85263;21.8;0.37;;1
+R;R2423;85263;85325;64.0;1.79;;1
+R;R2424;85263;85400;48.7;1.63;;1
+R;R2425;85263;85430;56.4;1.59;;1
+R;R2426;85279;85410;73.4;1.20;;1
+R;R2427;85300;85440;42.8;0.65;P131;1
+R;R2428;85325;85430;9.9;0.28;;1
+R;R2429;85430;99624;112.8;4.22;;1
+R;R2430;85430;99773;358.4;12.93;;1
+R;R2431;86001;86571;48.8;1.03;;1
+R;R2432;86001;86755;75.1;1.70;;1
+R;R2433;86001;86885;16.4;0.28;;1
+R;R2434;86219;86749;8.0;0.15;;1
+R;R2435;86219;86755;13.0;0.23;;1
+R;R2436;86219;86760;6.8;0.12;;1
+R;R2437;86320;86568;59.3;1.14;;1
+R;R2438;86320;86569;56.5;1.02;;1
+R;R2439;86320;86865;44.4;0.84;;1
+R;R2440;86568;86569;26.5;0.48;;1
+R;R2441;86568;86865;90.1;1.61;;1
+R;R2442;86569;86571;70.2;1.34;;1
+R;R2443;86569;86865;87.3;1.49;;1
+R;R2444;86569;86885;59.7;1.34;;1
+R;R2445;86571;86885;34.1;1.06;;1
+R;R2446;86749;86755;5.7;0.10;;1
+R;R2447;86755;86885;74.6;1.86;;1
+R;R2448;86757;86865;9.9;0.16;;1
+R;R2449;86760;86865;224.4;4.33;;1
+R;R2450;95001;95025;29.7;0.75;;1
+R;R2451;95015;95025;45.1;1.14;;1
+R;R2452;99524;99624;82.7;2.29;;1
+R;R2453;99524;99773;339.5;12.71;;1

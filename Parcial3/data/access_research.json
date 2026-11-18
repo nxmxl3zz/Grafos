@@ -1,0 +1,86 @@
+{
+  "fecha_consulta": "2026-11-17",
+  "alcance": "San Andrés, Leticia, Inírida y Mitú se excluyeron del grafo de capitales: no tienen carretera continua al resto del país ni peajes; esta investigación documenta por qué. El catálogo de localidades sí las incluye. La ausencia de ruta en PERA indica que no está registrada, no que el viaje sea imposible. Los servicios y precios requieren confirmación.",
+  "ciudades": {
+    "91001": {
+      "nombre": "Leticia",
+      "estado": "Candidata por carretera y barcaza de vehículos; trayecto completo sin confirmar",
+      "explicacion": "Posible vía Venezuela y Brasil hasta Manaos; barcaza de vehículos a Tabatinga y carretera a Leticia. Falta confirmar embarque del conductor, fronteras, horarios y precio.",
+      "fuentes": [
+        {
+          "titulo": "Operador: barcaza Manaos–Tabatinga",
+          "url": "https://www.transamazonas.com.br/transporte-de-carga-em-balsa-manaus-tabatinga/"
+        },
+        {
+          "titulo": "Brasil: contratación de barcaza con rampa",
+          "url": "https://contratos.sistema.gov.br/storage/arp/2025_09/252459/rh1PktPAlZfopbkk42dxnphGkWEfGnWrJoBvJ40w.pdf"
+        },
+        {
+          "titulo": "Municipio: acceso vial Tabatinga–Leticia",
+          "url": "https://tabatinga.am.gov.br/2024/10/10/atencao-condutores/"
+        }
+      ]
+    },
+    "94001": {
+      "nombre": "Inírida",
+      "estado": "Corredor fluvial de carga; transporte de automóvil sin confirmar",
+      "explicacion": "Posible carretera a San José del Guaviare y barcaza por el río. Existe transporte de carga pesada; faltan confirmar servicio para autos, conductor y tarifa.",
+      "fuentes": [
+        {
+          "titulo": "SENA: transporte fluvial del Guaviare",
+          "url": "https://repositorio.sena.edu.co/bitstream/handle/11404/8729/Analisis_transporte_fluvial_Rio_Guaviare.pdf?isAllowed=y&sequence=1"
+        },
+        {
+          "titulo": "Plan logístico de carga pesada",
+          "url": "https://es.scribd.com/document/1034871063/Plan-transporte-FRACHT-Proyecto-SOL-DE-INIRIDA"
+        }
+      ]
+    },
+    "97001": {
+      "nombre": "Mitú",
+      "estado": "Corredor fluvial de carga; transporte de automóvil sin confirmar",
+      "explicacion": "Posible ruta por Calamar y los ríos Unilla y Vaupés. Falta confirmar transporte de automóvil y paso de los raudales, así como tarifa y tiempos.",
+      "fuentes": [
+        {
+          "titulo": "SENA: corredores y operadores fluviales",
+          "url": "https://repositorio.sena.edu.co/bitstream/handle/11404/8729/Analisis_transporte_fluvial_Rio_Guaviare.pdf?isAllowed=y&sequence=1"
+        },
+        {
+          "titulo": "Municipio: vías de comunicación",
+          "url": "https://www.mitu-vaupes.gov.co/MiMunicipio/Paginas/Vias-de-Comunicacion.aspx"
+        }
+      ]
+    },
+    "88001": {
+      "nombre": "San Andrés",
+      "estado": "Envío marítimo de vehículos anunciado; ferry sin confirmar",
+      "explicacion": "Un operador anuncia envío de vehículos desde Cartagena; no está confirmado un ferry con acceso rodado ni viaje del conductor. Requiere cotización.",
+      "fuentes": [
+        {
+          "titulo": "Operador: envío marítimo de vehículos",
+          "url": "https://lataminvescorp.com/servicios"
+        },
+        {
+          "titulo": "Operador: carga marítima Cartagena–San Andrés",
+          "url": "https://www.aercargoservices.com/servicios/"
+        }
+      ]
+    },
+    "99001": {
+      "nombre": "Puerto Carreño",
+      "estado": "Carretera estacional; verificar condiciones",
+      "explicacion": "Las autoridades describen acceso por carretera en verano y dificultades en invierno. Algunos recorridos incluyen planchón; disponibilidad y tarifa requieren confirmación.",
+      "fuentes": [
+        {
+          "titulo": "MinHacienda: rutas estacionales",
+          "url": "https://www.minhacienda.gov.co/documents/d/portal/ivf_puerto_carreno_2023?download=true"
+        },
+        {
+          "titulo": "Parques Nacionales: ruta y planchón",
+          "url": "https://www.parquesnacionales.gov.co/wp-content/uploads/2025/07/ABC-PARA-VISITAR-EL-PNN-EL-TUPARRO.pdf"
+        }
+      ]
+    }
+  },
+  "csv_sha256": "4c5a38a0caeade75a39b4e1860d24e4d03b224c9757bb95cc1852931ca512d32"
+}

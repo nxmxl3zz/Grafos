@@ -1,0 +1,9 @@
+50;Raíz;1
+30;Izquierdo;1
+20;Hoja A;1
+10;Nuevo;1
+40;Hoja B;1
+70;Derecho;1
+60;Hoja C;1
+65;Medio;1
+80;Hoja D;1
